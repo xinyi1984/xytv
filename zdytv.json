@@ -1,34 +1,3 @@
-
-
-Request Head:
-
-GET /api/from.php?key=666&imei=Xiaomi-M2102K1C-SKQ1.220303.001+test-keys--12 HTTP/1.1
-Cookie: 
-User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; M2102K1C Build/SKQ1.220303.001)
-Host: youknow2022.tk
-Connection: Keep-Alive
-Accept-Encoding: gzip
-
-
-Body:
-
-
-
-Response Head:
-
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=UTF-8
-Content-Encoding: gzip
-Vary: Accept-Encoding
-Server: Microsoft-IIS/7.5
-X-Powered-By: PHP/7.2.34
-X-Powered-By: ASP.NET
-Date: Sat, 07 May 2022 06:50:26 GMT
-Content-Length: 1614
-
-
-Body:
-
 {
 	"data":{
 		"host":{
