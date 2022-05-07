@@ -1,4 +1,40 @@
-	"msg":"⊙ 本APP所有资源来源于网络公开站点自动采集,
+
+
+Request Head:
+
+GET /api/from.php?key=666&imei=Xiaomi-M2102K1C-SKQ1.220303.001+test-keys--12 HTTP/1.1
+Cookie: 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; M2102K1C Build/SKQ1.220303.001)
+Host: youknow2022.tk
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+Body:
+
+
+
+Response Head:
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-Powered-By: PHP/7.2.34
+X-Powered-By: ASP.NET
+Date: Sat, 07 May 2022 06:50:26 GMT
+Content-Length: 1614
+
+
+Body:
+
+{
+	"data":{
+		"host":{
+			"0":"http:\/\/youknow2022.tk"
+		},
+		"msg":"⊙ 本APP所有资源来源于网络公开站点自动采集,
 		作者不参与任何触犯影视版权的行为.\n\n⊙ 本APP仅供内部使用,
 		禁止售卖、禁止外传、否则将不再发布!\n\n⊙ 本APP支持自定义片源,
 		只需在参数设置处提供相同格式的json文本链接即可,
@@ -157,3 +193,4 @@
 			}
 		}
 	}
+}
