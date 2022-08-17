@@ -13,10 +13,10 @@
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
-      "key": "AliPS",
-      "name": "盘搜",
+      "key": "Yisou",
+      "name": "易搜",
       "type": 3,
-      "api": "csp_AliPS",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -33,10 +33,10 @@
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
-      "key": "Yisou",
-      "name": "易搜",
+      "key": "AliPS",
+      "name": "盘搜",
       "type": 3,
-      "api": "csp_Yisou",
+      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
