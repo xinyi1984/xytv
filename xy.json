@@ -9,7 +9,7 @@
       "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
@@ -19,7 +19,7 @@
       "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
@@ -29,7 +29,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
@@ -39,7 +39,7 @@
       "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
