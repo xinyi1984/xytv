@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
       "key": "AliPS",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
       "key": "zhaozy",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
       "key": "Yisou",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "d821c513b9d743c8921c692f17de5a82"
     },
     {
       "key": "push_agent",
@@ -50,7 +50,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": ""
+      "ext": "d821c513b9d743c8921c692f17de5a82"
     }
   ],
   "lives": [
