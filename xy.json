@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "d821c513b9d743c8921c692f17de5a82"
+      "ext": ""
     },
     {
       "key": "AliPS",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "d821c513b9d743c8921c692f17de5a82"
+      "ext": ""
     },
     {
       "key": "zhaozy",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "d821c513b9d743c8921c692f17de5a82"
+      "ext": ""
     },
     {
       "key": "Yisou",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "d821c513b9d743c8921c692f17de5a82"
+      "ext": ""
     },
     {
       "key": "push_agent",
@@ -50,7 +50,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "d821c513b9d743c8921c692f17de5a82"
+      "ext": ""
     }
   ],
   "lives": [
@@ -443,5 +443,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "clan://0TVbox/bz/wallpaper1.webp",
-  "spider": "https://gitea.com/xinyi1984/TV/raw/branch/main/custom_spider.jar"
+  "spider": "https://gitee.com/xinyitv/xinyi/raw/master//custom_spider.jar"
   }
