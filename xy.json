@@ -3,6 +3,26 @@
 // 源
   "sites": [
     {
+      "key": "csp_YydsAli1",
+      "name": "YYDS阿里(爬虫)",
+      "type": 3,
+      "api": "csp_YydsAli1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+},
+{
+      "key": "Yiso",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_Yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+},     
+{
       "key": "Gitcafe",
       "name": "小纸条",
       "type": 3,
@@ -10,9 +30,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "67ae2916043b4cd0a90c7ee93c86f74c"
-    },
-    {
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+},
+{
       "key": "AliPS",
       "name": "盘搜",
       "type": 3,
@@ -20,9 +40,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "67ae2916043b4cd0a90c7ee93c86f74c"
-    },
-    {
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+},
+{
       "key": "zhaozy",
       "name": "找资源",
       "type": 3,
@@ -30,19 +50,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "67ae2916043b4cd0a90c7ee93c86f74c"
-    },
-    {
-      "key": "Yisou",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "67ae2916043b4cd0a90c7ee93c86f74c"
-    },
-    {
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+},
+{
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -50,8 +60,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "67ae2916043b4cd0a90c7ee93c86f74c"
-    }
+      "ext": "aa5a9e477c3a42468814f09daa7045df"
+}
   ],
   "lives": [
     {
