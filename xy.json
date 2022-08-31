@@ -2,15 +2,15 @@
 {
 // 源
   "sites": [
-    {
-      "key": "csp_YydsAli1",
+{
+      "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
       "type": 3,
-      "api": "csp_YydsAli1",
+      "api": "csp_yyds",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aa5a9e477c3a42468814f09daa7045df"
+      "ext": "aa5a9e477c3a42468814f09daa7045df&399232408@qq.com&abcd1234"
 },
 {
       "key": "Yiso",
