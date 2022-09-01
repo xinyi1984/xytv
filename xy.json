@@ -2,6 +2,13 @@
 {
 // 源
   "sites": [
+/*{     "key": "T4",
+      "name": "T4",
+      "type": 4,
+      "api": "http://222.85.178.153:6688/vod?sites=all&ali_token=aa5a9e477c3a42468814f09daa7045df",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1},*/
 {
       "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
@@ -62,7 +69,10 @@
       "filterable": 0,
       "ext": "aa5a9e477c3a42468814f09daa7045df"
 }
-  ],
+           ],
+
+           
+
   "lives": [
     {
       "group": "redirect",
