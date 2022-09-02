@@ -7,7 +7,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/xinyi1984/TV/raw/branch/main/py_zhaozy.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/xinyi1984/TV/raw/branch/main/py_pansou.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_pansou.py"
 	},{
 		"key": "py_yiso",
 		"name": "易搜",
@@ -25,7 +25,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/xinyi1984/TV/raw/branch/main/py_yiso.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yiso.py"
 	}, {
 		"key": "py_gitcafe",
 		"name": "小纸条",
@@ -34,7 +34,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/xinyi1984/TV/raw/branch/main/py_gitcafe.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_gitcafe.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
@@ -43,7 +43,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://gitea.com/xinyi1984/TV/raw/branch/main/py_ali.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py"
 	}],
 "lives": [
     {
