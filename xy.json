@@ -2,13 +2,6 @@
 {
 // 源
   "sites": [
-/*{     "key": "T4",
-      "name": "T4",
-      "type": 4,
-      "api": "http://222.85.178.153:6688/vod?sites=all&ali_token=aa5a9e477c3a42468814f09daa7045df",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},*/
 {
       "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
@@ -21,7 +14,7 @@
 },
 {
       "key": "Yiso",
-      "name": "易搜",
+      "name": "🎯易搜",
       "type": 3,
       "api": "csp_Yiso",
       "searchable": 1,
@@ -31,7 +24,7 @@
 },     
 {
       "key": "Gitcafe",
-      "name": "小纸条",
+      "name": "🔖小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -41,7 +34,7 @@
 },
 {
       "key": "AliPS",
-      "name": "盘搜",
+      "name": "📀盘搜",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -51,7 +44,7 @@
 },
 {
       "key": "zhaozy",
-      "name": "找资源",
+      "name": "🔍找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -61,7 +54,7 @@
 },
 {
       "key": "push_agent",
-      "name": "推送",
+      "name": "📨推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
