@@ -9,6 +9,15 @@
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
 	}, {
+		"key": "py_zhaozy",
+		"name": "找资源",
+		"type": 3,
+		"api": "py_zhaozy",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
+	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
 		"type": 3,
