@@ -1,13 +1,13 @@
 {
 	"sites": [{
-		"key": "py_zhaozy",
-		"name": "找资源",
+		"key": "py_yydshd",
+		"name": "yydshd",
 		"type": 3,
-		"api": "py_zhaozy",
+		"api": "py_yydshd",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yydshd.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
