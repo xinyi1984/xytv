@@ -46,7 +46,7 @@
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_gitcafe.py"
 	}, {
 		"key": "py_alist",
-		"name": "alis",
+		"name": "alist",
 		"type": 3,
 		"api": "py_alist",
 		"searchable": 1,
