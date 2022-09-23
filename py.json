@@ -45,6 +45,15 @@
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_gitcafe.py"
 	}, {
+		"key": "py_alist",
+		"name": "alis",
+		"type": 3,
+		"api": "py_alist",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_alist.py"
+	}, {
 		"key": "push_agent",
 		"name": "阿里",
 		"type": 3,
