@@ -1,5 +1,11 @@
 {
 	"sites": [
+              {"key":"豆瓣",
+              "type":3,
+              "api":"js_douban",
+              "searchable":0,
+              "quickSearch":0,
+              "ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"},
               {"key":"kunyu77_js",
               "name":"酷云77(js)",
               "type":3,
