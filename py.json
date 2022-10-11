@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py?extend=fe0f9fa4bfbe401285f056253a0f9354"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
