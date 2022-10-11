@@ -35,7 +35,16 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "clan://0TVbox/py/py_yiso.py"
-	}, {
+	},{
+		"key": "py_yunso",
+		"name": "云搜",
+		"type": 3,
+		"api": "py_yunso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yunso.py"
+    },{
 		"key": "py_gitcafe",
 		"name": "小纸条",
 		"type": 3,
