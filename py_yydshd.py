@@ -57,7 +57,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				suffix = '会员 '
 			mark = suffix
 			try:
-				mark = suffix + vod['tags'][0 1]['title'] + ' ' + vod['subtitle']
+				mark = suffix + vod['tags'][0, 1]['title'] + ' ' + vod['subtitle']
 				pass
 			except Exception as e:
 				pass
