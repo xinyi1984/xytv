@@ -50,7 +50,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		videos = []
 		for vod in vodList:
 			name = vod['title']
-			pic = vod['cover']
+			pic = vod['cover'] + vod['tags']
 			sid = vod['id']
 			suffix = ''
 			if vod['is_vip'] == 1:
