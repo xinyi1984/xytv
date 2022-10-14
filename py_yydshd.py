@@ -49,12 +49,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		vodList = jo['data']['list']
 		videos = []
 		for vod in vodList:
-			name = vod['tags'][0]['title']
-            try:
-				name = vod['tags'][0]['title'] + ' ' + vod['title']
-				pass
-			except Exception as e:
-				pass
+			name = vod['tags'][0]['title'] + vod['title']
 			pic = vod['cover']
 			sid = vod['id']
 			suffix = ''
