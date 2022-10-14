@@ -39,8 +39,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
 		form = {
-			'limit': 24,
-			'skip': int(pg) * 24 - 24,
+			'limit': 12,
+			'skip': int(pg) * 12 - 12,
 			'keyword': '',
 			'category_id': tid,
 		}
@@ -52,7 +52,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 			name = vod['title']
 			pic = vod['cover']
 			sid = vod['id']
-            sid = tags['tag_id']
 			suffix = ''
 			if vod['is_vip'] == 1:
 				suffix = ' 会员'
