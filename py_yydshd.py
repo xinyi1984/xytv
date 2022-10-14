@@ -50,12 +50,12 @@ class Spider(Spider):  # 元类 默认的元类 type
 		videos = []
 		for vod in vodList:
 			name = vod['title']
-			pic = vod['cover'] + vod['tags']
+			pic = vod['cover']
 			sid = vod['id']
 			suffix = ''
 			if vod['is_vip'] == 1:
 				suffix = ' 会员'
-			mark = vod['subtitle'].split()[0] + vod['subtitle'].split()[1] + str(vod['score']) + suffix
+			mark = vod['subtitle'].split()[0] + vod['subtitle'].split()[1] + str(vod['score']) + suffix + vod['tags']
 			videos.append({
 				"vod_id":sid,
 				"vod_name":mark,
