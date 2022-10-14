@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354&399232408@qq.com&abcd1234"
+      "ext": "4f968c9269084eb289e308563bbc8422&399232408@qq.com&abcd1234"
 },
 {
       "key": "Yiso",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354"
+      "ext": "4f968c9269084eb289e308563bbc8422"
 },     
 {
       "key": "Gitcafe",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354"
+      "ext": "4f968c9269084eb289e308563bbc8422"
 },
 {
       "key": "AliPS",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354"
+      "ext": "4f968c9269084eb289e308563bbc8422"
 },
 {
       "key": "zhaozy",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354"
+      "ext": "4f968c9269084eb289e308563bbc8422"
 },
 {
       "key": "push_agent",
@@ -68,7 +68,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "fe0f9fa4bfbe401285f056253a0f9354"
+      "ext": "4f968c9269084eb289e308563bbc8422"
 }
            ],
 
@@ -92,7 +92,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"fe0f9fa4bfbe401285f056253a0f9354","type":"alidrive"}
+{"name":"阿里云盘","password":"4f968c9269084eb289e308563bbc8422","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
