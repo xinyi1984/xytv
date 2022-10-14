@@ -55,9 +55,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 			suffix = ''
 			if vod['is_vip'] == 1:
 				suffix = ' 会员'
-                			mark = suffix
+ 			mark = suffix
 			try:
-				mark = suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle'].split()[0] + vod['subtitle'].split()[1] + str(vod['score'])
+				mark = suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle']
 				pass
 			except Exception as e:
 				pass
