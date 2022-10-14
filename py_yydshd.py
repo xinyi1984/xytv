@@ -52,7 +52,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			name = vod['title']
 			pic = vod['cover']
 			sid = vod['id']
-            mark =  vod['subtitle']
+            mark = vod['subtitle']
 			videos.append({
 				"vod_id":sid,
 				"vod_name":name,
