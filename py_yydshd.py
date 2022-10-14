@@ -58,9 +58,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 			mark = vod['subtitle'].split()[0] + vod['subtitle'].split()[1]
 			videos.append({
 				"vod_id":sid,
-				"vod_name":name,
+				"vod_name":mark,
 				"vod_pic":pic,
-				"vod_remarks":mark
+				"vod_remarks":name
 			})
 		result['list'] = videos
 		result['page'] = pg
