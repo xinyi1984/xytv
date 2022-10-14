@@ -51,7 +51,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		for vod in vodList:
 			name = vod['title']
             try:
-				mark = vod['tags'][0]['title'] + ' ' + vod['title']
+				name = vod['tags'][0]['title'] + ' ' + vod['title']
 				pass
 			except Exception as e:
 				pass
