@@ -52,15 +52,17 @@ class Spider(Spider):  # 元类 默认的元类 type
 			name = vod['title']
 			pic = vod['cover']
 			sid = vod['id']
+            tags = vod['tags']
 			suffix = ''
 			if vod['is_vip'] == 1:
 				suffix = ' 会员'
-			mark = vod['subtitle'].split()[0] + vod['subtitle'].split()[1] + str(vod['score']) + suffix + vod['tag_id']
+			mark = vod['subtitle'].split()[0] + vod['subtitle'].split()[1] + str(vod['score']) + suffix
 			videos.append({
 				"vod_id":sid,
 				"vod_name":mark,
 				"vod_pic":pic,
-				"vod_remarks":name
+				"vod_remarks":name,
+                "vod_tags":tags
 			})
 		result['list'] = videos
 		result['page'] = pg
