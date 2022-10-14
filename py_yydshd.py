@@ -49,7 +49,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		vodList = jo['data']['list']
 		videos = []
 		for vod in vodList:
-			name = vod['tags'][0]['title']   + vod['title']
+			name = vod['tags'][0]['title'] + vod['title']
 			pic = vod['cover']
 			sid = vod['id']
 			suffix = ''
@@ -58,9 +58,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 			mark = vod['subtitle'].split()[0] + str(vod['score']) + suffix + vod['subtitle'].split()[1]
 			videos.append({
 				"vod_id":sid,
-				"vod_name":mark,
+				"vod_name":name,
 				"vod_pic":pic,
-				"vod_remarks":name
+				"vod_remarks":mark
 			})
 		result['list'] = videos
 		result['page'] = pg
