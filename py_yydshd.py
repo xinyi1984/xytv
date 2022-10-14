@@ -52,7 +52,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 			name = vod['title']
 			pic = vod['cover']
 			sid = vod['id']
-            sid = vod['tags']
 			suffix = ''
 			if vod['is_vip'] == 1:
 				suffix = ' 会员'
