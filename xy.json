@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&399232408@qq.com&abcd1234"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200&399232408@qq.com&abcd1234"
 },
 {
       "key": "Yiso",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
 },     
 {
       "key": "Gitcafe",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
 },
 {
       "key": "AliPS",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
 },
 {
       "key": "zhaozy",
@@ -50,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
 },
 {
       "key": "push_agent",
@@ -60,7 +60,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
 }
            ],
          
@@ -82,7 +82,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"},
+{"name":"阿里云盘","password":"cf0dbf6d5a064b76af9e63d91b0d2200","type":"alidrive"},
 {"name": "小棉袄仓库","plugin": "alist","server": "http://pan.haikuoshijie.cn/","userName":"","password":"","type":"plugin"}, 
 {"name": "嗨翻","plugin": "alist","server": "https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
 {"name": "非盘","plugin": "alist","server": "http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
