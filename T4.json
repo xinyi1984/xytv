@@ -4,7 +4,7 @@
             "key": "T4",
             "name": "T4",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=4f968c9269084eb289e308563bbc8422&douban=262163006",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://gitee.com/xinyitv/xinyi/raw/master/token.txt&douban=262163006",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
