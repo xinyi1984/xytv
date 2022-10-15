@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200&399232408@qq.com&abcd1234"
+      "ext": "7a25b79483f240228eff5f968cafb934&399232408@qq.com&abcd1234"
 },
 {
       "key": "Yiso",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
+      "ext": "7a25b79483f240228eff5f968cafb934"
 },     
 {
       "key": "Gitcafe",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
+      "ext": "7a25b79483f240228eff5f968cafb934"
 },
 {
       "key": "AliPS",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
+      "ext": "7a25b79483f240228eff5f968cafb934"
 },
 {
       "key": "zhaozy",
@@ -50,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
+      "ext": "7a25b79483f240228eff5f968cafb934"
 },
 {
       "key": "push_agent",
@@ -60,7 +60,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "cf0dbf6d5a064b76af9e63d91b0d2200"
+      "ext": "7a25b79483f240228eff5f968cafb934"
 }
            ],
          
@@ -82,7 +82,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"cf0dbf6d5a064b76af9e63d91b0d2200","type":"alidrive"},
+{"name":"阿里云盘","password":"7a25b79483f240228eff5f968cafb934","type":"alidrive"},
 {"name": "小棉袄仓库","plugin": "alist","server": "http://pan.haikuoshijie.cn/","userName":"","password":"","type":"plugin"}, 
 {"name": "嗨翻","plugin": "alist","server": "https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
 {"name": "非盘","plugin": "alist","server": "http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
