@@ -28,7 +28,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"fe0f9fa4bfbe401285f056253a0f9354","type":"alidrive"}
+{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
