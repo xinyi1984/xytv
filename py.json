@@ -77,7 +77,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py?extend=2d86b856731e4e50ad752c04310a234b"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py?extend=7a25b79483f240228eff5f968cafb934"
 	}],
 "lives": [
     {
@@ -97,7 +97,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"2d86b856731e4e50ad752c04310a234b","type":"alidrive"}
+{"name":"阿里云盘","password":"7a25b79483f240228eff5f968cafb934","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
