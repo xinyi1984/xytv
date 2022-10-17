@@ -395,7 +395,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		url = 'https://api.aliyundrive.com/token/refresh'
 		if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
 			form = {
-				'refresh_token':'fe0f9fa4bfbe401285f056253a0f9354'				
+				'refresh_token':'https://gitee.com/xinyitv/xinyi/raw/master/token.txt'				
 			}
 			try:
 				if len(self.extend) > 0:
