@@ -432,7 +432,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
             token = requests.get('https://kebedd69.github.io/TVbox-interface/token.json').text
             form = {
-                'refresh_token': token
+                'refresh_token': https://gitee.com/xinyitv/xinyi/raw/master/token.txt
             }
             rsp = requests.post(url, json=form, headers=self.header)
             jo = json.loads(rsp.text)
