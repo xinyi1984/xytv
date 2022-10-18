@@ -9,6 +9,7 @@ import requests
 import time
 import re
 
+
 class Spider(Spider):  # 元类 默认的元类 type
     def getName(self):
         return "阿里云盘"
@@ -399,18 +400,19 @@ class Spider(Spider):  # 元类 默认的元类 type
             jo = json.loads(rsp.text)
             ja = jo['items']
             if dirname != '':
-                dirname = '[' + dirname + ']'
+                dirname = '[' + dirname + ']|'
             for jt in ja:
                 if jt['type'] == 'folder':
                     al = jt['file_id'] + '@@@' + jt['name']
                     arrayList.append(al)
                 else:
                     if 'video' in jt['mime_type'] or 'video' in jt['category']:
-                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                        remark = self.getsize(jt['size'])
+                        repStr = dirname + jt['name'] + remark.replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
                         map[repStr] = shareId + "+" + shareToken + "+" + jt['file_id'] + "+" + jt['category'] + "+"
-                    elif 'others' == jt['category'] and (
-                            'srt' == jt['file_extension'] or 'ass' == jt['file_extension']):
-                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                    elif 'others' == jt['category'] and ('srt' == jt['file_extension'] or 'ass' == jt['file_extension']):
+                        remark = self.getsize(jt['size'])
+                        repStr = dirname + jt['name'] + remark.replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
                         subtitle[repStr] = jt['file_id']
             maker = jo['next_marker']
             i = i + 1
@@ -432,7 +434,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
             token = requests.get('https://kebedd69.github.io/TVbox-interface/token.json').text
             form = {
-                'refresh_token': '7a25b79483f240228eff5f968cafb934'
+                'refresh_token': token
             }
             rsp = requests.post(url, json=form, headers=self.header)
             jo = json.loads(rsp.text)
@@ -444,6 +446,27 @@ class Spider(Spider):  # 元类 默认的元类 type
             return False
         else:
             return True
+
+    def getsize(self, size):
+        size = int(size)
+        if size > 1024 * 1024 * 1024 * 1024.0:
+            fs = "TB"
+            sz = round(size / (1024 * 1024 * 1024 * 1024.0), 2)
+        elif size > 1024 * 1024 * 1024.0:
+            fs = "GB"
+            sz = round(size / (1024 * 1024 * 1024.0), 2)
+        elif size > 1024 * 1024.0:
+            fs = "MB"
+            sz = round(size / (1024 * 1024.0), 2)
+        elif size > 1024.0:
+            fs = "KB"
+            sz = round(size / (1024.0), 2)
+        else:
+            fs = "KB"
+            sz = round(size / (1024.0), 2)
+        remark = '/[' + str(sz) + fs + ']'
+        return remark
+
 
         # print(self.authorization)
         # print(self.timeoutTick)
