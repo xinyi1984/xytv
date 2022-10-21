@@ -21,6 +21,15 @@
       "ext": "7a25b79483f240228eff5f968cafb934&399232408@qq.com&abcd1234"
 },
 {
+      "key": "Upyunso",
+      "name": "up云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7a25b79483f240228eff5f968cafb934"
+},     {
       "key": "Yiso",
       "name": "🎯易搜",
       "type": 3,
