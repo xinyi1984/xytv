@@ -163,7 +163,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             'vod_name': infoJo['share_name'],
             'vod_pic': infoJo['avatar'],
             'vod_content': tid,
-            'vod_play_from': 'AliYun原画$$$AliYun'
+            'vod_play_from': '原画AliYun$$$AliYun'
         }
         fileType = fileInfo['type']
         if fileType != 'folder':
@@ -408,11 +408,11 @@ class Spider(Spider):  # 元类 默认的元类 type
                 else:
                     if 'video' in jt['mime_type'] or 'video' in jt['category']:
                         remark = self.getsize(jt['size'])
-                        repStr = dirname + jt['name'] + remark.replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1] + remark
                         map[repStr] = shareId + "+" + shareToken + "+" + jt['file_id'] + "+" + jt['category'] + "+"
                     elif 'others' == jt['category'] and ('srt' == jt['file_extension'] or 'ass' == jt['file_extension']):
                         remark = self.getsize(jt['size'])
-                        repStr = dirname + jt['name'] + remark.replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1] + remark
                         subtitle[repStr] = jt['file_id']
             maker = jo['next_marker']
             i = i + 1
@@ -423,7 +423,11 @@ class Spider(Spider):  # 元类 默认的元类 type
                 dirname = items[1]
             self.listFiles(map, shareId, shareToken, item, dirname, subtitle)
         for key in map.keys():
+            if ']|' in key:
+                key = key.split(']|')[1].split('/[')[0]
             for subKey in subtitle.keys():
+                if ']|' in subKey:
+                    subKey = subKey.split(']|')[1].split('/[')[0]
                 if key in subKey and map[key][-1] == "+":
                     map[key] = map[key] + subtitle[subKey]
                     break
@@ -432,7 +436,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         self.localTime = int(time.time())
         url = 'https://api.aliyundrive.com/token/refresh'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
-            token = '7a25b79483f240228eff5f968cafb934'
+            token = requests.get('http://xn--4bra.live/json/alitoken.json').text
             form = {
                 'refresh_token': token
             }
