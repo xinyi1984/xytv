@@ -163,7 +163,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             'vod_name': infoJo['share_name'],
             'vod_pic': infoJo['avatar'],
             'vod_content': tid,
-            'vod_play_from': '原画AliYun$$$AliYun'
+            'vod_play_from': 'AliYun原画$$$AliYun'
         }
         fileType = fileInfo['type']
         if fileType != 'folder':
@@ -436,7 +436,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         self.localTime = int(time.time())
         url = 'https://api.aliyundrive.com/token/refresh'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
-            token = requests.get('http://xn--4bra.live/json/alitoken.json').text
+            token = '7a25b79483f240228eff5f968cafb934'
             form = {
                 'refresh_token': token
             }
