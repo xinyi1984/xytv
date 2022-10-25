@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&399232408@qq.com&abcd1234"
+      "ext": "7a25b79483f240228eff5f968cafb934&399232408@qq.com&abcd1234"
 },
 {
       "key": "Upyunso",
@@ -102,7 +102,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"}
+{"name":"阿里云盘","password":"7a25b79483f240228eff5f968cafb934","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
