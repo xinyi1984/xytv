@@ -24,12 +24,15 @@ class Spider(Spider):  # 元类 默认的元类 type
     def homeContent(self, filter):
         result = {}
         cateManual = {
-            "七米蓝": "https://al.chirmyram.com",
+             "七米蓝": "https://al.chirmyram.com",
+            "3D": "https://alist.arhomenet.tk",
             "梅花盘": "https://pan.142856.xyz/OneDrive",
             "触光云盘": "https://pan.ichuguang.com",
             "小孟资源": "https://8023.haohanba.cn/小孟丨资源大合集/无损音乐",
             "资源小站": "https://960303.xyz/ali",
             "轻弹浅唱": "https://g.xiang.lol",
+            "🦀9T(Adult)":"https://drive.9t.ee",
+            "公益盘": "http://43.139.29.179:5245",
             "小兵组网盘视频": "https://6vv.app"
         }
         classes = []
