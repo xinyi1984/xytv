@@ -79,19 +79,19 @@
 		"filterable": 0,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py?extend=7a25b79483f240228eff5f968cafb934"
 	}],
-"lives": [
+ "lives": [
     {
       "group": "redirect",
       "channels": [
         {
-          "name": "redirect",
+          "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://wds.ecsxs.com/226400.txt"
+            "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="
           ]
         }
       ]
     }
-  ], 
+  ],
   "parses": [
     {
       "name": "默认选项",
