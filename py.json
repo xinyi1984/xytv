@@ -21,26 +21,6 @@
 		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/酷云77.js"
        },
        {
-		"key":"芒果_js",
-		"name":"芒果(js)",
-		"type":3,
-		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
-		"searchable":1,
-		"quickSearch":0,
-		"filterable":0,
-		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/芒果.js"
-       },
-       {
-		"key":"AnFuns_js",
-		"name":"AnFuns(js)",
-		"type":3,
-		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
-		"searchable":1,
-		"quickSearch":0,
-		"filterable":0,
-		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/AnFuns.js"
-       },
-       {
 		"key": "py_yydshd",
 		"name": "yyds",
 		"type": 3,
@@ -49,7 +29,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yydshd.py"
-	}, {
+       }, 
+       {
 		"key": "py_zhaozy",
 		"name": "找资源",
 		"type": 3,
@@ -58,7 +39,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
-	}, {
+       }, 
+       {
 		"key": "py_pansou",
 		"name": "盘搜",
 		"type": 3,
@@ -67,7 +49,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_pansou.py"
-	},{
+       },
+       {
 		"key": "py_yiso",
 		"name": "易搜",
 		"type": 3,
@@ -76,7 +59,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "clan://0TVbox/py/py_yiso.py"
-	},{
+       },
+       {
 		"key": "py_yunso",
 		"name": "云搜",
 		"type": 3,
@@ -85,7 +69,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yunso.py"
-    },{
+       },
+       {
 		"key": "py_gitcafe",
 		"name": "小纸条",
 		"type": 3,
@@ -94,7 +79,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_gitcafe.py"
-	}, {
+       }, 
+       {
 		"key": "py_alist",
 		"name": "alist",
 		"type": 3,
@@ -103,7 +89,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_alist.py"
-	}, {
+       }, 
+       {
 		"key": "push_agent",
 		"name": "阿里",
 		"type": 3,
@@ -112,7 +99,8 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py?extend=7a25b79483f240228eff5f968cafb934"
-	}],
+       }],
+
 "lives": [
     {
       "group": "redirect",
