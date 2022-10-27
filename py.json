@@ -1,9 +1,9 @@
 {
 	"sites": [
        {
-           "key":"豆瓣",
+		"key":"豆瓣",
 		"type":3,
-		"api":"js_douban",
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
 		"searchable":0,
 		"quickSearch":0,
 		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"
@@ -12,11 +12,31 @@
 		"key":"kunyu77_js",
 		"name":"酷云77(js)",
 		"type":3,
-		"api":"js_kunyu77",
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
 		"searchable":1,
 		"quickSearch":0,
 		"filterable":0,
 		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/kunyu77.js"
+       },
+       {
+		"key":"kunyu77_js",
+		"name":"芒果(js)",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
+		"searchable":1,
+		"quickSearch":0,
+		"filterable":0,
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/芒果.js"
+       },
+       {
+		"key":"kunyu77_js",
+		"name":"优酷(js)",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
+		"searchable":1,
+		"quickSearch":0,
+		"filterable":0,
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/优酷.js"
        },
        {
 		"key": "py_yydshd",
