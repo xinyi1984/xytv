@@ -91,7 +91,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitee.com/xinyitv/xinyi/raw/master/liveLogo.txt"
+            "proxy://do=live&type=txt&ext=https://wds.ecsxs.com/226400.txt"
           ]
         }
       ]
