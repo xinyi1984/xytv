@@ -1,6 +1,16 @@
 {
 	"sites": [
        {
+		"key":"豆瓣",
+        "name":"豆瓣(js)",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
+		"searchable":0,
+		"quickSearch":0,
+        "filterable":1,
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"
+       },
+       {
 		"key":"kunyu77_js",
 		"name":"酷云77(js)",
 		"type":3,
