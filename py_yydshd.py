@@ -40,7 +40,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result = {}
 		form = {
 			'limit': 12,
-			'skip': int(pg) * 12 - 12,
+			'skip': int(pg) * 24 - 24,
 			'keyword': '',
 			'category_id': tid,
 		}
