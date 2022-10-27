@@ -4,7 +4,7 @@
 		"key":"豆瓣",
         "name":"豆瓣(js)",
 		"type":3,
-		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
+		"api":"js_douban",
 		"searchable":0,
 		"quickSearch":0,
         "filterable":1,
