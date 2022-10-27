@@ -31,14 +31,14 @@
 		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/芒果.js"
        },
        {
-		"key":"优酷_js",
-		"name":"优酷(js)",
+		"key":"AnFuns_js",
+		"name":"AnFuns(js)",
 		"type":3,
 		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
 		"searchable":1,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/优酷.js"
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/AnFuns.js"
        },
        {
 		"key": "py_yydshd",
