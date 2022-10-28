@@ -124,7 +124,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 					tmpLink = play['item'][0]['link']
 				break
 		if len(tmpLink) > 0:
-			vod['vod_play_from'] = 'AliYun$$$AliYun原画'
+			vod['vod_play_from'] = '原画AliYun$$$AliYun'
 			newArray = [tmpLink]
 			rs = self.ali.detailContent(newArray)
 			vod['vod_play_url'] = rs['list'][0]['vod_play_url']
