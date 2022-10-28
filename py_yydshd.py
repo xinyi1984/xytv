@@ -20,7 +20,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"热门":"0",
 			"华语电影":"18",
 			"大陆剧":"15",
-			"华语综艺":"24"
+			"华语综艺":"10"
 		}
 		classes = []
 		for k in cateManual:
