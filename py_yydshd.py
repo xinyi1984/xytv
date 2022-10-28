@@ -49,7 +49,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		vodList = jo['data']['list']
 		videos = []
 		for vod in vodList:
-			name = vod['tags'][0]['title'] + vod['title']
+			name = vod['title']
 			pic = vod['cover']
 			sid = vod['id']
 			suffix = ''
@@ -57,15 +57,15 @@ class Spider(Spider):  # 元类 默认的元类 type
 				suffix = '会员 '
 			mark = suffix
 			try:
-				mark = suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle']
+				mark = vod['tags'][0]['title'] + suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle']
 				pass
 			except Exception as e:
 				pass
 			videos.append({
 				"vod_id":sid,
-				"vod_name":name,
+				"vod_name":mark,
 				"vod_pic":pic,
-				"vod_remarks":mark
+				"vod_remarks":name
 			})
 		result['list'] = videos
 		result['page'] = pg
