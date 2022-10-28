@@ -18,9 +18,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result = {}
 		cateManual = {
 			"热门":"0",
-			"电影":"3",
-			"剧集":"12",
-			"综艺":"10"
+			"华语电影":"18",
+			"大陆剧":"15",
+			"华语综艺":"24"
 		}
 		classes = []
 		for k in cateManual:
