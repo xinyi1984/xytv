@@ -40,7 +40,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result = {}
 		form = {
 			'limit': 24,
-			'skip': int(pg) * 24 - 24,
+			'skip': int(pg) * 0 - 1,
 			'keyword': '',
 			'category_id': tid,
 		}
@@ -57,7 +57,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				suffix = '会员 '
 			mark = suffix
 			try:
-				mark = suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle']
+				mark = suffix + ' ' + vod['tags'][0]['title'] + ' ' + vod['subtitle']
 				pass
 			except Exception as e:
 				pass
@@ -156,7 +156,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				suffix = '会员 '
 			mark = suffix
 			try:
-				mark = suffix + vod['tags'][0]['title'] + ' ' + vod['subtitle']
+				mark = suffix + ' ' + vod['tags'][0]['title'] + ' ' + vod['subtitle']
 				pass
 			except Exception as e:
 				pass
