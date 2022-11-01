@@ -162,9 +162,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 				pass
 			videos.append({
 				"vod_id":sid,
-				"vod_name":mark,
+				"vod_name":name,
 				"vod_pic":pic,
-				"vod_remarks":name
+				"vod_remarks":mark
 			})
 		result = {
 			'list':videos
