@@ -33,7 +33,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['class'] = classes
 		return result
 	def homeVideoContent(self):
-		form = {
+		url = "https://yydshd.com/index"
+        form = {
 			'limit': 24,
 			'skip': int(pg) * 0 - 1,
 			'keyword': '',
