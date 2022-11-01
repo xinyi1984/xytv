@@ -32,7 +32,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['class'] = classes
 		return result
 	def homeVideoContent(self):
-				result = {
+		result = {
 			'list':[]
 		}
 		return result
