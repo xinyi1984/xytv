@@ -17,7 +17,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-            "首页":"1",
 			"热门":"0",
 			"华语电影":"18",
 			"大陆剧":"15",
@@ -33,40 +32,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['class'] = classes
 		return result
 	def homeVideoContent(self):
-		url = "https://yydshd.com/index"
-        form = {
-			'limit': 24,
-			'skip': int(pg) * 0 - 1,
-			'keyword': '',
-			'category_id': tid,
+				result = {
+			'list':[]
 		}
-		rsp = self.post("https://cmn.yydshd.com/api/posts",data=form)
-		jo = json.loads(rsp.text)
-		vodList = jo['data']['list']
-		videos = []
-		for vod in vodList:
-			name = vod['title']
-			pic = vod['cover']
-			sid = vod['id']
-			suffix = ''
-			if vod['is_vip'] == 1:
-				suffix = '会员 '
-			mark = suffix
-			try:
-				mark = suffix + ' ' + vod['tags'][0]['title'] + ' ' + vod['subtitle']
-				pass
-			except Exception as e:
-				pass
-			videos.append({
-				"vod_id":sid,
-				"vod_name":mark,
-				"vod_pic":pic,
-				"vod_remarks":name
-			})
-             result = {
-            'list': videos
-        }
-        return result
+		return result
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
 		form = {
