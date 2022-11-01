@@ -17,7 +17,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"热门":"0",
+			"热门":"-1",
 			"华语电影":"18",
 			"大陆剧":"15",
 			"华语综艺":"24"
