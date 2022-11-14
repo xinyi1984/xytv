@@ -4,7 +4,7 @@
             "key": "T4",
             "name": "T4",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7a25b79483f240228eff5f968cafb934",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=63b5aabb7ca6487c8cde10c75e435a70",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -28,7 +28,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"7a25b79483f240228eff5f968cafb934","type":"alidrive"}
+{"name":"阿里云盘","password":"63b5aabb7ca6487c8cde10c75e435a70","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
