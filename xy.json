@@ -13,6 +13,24 @@
       "ext": "63b5aabb7ca6487c8cde10c75e435a70&399232408@qq.com&abcd1234"
 },
 {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+},
+{
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+},
+{
       "key": "Upyunso",
       "name": "🔍up云搜",
       "type": 3,
