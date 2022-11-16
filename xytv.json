@@ -3,14 +3,6 @@
 // 源
   "sites": [
 {
-        "key":"豆瓣",
- 		"type":3,
-		"api":"js_douban",
-		"searchable":0,
-		"quickSearch":0,
-		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"
-},
-{
       "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
       "type": 3,
@@ -19,6 +11,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "63b5aabb7ca6487c8cde10c75e435a70&399232408@qq.com&abcd1234"
+},
+{
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/alist.json"
+},
+{
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/bili.json"
 },
 {
       "key": "Upyunso",
