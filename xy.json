@@ -19,7 +19,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/alist.json"
 },
 {
       "key": "哔哩",
@@ -28,7 +28,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/bili.json"
 },
 {
       "key": "Upyunso",
