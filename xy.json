@@ -84,7 +84,7 @@
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
