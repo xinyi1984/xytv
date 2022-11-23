@@ -8,17 +8,17 @@
 		"searchable":0,
 		"quickSearch":0,
         "filterable":1,
-		"ext":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/douban.js"
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"
        },
        {
 		"key":"kunyu77_js",
 		"name":"酷云77(js)",
 		"type":3,
-		"api":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/drpy.min.js",
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
 		"searchable":1,
 		"quickSearch":0,
 		"filterable":1,
-		"ext":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/酷云77.js"
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/酷云77.js"
        },
        {
 		"key": "py_yydshd",
@@ -28,7 +28,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_yydshd.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yydshd.py"
        }, 
        {
 		"key": "py_qie",
@@ -38,7 +38,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_qie.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_qie.py"
        }, 
        {
 		"key": "py_freezb",
@@ -48,7 +48,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_freezb.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_freezb.py"
        },        
        {
 		"key": "py_zhaozy",
@@ -58,7 +58,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_zhaozy.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_zhaozy.py"
        }, 
        {
 		"key": "py_pansou",
@@ -68,7 +68,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_pansou.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_pansou.py"
        },
        {
 		"key": "py_yiso",
@@ -78,7 +78,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "clan://0TVbox/py/py_yiso.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yiso.py"
        },
        {
 		"key": "py_yunso",
@@ -88,7 +88,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_yunso.py"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_yunso.py"
        },
        {
 		"key": "py_gitcafe",
@@ -98,7 +98,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_gitcafe.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_gitcafe.py"
        }, 
        {
 		"key": "py_alist",
@@ -108,7 +108,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_alist.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_alist.py"
        }, 
        {
 		"key": "push_agent",
@@ -118,7 +118,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_ali.py"
+		"ext": "https://gitee.com/xinyitv/xinyi/raw/master/py_ali.py"
        }],
 
 /*"lives": [
@@ -143,7 +143,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/token.txt","type":"alidrive"}
+{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
