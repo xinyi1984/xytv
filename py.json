@@ -143,7 +143,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"63b5aabb7ca6487c8cde10c75e435a70","type":"alidrive"}
+{"name":"阿里云盘","password":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/token.txt","type":"alidrive"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
