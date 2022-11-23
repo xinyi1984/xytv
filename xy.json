@@ -112,14 +112,14 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"63b5aabb7ca6487c8cde10c75e435a70","type":"alidrive"},
-{"name": "小棉袄仓库","plugin": "alist","server": "http://pan.haikuoshijie.cn/","userName":"","password":"","type":"plugin"}, 
-{"name": "嗨翻","plugin": "alist","server": "https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
-{"name": "非盘","plugin": "alist","server": "http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
-{"name": "姬路白雪","plugin": "alist","server": "https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"}, 
-{"name": "听闻","plugin": "alist","server": "https://wangpan.sangxuesheng.com/","userName":"","password":"","type":"plugin"}, 
-{"name": "9T","plugin": "alist","server": "https://drive.9t.ee/","userName":"","password":"","type":"plugin"}, 
-{"name": "闪电加速器","plugin": "alist","server": "https://www.kugutsu.ml/","userName":"","password":"","type":"plugin"}
+{"name":"阿里云盘","password":"https://agit.ai/xinyi1984/xinyi/raw/branch/master/token.txt","type":"alidrive"},
+{"name": "小棉袄仓库","server": "http://pan.haikuoshijie.cn/","type":"alist"}, 
+{"name": "嗨翻","server": "https://pan.hikerfans.com/","type":"alist"},
+{"name": "非盘","server": "http://www.feifwp.top/","type":"alist"},
+{"name": "姬路白雪","server": "https://pan.jlbx.xyz/","type":"alist"}, 
+{"name": "听闻","server": "https://wangpan.sangxuesheng.com/","type":"alist"}, 
+{"name": "9T","server": "https://drive.9t.ee/","type":"alist"}, 
+{"name": "闪电加速器","server": "https://www.kugutsu.ml/","type":"alist"}
 ],
 
 // 壁纸 支持URL/颜色代码 (可选)
