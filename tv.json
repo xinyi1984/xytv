@@ -13,15 +13,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&399232408@qq.com&abcd1234"
 },
 {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/alist.json"
-},
-{
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
