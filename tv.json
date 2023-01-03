@@ -25,7 +25,7 @@
       "key": "Upyunso",
       "name": "🔍up云搜",
       "type": 3,
-      "api": "csp_Upyunso",
+      "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -96,10 +96,28 @@
 
            
 
-    "lives":[{"name":"综合一","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt",
-  "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-  {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt",
-  "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+    "lives": [
+    {
+      "name": "直播1",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/ray/tvlive.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "測試",
+      "type": 1,
+      "url": "https://gitee.com/xinyitv/xinyi/raw/master/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    }],
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "18"},
 
