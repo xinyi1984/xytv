@@ -34,7 +34,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/bili.json"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
     },
     {
       "key": "泥巴",
