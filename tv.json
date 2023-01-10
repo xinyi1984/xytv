@@ -93,10 +93,7 @@
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/Hiker_xyq.jar"
 }
            ],
-
-           
-
-     "lives": [
+ "lives": [
     {
       "name": "測試",
       "type": 1,
