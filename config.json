@@ -1,22 +1,29 @@
 {
   "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
+   "lives": [
     {
-      "name": "直播",
+      "name": "測試",
+      "type": 1,
+      "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    },
+    {
+      "name": "直播1",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "http://home.jundie.top:81/ray/tvlive.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "測試",
-      "type": 1,
-      "url": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],
+    ],
   "sites": [
     {
       "key": "紙條",
