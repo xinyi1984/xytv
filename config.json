@@ -36,6 +36,26 @@
 		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     },
     {
+		"key":"哔嘀影视",
+        "name":"哔嘀影视",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+		"searchable":0,
+		"quickSearch":0,
+        "filterable":1,
+		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/哔嘀影视.js"
+    },
+    {
+		"key":"LIBVIO.",
+        "name":"LIBVIO",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+		"searchable":0,
+		"quickSearch":0,
+        "filterable":1,
+		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/LIBVIO.js"
+    },
+    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
