@@ -33,7 +33,7 @@
 		"searchable":0,
 		"quickSearch":0,
         "filterable":1,
-		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.js"
+		"ext":"https://gitee.com/xinyitv/xinyi/raw/master/douban.js"
     },
     {
       "key": "紙條",
