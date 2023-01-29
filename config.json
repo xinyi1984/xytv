@@ -29,7 +29,7 @@
 		"key":"豆瓣",
         "name":"豆瓣荐片(js)",
 		"type":3,
-		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy2.min.js",
+		"api":"https://gitee.com/xinyitv/xinyi/raw/master/drpy.min.js",
 		"searchable":0,
 		"quickSearch":0,
         "filterable":1,
