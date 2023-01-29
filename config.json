@@ -26,6 +26,16 @@
     ],
   "sites": [
     {
+      "key": "csp_yydsAli",
+      "name": "YYDS阿里(爬虫)",
+      "type": 3,
+      "api": "csp_yyds",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&399232408@qq.com&abcd1234"
+    },
+    {
 		"key":"豆瓣",
         "name":"豆瓣荐片(js)",
 		"type":3,
