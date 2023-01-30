@@ -13,6 +13,16 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&399232408@qq.com&abcd1234"
 },
 {
+		"key":"豆瓣",
+        "name":"豆瓣荐片(js)",
+		"type":3,
+		"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+		"searchable":0,
+		"quickSearch":0,
+        "filterable":1,
+		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+},
+{
       "key": "AList",
       "name": "AList",
       "type": 3,
