@@ -3,11 +3,11 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
     {
-      "name": "測試",
-      "type": 1,
-      "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "直播1",
@@ -17,11 +17,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "直播2",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "測試",
+      "type": 1,
+      "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
     ],
   "sites": [
