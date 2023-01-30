@@ -41,6 +41,16 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
 },
 {
+      "key": "zhaozy",
+      "name": "🔍找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+},
+{
       "key": "Upyunso",
       "name": "🔍up云搜",
       "type": 3,
@@ -75,16 +85,6 @@
       "name": "📀盘搜",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
-},
-{
-      "key": "zhaozy",
-      "name": "🔍找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
