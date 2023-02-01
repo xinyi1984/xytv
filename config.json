@@ -14,21 +14,27 @@
       "type": 0,
       "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/IPTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
     },
     {
       "name": "aishang",
       "type": 0,
       "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/aishang.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
     },
     {
       "name": "bestv",
       "type": 0,
       "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/bestv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
     },
     {
       "name": "直播1",
