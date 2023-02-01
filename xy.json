@@ -121,36 +121,45 @@
       "logo": "http://epg.51zmt.top:8000/{logo}"
     },
     {
-      "name": "4K/8K源",
+      "name": "whpsky-IPV6",
       "type": 0,
-       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
       "boot": false
     },
     {
-      "name": "BESTV源",
+      "name": " YueChan IPv6",
       "type": 0,
-       "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
       "boot": false
     },
     {
-      "name": " 爱尚源",
+      "name": "APTV IPv6",
       "type": 0,
-       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
       "boot": false
     },
     {
-      "name": "CQYX源",
+      "name": "范明明 IPv6",
       "type": 0,
-       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
+      "name": "ZHG IPv6",
+      "type": 0,
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
