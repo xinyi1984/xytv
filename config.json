@@ -10,6 +10,15 @@
       "logo": "http://epg.51zmt.top:8000/{logo}"
     },
     {
+      "name": "APTV IPv6",
+      "type": 0,
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
       "name": "bestv",
       "type": 0,
       "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
