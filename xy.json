@@ -166,9 +166,9 @@
       "boot": false
     },
     {
-      "name": "GHYX源",
+      "name": "BESTV源",
       "type": 0,
-       "url": "https://telegram-feiyangdigital.v1.mk/ghyx.m3u",
+       "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
