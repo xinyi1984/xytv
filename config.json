@@ -2,7 +2,7 @@
   "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
-    {
+    /*{
       "name": "測試",
       "type": 1,
       "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
@@ -26,11 +26,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
       "boot": false
-    },
+    },*/
     {
       "name": "bestv",
       "type": 0,
-      "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/bestv.m3u",
+      "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
