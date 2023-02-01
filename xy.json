@@ -121,6 +121,51 @@
       "logo": "http://epg.51zmt.top:8000/{logo}"
     },
     {
+      "name": "4K/8K源",
+      "type": 0,
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
+      "name": "BESTV源",
+      "type": 0,
+       "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
+      "name": " 爱尚源",
+      "type": 0,
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
+      "name": "CQYX源",
+      "type": 0,
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
+      "name": "GHYX源",
+      "type": 0,
+       "url": "https://telegram-feiyangdigital.v1.mk/ghyx.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },
+    {
       "name": "直播1",
       "type": 0,
        "url": "http://home.jundie.top:81/ray/tvlive.txt",
