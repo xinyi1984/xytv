@@ -3,9 +3,30 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
     {
-      "name": "直播2",
+      "name": "測試",
+      "type": 1,
+      "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    },
+    {
+      "name": "肥羊",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/IPTV.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "aishang",
+      "type": 0,
+      "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/aishang.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "bestv",
+      "type": 0,
+      "url": "https://gitee.com/xinyitv/IPTV/raw/main/main/bestv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -17,11 +38,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "測試",
-      "type": 1,
-      "url": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
     ],
   "sites": [
