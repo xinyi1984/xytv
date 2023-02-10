@@ -79,8 +79,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		}
 		tid = array[0]
 		result = {}
-		id = ''
-		key = ''
+		id = 'ysysxy'
+		key = 'kl132408'
 		url = 'http://43.143.123.112:8182/zdytv/yyds/info.php?id={}&key={}&vid={}'.format(id, key, tid)
 		rsp = self.fetch(url,headers=header)
 		vodInfo = json.loads(rsp.text)
