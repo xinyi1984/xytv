@@ -76,9 +76,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 	token = ''
 	def getHeader(self,force=False):
 		if len(self.token) == 0 or force:
-			form = {
-				'email': '399232408@qq.com',
-				'password': 'abcd1234'
+			form  = {
+				'token':'96cb77372736a01ad6c8aefd7b2be5a4cb6f957d50f11d7f7529f6f173ebacfd'
 			}
 			if len(form['password']) > 0:
 				rsp = self.post("https://cmn.yydshd.com/api/login",data=form)
