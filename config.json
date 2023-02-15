@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
     {
@@ -60,6 +60,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -69,6 +70,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -78,6 +80,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -87,6 +90,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -96,6 +100,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
@@ -105,6 +110,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
