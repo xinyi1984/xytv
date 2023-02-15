@@ -10,6 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408"
 },
 {
@@ -29,6 +30,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/alist.json"
 },
 {
@@ -48,6 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408"
 },
 {
@@ -58,6 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 }, 
 {
@@ -68,6 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },     
 {
@@ -78,6 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 {
@@ -88,6 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 {
@@ -98,6 +105,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 {
@@ -108,6 +116,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/Hiker_xyq.jar"
 }
