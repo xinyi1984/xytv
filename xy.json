@@ -202,7 +202,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"bad668c66bd14fe7a9071dc289297481","type":"alidrive"},
+{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"},
 {"name": "小棉袄仓库","server": "http://pan.haikuoshijie.cn/","type":"alist"}, 
 {"name": "嗨翻","server": "https://pan.hikerfans.com/","type":"alist"},
 {"name": "非盘","server": "http://www.feifwp.top/","type":"alist"},
