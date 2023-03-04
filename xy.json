@@ -12,9 +12,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
-},
-      
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"    
 },
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
@@ -71,7 +69,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
 },
-},
 {
       "key": "Upyunso",
       "name": "🔍up云搜",
@@ -95,8 +92,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
-},
-},     
+},   
 {
       "key": "Gitcafe",
       "name": "🔖小纸条",
@@ -108,7 +104,6 @@
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
-},
 },
 {
       "key": "AliPS",
@@ -122,7 +117,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
 },
-},
 {
       "key": "push_agent",
       "name": "📨推送",
@@ -134,7 +128,6 @@
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
-},
 },
 {
       "key": "push_agent",
