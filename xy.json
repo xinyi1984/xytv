@@ -77,7 +77,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/opei.txt;https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
 }, 
 {
       "key": "Yiso",
