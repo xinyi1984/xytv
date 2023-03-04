@@ -11,7 +11,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
       
 },
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
@@ -66,7 +68,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
 },
 {
       "key": "Upyunso",
@@ -89,7 +93,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
 },     
 {
       "key": "Gitcafe",
@@ -100,7 +106,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
 },
 {
       "key": "AliPS",
@@ -111,7 +119,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
 },
 {
       "key": "push_agent",
@@ -122,7 +132,9 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+},
 },
 {
       "key": "push_agent",
@@ -385,6 +397,5 @@
 {"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar",
-  "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar"
   }
