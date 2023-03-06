@@ -3,17 +3,6 @@
 // 源
   "sites": [
 {
-      "key": "i4k",
-      "name": "i4k",
-      "type": 0,
-      "api": "http://43.143.123.112:8182/4k/getlist.php?calss=%E5%89%A7%E9%9B%86&area=&year=&type=&pg=0",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/i4k.json"
-},
-{
       "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
       "type": 3,
