@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
-  "站名": "i4k",
-  "主页url": "http://43.143.123.112:8182/4k/msg.php",
-  "请求头": "Mozilla/5.0 (Linux; U; Android 7.1.2; zh-cn; HD1910 Build/N2G48H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+  "站名": "360影视",
+  "主页url": "http://我是.肥猫.love:63/cainisi//",
+  "请求头": "cainisi",
   
-  "分类": "电影$1#剧集$2#动漫$3#综艺$4#记录$5",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
   
-  "分类url": "http://43.143.123.112:8182/4k/getlist.php?calss={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
+  "分类url": "http://我是.肥猫.love:63/cainisi/fl.php?id={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
   
   "数组": "数组=&&=数组",
   "图片": "图片=\"&&\"",
