@@ -5,7 +5,7 @@
 {
       "key": "i4k",
       "name": "i4k",
-      "type": 0,
+      "type": 1,
       "api": "http://43.143.123.112:8182/4k/msg.php",
       "searchable": 1,
       "quickSearch": 1,
