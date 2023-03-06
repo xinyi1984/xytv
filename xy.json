@@ -6,7 +6,7 @@
       "key": "i4k",
       "name": "i4k",
       "type": 3,
-      "api": "http://43.143.123.112:8182/4k/getlist.php",
+      "api": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
