@@ -6,7 +6,7 @@
   
   "分类": "电影$1#剧集$2#动漫$3#综艺$4#记录$5",
   
-  "分类url": "http://43.143.123.112:8182/4k/getlist.php",
+  "分类url": "http://43.143.123.112:8182/4k/getlist.php?calss={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
   
   "数组": "数组=&&=数组",
   "图片": "图片=\"&&\"",
