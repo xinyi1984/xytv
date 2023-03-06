@@ -5,7 +5,7 @@
 {
       "key": "i4k",
       "name": "i4k",
-      "type": 1,
+      "type": 0,
       "api": "http://43.143.123.112:8182/4k/getlist.php?calss=%E5%89%A7%E9%9B%86&area=&year=&type=&pg=0",
       "searchable": 1,
       "quickSearch": 1,
