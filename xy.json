@@ -14,22 +14,15 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  
 },
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
 {
-      "key": "腾讯视频",
-      "name": "腾讯视频",
+      "key": "zdytv",
+      "name": "zdytv",
       "type": 3,
-      "api": "csp_QQ",
+      "api": "chttps://t4.t48.repl.co/zdytv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      //"ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  
+      "changeable": 0
 },
 {      
     "key":"BuLei","name":"⚡布蕾•影城",
