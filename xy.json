@@ -17,7 +17,7 @@
 {
       "key": "zdytv",
       "name": "zdytv",
-      "type": 3,
+      "type": 4,
       "api": "chttps://t4.t48.repl.co/zdytv",
       "searchable": 1,
       "quickSearch": 1,
