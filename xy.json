@@ -15,10 +15,10 @@
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  
 },
 {
-      "key": "zdytv",
-      "name": "zdytv",
+      "key": "i4k",
+      "name": "i4k",
       "type": 4,
-      "api": "https://gitee.com/xinyitv/xinyi/raw/master/i4k.json",
+      "api": "https://t4.t48.repl.co/zdytv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
