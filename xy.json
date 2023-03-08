@@ -18,7 +18,7 @@
       "key": "zdytv",
       "name": "zdytv",
       "type": 4,
-      "api": "https://gitee.com/xinyitv/xinyi/raw/master/i4k",
+      "api": "https://gitee.com/xinyitv/xinyi/raw/master/i4k.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
