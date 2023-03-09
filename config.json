@@ -1,6 +1,6 @@
 {
-  //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-  "spider": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_单token.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  //"spider": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_单token.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
     {
