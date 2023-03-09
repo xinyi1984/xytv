@@ -11,8 +11,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "i4k",
@@ -62,8 +62,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "Upyunso",
@@ -74,8 +74,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "Yiso",
@@ -86,8 +86,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },   
 {
       "key": "Gitcafe",
@@ -98,8 +98,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "AliPS",
@@ -110,8 +110,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "push_agent",
@@ -122,8 +122,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
       "key": "push_agent",
@@ -385,6 +385,6 @@
 {"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img"//,
-//"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar"
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar"
   }
