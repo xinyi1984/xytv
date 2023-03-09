@@ -1,11 +1,11 @@
 {
-  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb",
+  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;df10e61cf95ea6a8507162d0c9e9063f",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/txt/adult.txt"
+      "url": "hhttps://gitee.com/xinyitv/TvJar-FongMi/raw/main/txt/adult.txt"
     }
   ],
   "sites": [
@@ -16,20 +16,12 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": {
         "drives": [
           {
-            "name": "9T",
-            "server": "https://drive.9t.ee"
-          },
-          {
             "name": "木偶",
             "server": "https://www.kugutsu.ml"
-          },
-          {
-            "name": "秋雨",
-            "server": "https://share.laowang.me",
-            "password": "s8;K^h[j<b"
           }
         ]
       }
@@ -618,7 +610,8 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "changeable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
 }
