@@ -1,5 +1,5 @@
 {
-"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar",
+"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/yyds/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
   "sites": [
 {
       "key": "csp_yydsAli",
