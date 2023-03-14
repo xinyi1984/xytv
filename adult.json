@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;df10e61cf95ea6a8507162d0c9e9063f",
+  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -9,17 +9,6 @@
     }
   ],
   "sites": [
-    {
-      "key":"csp_黄仓库",
-      "name":"黄仓库 ",
-      "api":"csp_Hsck",
-      "type":3,
-      "filterable":1,
-      "quickSearch":1,
-      "searchable":1,
-      "ext":"https://www.javsee.men,#genre#/",
-      "jar":"https://gitee.com/xinyitv/xinyi/raw/master/18.jar"
-      },
     {
       "key": "AList",
       "name": "AList",
