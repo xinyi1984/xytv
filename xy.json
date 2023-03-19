@@ -24,6 +24,16 @@
       "changeable": 0
 },
 {
+      "key": "T4豆瓣",
+      "name": "T4豆瓣",
+      "type": 4,
+      "api": "https://t4.xn--sss604efuw.ml/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+},
+{
 		"key":"豆瓣",
         "name":"豆瓣荐片(js)",
 		"type":3,
