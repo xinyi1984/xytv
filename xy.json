@@ -24,14 +24,11 @@
       "changeable": 0
 },
 {
-      "key": "T4豆瓣",
-      "name": "T4豆瓣",
-      "type": 4,
-      "api": "https://t4.xn--sss604efuw.ml/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+		"key": "直播",
+        "name": "🅿️电视直播",
+         "type": 4,
+         "playerType":1, 
+         "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
 },
 {
 		"key":"豆瓣",
