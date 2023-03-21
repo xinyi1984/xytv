@@ -23,13 +23,6 @@
       "filterable": 1,
       "changeable": 0
 },
-{
-		"key": "直播",
-        "name": "🅿️电视直播",
-         "type": 4,
-         "playerType":1, 
-         "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
-},
 { 
 		"key": "直播转点播", 
 		"name": "直播转换", 
