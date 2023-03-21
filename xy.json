@@ -34,8 +34,8 @@
 		"key": "直播转点播", 
 		"name": "直播转换", 
 		"type": 3, 
-		"api": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js", 
-		"ext": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/%E7%9B%B4%E6%92%AD.js" 
+		"api": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/直播转点播.js", 
+		"ext": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/直播.js" 
 },
 {
 		"key":"豆瓣",
