@@ -23,9 +23,8 @@
       "filterable": 1,
       "changeable": 0
 },
-{ "key": "直播", "name": "电视┃直播", "type": 3, "playerType": 1, "api": "https://agit.ai/lengniuge/js/raw/branch/master/直播转点播.js", "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png" },
 { 
-		"key": "直播转点播", 
+		"key": "电视直播转点播", 
 		"name": "直播转换", 
 		"type": 3, 
 		"api": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/直播转点播.js", 
