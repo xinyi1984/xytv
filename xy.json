@@ -3,6 +3,18 @@
   "sites": [
 {
       "key": "csp_yydsAli",
+      "name": "💦电影院┃4K",
+      "type": 3,
+      "api": "csp_FanYY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"  
+},
+/*{
+      "key": "csp_yydsAli",
       "name": "YYDS阿里(爬虫)",
       "type": 3,
       "api": "csp_yyds",
@@ -12,7 +24,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
-},
+//},*/
 {
       "key": "i4k",
       "name": "i4k",
