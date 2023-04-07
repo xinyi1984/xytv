@@ -1,5 +1,7 @@
 {
-"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
+//"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
+
   "sites": [
 {
       "key": "csp_WoGG",
@@ -10,8 +12,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"  
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3" */ 
 },
 {
       "key": "csp_FanYY",
@@ -20,10 +22,9 @@
       "api": "csp_FanYY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1,/*
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"  
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 /*{
       "key": "csp_yydsAli",
@@ -34,9 +35,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408"/*,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
-//},*/
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
+},
 {
       "key": "i4k",
       "name": "i4k",
@@ -46,7 +47,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-},
+},*/
 { 
 		"key": "电视直播转点播", 
 		"name": "直播转换", 
