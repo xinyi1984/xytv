@@ -1,6 +1,8 @@
 {
-  //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
+  ///"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
+//"spider": "https://gitee.com/xinyitv/xinyi/raw/master/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
     {
@@ -48,13 +50,26 @@
 		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     },
     {
-		"key":"独播库",
-		"name":"独播库",
-		"type":"4",
-		"api":"https://tang.run.goorm.app/duboku",
-		"searchable":"1",
-		"quickSearch":"1",
-		"filterable":"1"
+      "key": "csp_WoGG",
+      "name": "💦tvfan┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+    },
+    {
+      "key": "csp_FanYY",
+      "name": "💦电影院┃4K",
+      "type": 3,
+      "api": "csp_FanYY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
     },
     {
       "key": "紙條",
