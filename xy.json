@@ -42,7 +42,7 @@
       "key": "i4k",
       "name": "i4k",
       "type": 3,
-      "api": "csp_HideI4K",
+      "api": "csp_I4K",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
