@@ -238,7 +238,7 @@
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",,
-      "boot": false
+      "boot": true
     }],
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "18"},
