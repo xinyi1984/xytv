@@ -37,17 +37,18 @@
       "changeable": 0,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
-},
+},*/
 {
       "key": "i4k",
       "name": "i4k",
-      "type": 4,
-      "api": "https://t4.t48.repl.co/zdytv",
+      "type": 3,
+      "api": "csp_HideI4K",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
-},*/
+      "changeable": 0,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
+},
 { 
 		"key": "电视直播转点播", 
 		"name": "直播转换", 
