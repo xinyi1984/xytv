@@ -1,6 +1,6 @@
 {
-//"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
+"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
+//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
 //"spider": "https://gitee.com/xinyitv/xinyi/raw/master/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
 
   "sites": [
@@ -46,8 +46,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
+      "changeable": 0
+      //"jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
 },
 { 
 		"key": "电视直播转点播", 
