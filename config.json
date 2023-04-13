@@ -49,6 +49,17 @@
         "filterable":1,
 		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     },
+
+    {      
+      "key": "csp_BuLei",      
+      "name": "💢布雷┃直连",
+      "type": 3,     
+      "api": "csp_BuLei",  
+      "m3u8ads": "hd.youyhn.com",    
+      "searchable": 1,     
+      "quickSearch": 1,     
+      "filterable": 1   
+    },
     {
       "key": "csp_WoGG",
       "name": "💦tvfan┃4K",
