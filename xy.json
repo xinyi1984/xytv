@@ -5,6 +5,27 @@
 
   "sites": [
 {
+      "key": "i4k",
+      "name": "i4k",
+      "type": 3,
+      "api": "csp_I4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider.jar" 
+},
+{      
+      "key": "csp_BuLei",      
+      "name": "💢布雷┃直连",
+      "type": 3,     
+      "api": "csp_BuLei",  
+      "m3u8ads": "hd.youyhn.com",    
+      "searchable": 1,     
+      "quickSearch": 1,     
+      "filterable": 1   
+},
+{
       "key": "csp_WoGG",
       "name": "💦tvfan┃4K",
       "type": 3,
@@ -38,17 +59,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
 },*/
-{
-      "key": "i4k",
-      "name": "i4k",
-      "type": 3,
-      "api": "csp_I4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider.jar" 
-},
 { 
 		"key": "电视直播转点播", 
 		"name": "直播转换", 
