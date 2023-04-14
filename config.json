@@ -27,10 +27,10 @@
       "filterable": 1   
     },
     {
-      "key": "csp_WoGG",
-      "name": "💦tvfan┃4K",
+      "key": "csp_Woogg",
+      "name": "💦玩偶哥哥┃4K",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Woogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -38,10 +38,10 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
     },
     {
-      "key": "csp_FanYY",
+      "key": "csp_DyyAli",
       "name": "💦电影院┃4K",
       "type": 3,
-      "api": "csp_FanYY",
+      "api": "csp_DyyAli",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
