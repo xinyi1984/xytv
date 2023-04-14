@@ -50,6 +50,17 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
     },
     {
+      "key": "csp_TX",
+      "name": "TX",
+      "type": 3,
+      "api": "csp_TX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+      //"ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+    },
+    {
       "key": "csp_QQ",
       "name": "💦QQ",
       "type": 3,
