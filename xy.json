@@ -35,27 +35,36 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"   
 },
 {
-      "key": "csp_WoGG",
-      "name": "tvfan┃4K",
+      "key": "csp_Wogg",
+      "name": "玩偶哥哥┃搜索",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
 },
 {
-      "key": "csp_Dyy",
-      "name": "电影院┃4K",
+      "key": "csp_DyyAli",
+      "name": "电影院┃搜索",
       "type": 3,
-      "api": "csp_Dyy",
+      "api": "csp_DyyAli",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+},
+{
+      "key": "Dovx",
+      "name": "Dovx┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
 },
 /*{
       "key": "csp_yydsAli",
