@@ -43,7 +43,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 {
       "key": "csp_DyyAli",
@@ -54,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
 },
 {
       "key": "Dovx",
@@ -116,7 +116,7 @@
 },
 {
       "key": "zhaozy",
-      "name": "🔍找资源",
+      "name": "🔍找资源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -128,7 +128,7 @@
 },
 {
       "key": "Upyunso",
-      "name": "😻up云搜",
+      "name": "😻up云搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -140,7 +140,7 @@
 },
 {
       "key": "Yiso",
-      "name": "🎯易搜",
+      "name": "🎯易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -152,7 +152,7 @@
 },   
 {
       "key": "Gitcafe",
-      "name": "🔖小纸条",
+      "name": "🔖小纸条┃搜索",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -164,7 +164,7 @@
 },
 {
       "key": "AliPS",
-      "name": "📀盘搜",
+      "name": "📀盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
