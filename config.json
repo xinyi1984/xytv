@@ -28,10 +28,10 @@
       "filterable": 1   
     },
     {
-      "key": "csp_Woogg",
+      "key": "csp_Wogg",
       "name": "玩偶哥哥┃搜索",
       "type": 3,
-      "api": "csp_Woogg",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -58,11 +58,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-      //"ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+    },
+    {
+      "key": "Dovx",
+      "name": "Dovx┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
     },
     {
       "key": "紙條",
-      "name": "紙條",
+      "name": "紙條┃搜索",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -72,7 +81,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜",
+      "name": "易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -82,7 +91,7 @@
     },
     {
       "key": "盤搜",
-      "name": "盤搜",
+      "name": "盤搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -92,7 +101,7 @@
     },
     {
       "key": "UP雲搜",
-      "name": "UP雲搜",
+      "name": "UP雲搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -102,7 +111,7 @@
     },
     {
       "key": "找資源",
-      "name": "找資源",
+      "name": "找資源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
