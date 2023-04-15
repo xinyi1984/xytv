@@ -50,16 +50,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
     },
     {
-      "key": "csp_QQ",
-      "name": "QQ",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "Dovx",
       "name": "Dovx┃搜索",
       "type": 3,
