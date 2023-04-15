@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_Woogg",
-      "name": "💦玩偶哥哥┃4K",
+      "name": "玩偶哥哥┃搜索",
       "type": 3,
       "api": "csp_Woogg",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "csp_DyyAli",
-      "name": "💦电影院┃4K",
+      "name": "电影院┃搜索",
       "type": 3,
       "api": "csp_DyyAli",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "csp_QQ",
-      "name": "💦QQ",
+      "name": "QQ",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
