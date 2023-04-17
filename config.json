@@ -62,6 +62,16 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
     },
     {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+    },
+    {
       "key": "紙條",
       "name": "紙條┃搜索",
       "type": 3,
