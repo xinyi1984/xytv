@@ -79,13 +79,6 @@
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
 },*/
-{ 
-		"key": "电视直播转点播", 
-		"name": "直播转换", 
-		"type": 3, 
-		"api": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/直播转点播.js", 
-		"ext": "https://gitee.com/xinyitv/tvbox-zb/raw/master/JS/js/直播.js" 
-},
 {
 		"key":"豆瓣",
         "name":"豆瓣荐片(js)",
@@ -211,6 +204,15 @@
 }
            ],
      "lives": [
+    
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "boot": false
+    },     
     {
       "name": "whpsky-chinatv",
       "type": 0,
@@ -269,14 +271,6 @@
       "name": "直播1",
       "type": 0,
        "url": "http://home.jundie.top:81/ray/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "boot": false
-    },
-    {
-      "name": "直播2",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "boot": false
