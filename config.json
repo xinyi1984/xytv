@@ -143,6 +143,23 @@
   ],
   "lives": [
     {
+      "name": "直播ipv6",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "boot": false
+    },
+    
+    {
+      "name": "直播",
+      "type": 0,
+       "url": "http://home.jundie.top:81/ray/tvlive.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "boot": false
+    },     
+    {
       "name": "APTV IPv6",
       "type": 0,
        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
@@ -159,20 +176,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
       "boot": false
-    },
-    {
-      "name": "直播1",
-      "type": 0,
-      "url": "http://home.jundie.top:81/ray/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播2",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
     ]
 }
