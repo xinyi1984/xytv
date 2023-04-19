@@ -177,5 +177,15 @@
       "ua": "okhttp/3.15",
       "boot": false
     }
+    ,
+    {
+      "name": "youtube.m3u",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    }
     ]
 }
