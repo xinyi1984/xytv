@@ -16,7 +16,6 @@
         "filterable":1,
 		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     },
-
     {      
       "key": "csp_BuLei",      
       "name": "💢布雷┃直连",
@@ -28,6 +27,16 @@
       "filterable": 1,   
       //"ext": "http://movie.bulei.cc$$$auto$$$ysysxy$$$kl123456",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"   
+    },
+    {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
     },
     {
       "key": "csp_Wogg",
