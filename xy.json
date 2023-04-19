@@ -206,9 +206,18 @@
      "lives": [
     
     {
-      "name": "直播2",
+      "name": "直播ipv6",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "boot": false
+    },
+    
+    {
+      "name": "直播",
+      "type": 0,
+       "url": "http://home.jundie.top:81/ray/tvlive.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "boot": false
@@ -265,14 +274,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
-      "boot": false
-    },
-    {
-      "name": "直播1",
-      "type": 0,
-       "url": "http://home.jundie.top:81/ray/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "boot": false
     }],
 // 字幕格式 (可选)
