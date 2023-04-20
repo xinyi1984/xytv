@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xinyitv/xinyi/raw/master/jar/custom_spider.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar",
 //"spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar",
 //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
 //"spider": "https://gitee.com/xinyitv/xinyi/raw/master/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
@@ -29,16 +29,6 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"   
     },
     {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/xinyitv/Jar-FongMi/raw/main/json/duboku.json"
-    },
-    {
       "key": "csp_Wogg",
       "name": "玩偶哥哥┃搜索",
       "type": 3,
@@ -47,7 +37,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "csp_DyyAli",
@@ -58,7 +48,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "Dovx",
@@ -68,7 +58,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "WebDAV",
@@ -78,7 +68,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/webdav.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
     },
     {
       "key": "紙條",
@@ -88,7 +78,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "易搜",
@@ -98,7 +88,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "盤搜",
@@ -108,7 +98,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "UP雲搜",
@@ -118,7 +108,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "找資源",
@@ -128,7 +118,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt$$$yingshi$$$abcd1234"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -138,7 +128,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token1.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txtt"
     }
   ],
   "lives": [
