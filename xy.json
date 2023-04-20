@@ -1,5 +1,5 @@
 {
-"spider": "https://gitee.com/xinyitv/xinyi/raw/master/jar/custom_spider.jar",
+"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar",
 //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
 
   "sites": [
@@ -44,7 +44,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
 },
 {
       "key": "csp_DyyAli",
@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
 },
 {
       "key": "Dovx",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
 },
 /*{
       "key": "csp_yydsAli",
@@ -76,8 +76,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt&ysysxy&kl132408",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar" 
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt&ysysxy&kl132408",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar" 
 },*/
 {
 		"key":"豆瓣",
@@ -97,7 +97,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/alist.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json"
 },
 {
       "key": "WebDAV",
@@ -107,7 +107,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/json/webdav.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
 },
 {
       "key": "哔哩",
@@ -127,8 +127,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt$$$399232408@qq.com$$$kl132408"/*,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt$$$399232408@qq.com$$$kl132408"/*,
+      "jar": https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  */
 },
 {
       "key": "Upyunso",
@@ -139,7 +139,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
@@ -151,7 +151,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },   
 {
@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
@@ -175,7 +175,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
 {
@@ -187,8 +187,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt"/*,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  */
 },
 {
       "key": "push_agent",
@@ -199,8 +199,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/token.txt",
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/Hiker_xyq.jar"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/Hiker_xyq.jar"
 }
            ],
      "lives": [
@@ -291,7 +291,7 @@
 
 // 驱动器 (可选)
 "drives": [
-{"name":"阿里云盘","password":"https://gitee.com/xinyitv/xinyi/raw/master/token.txt","type":"alidrive"},
+{"name":"阿里云盘","password":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt","type":"alidrive"},
 {"name": "小棉袄仓库","server": "http://pan.haikuoshijie.cn/","type":"alist"}, 
 {"name": "嗨翻","server": "https://pan.hikerfans.com/","type":"alist"},
 {"name": "非盘","server": "http://www.feifwp.top/","type":"alist"},
