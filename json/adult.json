@@ -1,7 +1,31 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1fd0a4075fe9efad39104896116ee7f5",
+  "spider": "https://gitee.com/xinyitv/TvJar-FongMi/raw/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
   "wallpaper": "https://gao.chuqiuyu.tk",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "hhttps://gitee.com/xinyitv/TvJar-FongMi/raw/main/txt/adult.txt"
+    }
+  ],
   "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "木偶",
+            "server": "https://www.kugutsu.ml"
+          }
+        ]
+      }
+    },
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -586,7 +610,8 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
 }
