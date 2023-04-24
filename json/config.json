@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;f10a046042d0072470bb189a4a167a4a",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "csp_DyyAli",
@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "Dovx",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "WebDAV",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
     },
     {
       "key": "紙條",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "易搜",
@@ -85,7 +85,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "盤搜",
@@ -95,7 +95,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "UP雲搜",
@@ -105,7 +105,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "找資源",
@@ -115,7 +115,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt$$$yingshi$$$abcd1234"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txtt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txtt"
     }
   ],
   "lives": [
@@ -149,7 +149,7 @@
     {
       "name": "APTV IPv6",
       "type": 0,
-       "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+       "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
@@ -168,7 +168,7 @@
     {
       "name": "youtube.m3u",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
