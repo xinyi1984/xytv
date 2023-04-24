@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar",
+  "spider": "https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
