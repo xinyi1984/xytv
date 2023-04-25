@@ -25,17 +25,6 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
     },
     {      
-      "key": "csp_WoGG",      
-      "name": "👽玩偶哥哥┃4K",
-      "type": 3,     
-      "api": "csp_WoGG",  
-      "searchable": 1,     
-      "quickSearch": 1,     
-      "filterable": 1,   
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
-    },
-    {      
       "key": "csp_Xinsj",      
       "name": "🐼新视觉┃直连",
       "type": 3,     
@@ -46,7 +35,18 @@
       "ext":"https://www.6080dy3.com",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
     },  
-    {
+    {      
+      "key": "csp_WoGG",      
+      "name": "👽玩偶哥哥┃4K",
+      "type": 3,     
+      "api": "csp_WoGG",  
+      "searchable": 1,     
+      "quickSearch": 1,     
+      "filterable": 1,   
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
+    },
+    /*{
       "key": "csp_Wogg",
       "name": "玩偶哥哥┃搜索",
       "type": 3,
@@ -56,7 +56,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
-    },
+    },*/
     {
       "key": "csp_DyyAli",
       "name": "电影院┃搜索",
