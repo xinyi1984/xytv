@@ -13,16 +13,6 @@
         "filterable":1,
 		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     },
-	  {
-            "key": "布蕾影视",
-            "name": "布蕾影视(app)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://36.170.49.206:1818/api.php/app/"
-        },
     {      
       "key": "csp_BuLei",      
       "name": "💢布雷┃直连",
