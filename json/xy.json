@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;e594872ba16dc921c4df268510d6d295",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ac6815b5b96e5635e991d20f5342b01e",
 
   "sites": [
 {
@@ -31,7 +31,7 @@
       "quickSearch": 1,     
       "filterable": 1,
       "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"   
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"   
 },
 {      
       "key": "csp_Xinsj",      
@@ -42,7 +42,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext":"https://www.6080dy3.com",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"
 },    	  
 {      
       "key": "csp_WoGG",      
@@ -53,7 +53,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5f336f6de028983fef9f3c8ea638dfb0"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"
 },	  
 /*{
       "key": "csp_Wogg",
