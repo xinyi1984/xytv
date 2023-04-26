@@ -23,14 +23,14 @@
       "changeable": 0
 },
 {
-      "key": "布蕾影院",
-      "name": "布蕾影院",
+      "key": "布蕾js",
+      "name": "布蕾js",
       "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.js"
 },
 {      
       "key": "csp_BuLei",      
@@ -110,14 +110,14 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar" 
 },*/
 {
-		"key":"豆瓣",
+        "key":"豆瓣",
         "name":"豆瓣荐片(js)",
-		"type":3,
-		"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-		"searchable":0,
-		"quickSearch":0,
+        "type":3,
+        "api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+        "searchable":0,
+        "quickSearch":0,
         "filterable":1,
-		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+        "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
 },
 {
       "key": "AList",
