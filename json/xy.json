@@ -30,7 +30,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json"
 },
 {      
       "key": "csp_BuLei",      
