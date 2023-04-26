@@ -5,7 +5,7 @@ var rule={
     title:'布雷蓝光',
     模板:'mxpro',
     // host:'https://v.ilime.cc',
-    host:'https://v.bulei.cc',
+    host:'https://v.ilime.cc',
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     url:'/index.php/vod/type/id/fyclass.html',
     // url:'/index.php/vod/show/id/fyclassfyfilter.html',
