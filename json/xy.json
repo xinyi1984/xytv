@@ -23,14 +23,15 @@
       "changeable": 0
 },
 {
-      "key": "布蕾js",
-      "name": "布蕾js",
+      "key": "布蕾(XYQH)",
+      "name": "布蕾(XYQH)",
       "type": 3,
-      "api": "https://code.gitlink.org.cn/hjdhnx/dr_py/raw/branch/master/libs/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/%E5%B8%83%E8%95%BE%E8%93%9D%E5%85%89%E5%BD%B1%E5%9F%8E.json",
+      "jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar" 
 },
 {      
       "key": "csp_BuLei",      
@@ -40,8 +41,7 @@
       "searchable": 1,     
       "quickSearch": 1,     
       "filterable": 1,
-      "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122",
-      //"ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
+      "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E911EF9B3F3C5101A90CDFD022F566F0"  
       //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"   
 },
