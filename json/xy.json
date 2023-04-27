@@ -31,7 +31,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json",
-      "jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar" 
+      "jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar;md5;281a875d78abb81eb9716951fd20e530" 
 },
 {      
       "key": "csp_BuLei",      
