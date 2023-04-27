@@ -4,16 +4,6 @@
    
   "sites": [
     {
-		"key":"豆瓣",
-        "name":"豆瓣荐片(js)",
-		"type":3,
-		"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-		"searchable":0,
-		"quickSearch":0,
-        "filterable":1,
-		"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
-    },
-    {
       "key": "布蕾(XYQH)",
       "name": "布蕾(XYQH)",
       "type": 3,
@@ -59,6 +49,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"
     },
+    {
+      "key":"豆瓣",
+      "name":"豆瓣荐片(js)",
+      "type":3,
+      "api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+    },  
     /*{
       "key": "csp_Wogg",
       "name": "玩偶哥哥┃搜索",
