@@ -41,7 +41,8 @@
       "searchable": 1,     
       "quickSearch": 1,     
       "filterable": 1,
-      "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
+      "ext": "http://v.ilime.cc$$$auto$$$fmystv$$$kl123456",
+      //"ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E911EF9B3F3C5101A90CDFD022F566F0"  
       //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ac6815b5b96e5635e991d20f5342b01e"   
 },
