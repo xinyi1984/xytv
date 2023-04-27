@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ac6815b5b96e5635e991d20f5342b01e",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar1;md5;ac6815b5b96e5635e991d20f5342b01e",
 
   "sites": [
 /*{
@@ -31,7 +31,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json",
-      "jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar" 
+      //"jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar" 
 },
 {      
       "key": "csp_BuLei",      
