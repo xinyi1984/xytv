@@ -2,7 +2,7 @@
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ac6815b5b96e5635e991d20f5342b01e",
 
   "sites": [
-{
+/*{
       "key": "i4k",
       "name": "i4k",
       "type": 3,
@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-},
+},*/
 {
       "key": "布蕾(XYQH)",
       "name": "布蕾(XYQH)",
