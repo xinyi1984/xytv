@@ -31,7 +31,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82" 
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/YSC.jar" 
 },
 {      
       "key": "csp_BuLei",      
