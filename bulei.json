@@ -7,7 +7,7 @@
     "是否开启获取首页数据": "1",
     "首页推荐链接": "http://v.ilime.cc",
     "首页列表数组规则": "body&&.module-main",
-    "首页片单列表数组规则": ".module-items",
+    "首页片单列表数组规则": ".module-items>a",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "http://v.ilime.cc/index.php/vod/by/{by}/show/id/{cateId}/page/{catePg}/year/{year}.html",
