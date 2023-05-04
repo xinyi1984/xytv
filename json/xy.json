@@ -188,10 +188,10 @@
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },   
 {
-      "key": "Gitcafe",
-      "name": "🔖小纸条┃搜索",
+      "key": "csp_PanSearch",
+      "name": "🔖盘搜索┃搜索",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
