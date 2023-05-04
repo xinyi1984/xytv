@@ -83,7 +83,7 @@
     },
     {
       "key": "Dovx",
-      "name": "Dovx┃搜索",
+      "name": "七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -102,14 +102,15 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
     },
     {
-      "key": "紙條",
-      "name": "紙條┃搜索",
+      "key": "csp_PanSearch",
+      "name": "🔖盘搜索┃搜索",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_PanSearch",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
     },
     {
       "key": "易搜",
