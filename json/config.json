@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;abb63269db88340aaf388b12937880ed",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;1799191293c748fb29738f63b47297d5",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
@@ -24,8 +24,8 @@
       "filterable": 1,
       //"ext": "http://v.ilime.cc$$$auto$$$fmystv$$$kl123456",
       "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
-      //"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;abb63269db88340aaf388b12937880ed"  
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;abb63269db88340aaf388b12937880ed"   
+      //"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;1799191293c748fb29738f63b47297d5"  
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1799191293c748fb29738f63b47297d5"   
     },
     {      
       "key": "csp_Xinsj",      
@@ -36,7 +36,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext":"https://www.6080dy3.com",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;abb63269db88340aaf388b12937880ed"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1799191293c748fb29738f63b47297d5"
     },  
     {      
       "key": "csp_WoGG",      
@@ -47,7 +47,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;abb63269db88340aaf388b12937880ed"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1799191293c748fb29738f63b47297d5"
     },
     {
       "key":"豆瓣",
