@@ -2,7 +2,7 @@
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ca49256e6e4916497c74a5edac05bd46",
 
   "sites": [
-/*{
+{
       "key": "i4k",
       "name": "i4k",
       "type": 3,
@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-},*/
+},
 {
       "key": "布蕾(XYQH)",
       "name": "布蕾(XYQH)",
@@ -40,11 +40,11 @@
       "api": "csp_BuLei",   
       "searchable": 1,     
       "quickSearch": 1,     
-      "filterable": 1,
+      "filterable": 1/*,
       //"ext": "http://v.ilime.cc$$$auto$$$fmystv$$$kl123456",
       "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
       //"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;ca49256e6e4916497c74a5edac05bd46"  
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ca49256e6e4916497c74a5edac05bd46"   
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ca49256e6e4916497c74a5edac05bd46"   */
 },
 {      
       "key": "csp_Xinsj",      
@@ -86,16 +86,6 @@
       "api": "csp_DyyAli",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},
-{
-      "key": "Dovx",
-      "name": "七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
       "filterable": 1,
       "changeable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
@@ -151,6 +141,26 @@
       "filterable": 1,
       "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
 },
+{
+      "key": "Dovx",
+      "name": "七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
+},
+{
+      "key": "csp_Pape",
+      "name": "纸条┃搜索",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
+},	  
 {
       "key": "zhaozy",
       "name": "🔍找资源┃搜索",
