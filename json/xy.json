@@ -1,6 +1,6 @@
 {
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/tvjar-bulei/main/jar/custom_spider.jar;md5;b7469a9d3c474beb8905cc50b0001c17",
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;fc25525de73354abe18391ae746ffeb2",
+//"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;fc25525de73354abe18391ae746ffeb2",
 
   "sites": [
 {
