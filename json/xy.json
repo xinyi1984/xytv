@@ -265,6 +265,15 @@
       "boot": false
     },     
     {
+      "name": "YanG-1989 IPv6",
+      "type": 0,
+       "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15",
+      "boot": false
+    },          
+    {
       "name": "whpsky-chinatv",
       "type": 0,
        "url": "https://ghproxy.net/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
