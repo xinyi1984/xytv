@@ -1,6 +1,5 @@
 {
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/tvjar-bulei/main/jar/custom_spider.jar;md5;b8b44e7b198862d7894d59cb16a76905",
-//"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;b8b44e7b198862d7894d59cb16a76905",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;b8b44e7b198862d7894d59cb16a76905",
 
   "sites": [
 {
@@ -43,9 +42,9 @@
       "quickSearch": 1,     
       "filterable": 1,
       //"ext": "http://v.ilime.cc$$$auto$$$fmystv$$$kl123456",
-      "ext": "http://movie.bulei.top$$$auto$$$fmystv$$$kl123456"
+      "ext": "http://movie.bulei.top$$$auto$$$fmystv$$$kl123456",
       //"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;b8b44e7b198862d7894d59cb16a76905"  
-      //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b8b44e7b198862d7894d59cb16a76905"  
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b8b44e7b198862d7894d59cb16a76905"  
 },
 {      
       "key": "csp_Xinsj",      
