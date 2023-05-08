@@ -12,7 +12,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-},
+    },
+    {
+      "key": "csp_QQ",
+      "name": "QQ",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
     {
       "key": "布蕾(XYQH)",
       "name": "布蕾(XYQH)",
