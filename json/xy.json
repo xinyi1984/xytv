@@ -62,23 +62,23 @@
       "name": "👽玩偶哥哥┃4K",
       "type": 3,     
       "api": "csp_WoGG",  
-      "searchable": 1,     
-      "quickSearch": 1,     
-      "filterable": 1,   
+      "searchable": 0,     
+      "quickSearch": 0,     
+      "filterable": 0,   
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;687223923442374b0ccb5e3a61b8b1a9"
 },	  
-/*{
-      "key": "csp_Wogg",
+{
+      "key": "csp_Woogg",
       "name": "玩偶哥哥┃搜索",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_Wo0gg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},*/
+},
 {
       "key": "csp_DyyAli",
       "name": "电影院┃搜索",
