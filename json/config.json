@@ -78,7 +78,16 @@
       "quickSearch":0,
       "filterable":1,
       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
-    },  
+    }, 
+    {
+      "key": "土狗",
+      "name": "土狗┃搜索",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "changeable": 0,
+       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+    },
     {
       "key": "csp_Woogg",
       "name": "玩偶哥哥┃搜索",
