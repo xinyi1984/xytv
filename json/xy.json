@@ -66,7 +66,16 @@
       "filterable": 0,   
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;557ea71d3673a2e2e97a3ccea0e4ca47"
-},	  
+},
+{
+      "key": "土狗",
+      "name": "土狗┃搜索",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "changeable": 0,
+       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+},
 {
       "key": "csp_Woogg",
       "name": "玩偶哥哥┃搜索",
