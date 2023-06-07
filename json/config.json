@@ -3,7 +3,7 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
-    {
+    /*{
       "key": "泥巴",
       "name": "泥巴 | 海外",
       "type": 3,
@@ -13,7 +13,7 @@
       "changeable": 1,
       "ext":"0;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
-    },
+    },*/
     {      
       "key": "csp_BuLei",      
       "name": "💢布雷┃直连",
