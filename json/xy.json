@@ -29,7 +29,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext":"0;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
+      "ext":"0;socks5://121.200.60.122:4153|socks5://103.38.102.243:5678",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
 },
 {      
