@@ -3,26 +3,6 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
-    /*{
-      "key": "i4k",
-      "name": "i4k",
-      "type": 3,
-      "api": "csp_I4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_QQ",
-      "name": "QQ",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },*/
     {
       "key": "布蕾(XYQH)",
       "name": "布蕾(XYQH)",
