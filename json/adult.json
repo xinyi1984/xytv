@@ -2,14 +2,16 @@
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;2dad03aaf3c539927533562315a0974c",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
-    {
+     {
       "key": "泥巴",
-      "name": "泥巴",
+      "name": "泥巴 | 海外",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "ext": "1"
+      "changeable": 1,
+      "ext":"1;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
     },
     {
       "key": "玩偶",
