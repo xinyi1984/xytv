@@ -4,15 +4,15 @@
    
   "sites": [
     {
-      "key": "布蕾(XYQH)",
-      "name": "布蕾(XYQH)",
+      "key": "泥巴",
+      "name": "泥巴 | 海外",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/bulei.json",
-      "jar": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar" 
+      "ext":"0;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
     },
     {      
       "key": "csp_BuLei",      
