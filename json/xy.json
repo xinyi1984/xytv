@@ -64,6 +64,16 @@
       "changeable": 1
 },
 {
+      "key": "星星",
+      "name": "星星 | 海外",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "ext":"socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
+},
+{
       "key": "巴士",
       "name": "巴士",
       "type": 3,
