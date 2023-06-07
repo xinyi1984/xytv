@@ -40,9 +40,7 @@
       "searchable": 1,     
       "quickSearch": 1,     
       "filterable": 1,
-      //"ext": "http://v.ilime.cc$$$auto$$$fmystv$$$kl123456",
       "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
-      //"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;ce1dde62d5f1621d322189ba585f25aa"  
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ce1dde62d5f1621d322189ba585f25aa" 
 },
 {      
