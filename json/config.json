@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;2dad03aaf3c539927533562315a0974c",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;4a06d9b9289a6cd171673a92149d08a7",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
@@ -23,7 +23,7 @@
       "quickSearch": 1,     
       "filterable": 1,
       "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2dad03aaf3c539927533562315a0974c"   
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a06d9b9289a6cd171673a92149d08a7"   
     },
     {      
       "key": "csp_Xinsj",      
@@ -34,7 +34,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext":"https://www.6080dy3.com",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2dad03aaf3c539927533562315a0974c"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a06d9b9289a6cd171673a92149d08a7"
     },
     {
       "key": "熊熊",
@@ -62,7 +62,7 @@
       "quickSearch": 0,     
       "filterable": 0,   
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2dad03aaf3c539927533562315a0974c"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a06d9b9289a6cd171673a92149d08a7"
     },
     {
       "key":"豆瓣",
