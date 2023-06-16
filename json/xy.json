@@ -99,7 +99,7 @@
       "api": "csp_TuGou",
       "searchable": 1,
       "changeable": 0,
-       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
 },
 {
       "key": "csp_Woogg",
