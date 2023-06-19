@@ -54,15 +54,6 @@
       "ext":"https://www.6080dy3.com",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d9c521547d8769c111e7812fa562408c"
 },
-{
-      "key": "熊熊",
-      "name": "熊熊",
-      "type": 1,
-      "api": "https://v.3412.net.cn/macapi.php/provide/vod",
-      "playUrl": "https://player.i597.cc/?url=",
-      "searchable": 1,
-      "changeable": 1
-},
 /*{
       "key": "星星",
       "name": "星星 | 海外",
