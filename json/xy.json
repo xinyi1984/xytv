@@ -33,14 +33,13 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
 },*/
 {      
-      "key": "csp_BuLei",      
-      "name": "💢布雷┃直连",
-      "type": 3,     
-      "api": "csp_BuLei",   
-      "searchable": 1,     
-      "quickSearch": 1,     
-      "filterable": 1,
-      "ext": "http://movie.bulei.cc$$$auto$$$fmystv$$$kl123456",
+      "key": "csp_DuoX",
+      "name": "💢布雷┃APP",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d9c521547d8769c111e7812fa562408c" 
 },
 {      
