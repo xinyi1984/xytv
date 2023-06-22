@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;d0a56b5af14bce7ee6495e886d9576ae",
+  "spider": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;9185e970f45805771a7e99410113c899",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
@@ -12,7 +12,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext":"0;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
+      "jar": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
     },*/
     {      
       "key": "csp_DuoX",
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d0a56b5af14bce7ee6495e886d9576ae"   
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9185e970f45805771a7e99410113c899"   
     },
     {      
       "key": "csp_Xinsj",      
@@ -33,7 +33,7 @@
       "quickSearch": 1,     
       "filterable": 1,   
       "ext":"https://www.6080dy3.com",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d0a56b5af14bce7ee6495e886d9576ae"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9185e970f45805771a7e99410113c899"
     },
     {
       "key": "巴士",
@@ -51,8 +51,8 @@
       "searchable": 0,     
       "quickSearch": 0,     
       "filterable": 0,   
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d0a56b5af14bce7ee6495e886d9576ae"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9185e970f45805771a7e99410113c899"
     },
     {
       "key":"豆瓣",
@@ -82,7 +82,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "csp_DyyAli",
@@ -93,7 +93,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "Dovx",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "WebDAV",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
     },
     {
       "key": "csp_PanSearch",
@@ -124,7 +124,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "易搜",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "盤搜",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "UP雲搜",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "找資源",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt$$$399232408@qq.com$$$kl132408"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt$$$399232408@qq.com$$$kl132408"
     },
     {
       "key": "push_agent",
@@ -174,7 +174,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txtt"
+      "ext": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txtt"
     }
   ],
   "lives": [
@@ -198,7 +198,7 @@
     {
       "name": "APTV IPv6",
       "type": 0,
-       "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+       "url": "https://gh-proxy.com//https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
@@ -217,7 +217,7 @@
     {
       "name": "youtube.m3u",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
+      "url": "https://gh-proxy.com//https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
