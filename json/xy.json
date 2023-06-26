@@ -83,10 +83,10 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;eeb7f7708a81bbe3d0a2484549f65323"
 },
 {
-      "key": "土狗",
-      "name": "土狗┃搜索",
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥F┃搜索",
       "type": 3,
-      "api": "csp_TuGou",
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
