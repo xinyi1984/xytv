@@ -83,15 +83,6 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4b549540e5df5eeb7e83cf1444bd5764"
 },
 {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥F┃搜索",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},
-{
       "key": "csp_Woogg",
       "name": "玩偶哥哥┃搜索",
       "type": 3,
