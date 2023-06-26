@@ -65,13 +65,13 @@
       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
     }, 
     {
-      "key": "土狗",
-      "name": "土狗┃搜索",
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥F┃搜索",
       "type": 3,
       "api": "csp_TuGou",
       "searchable": 1,
       "changeable": 0,
-       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt"
     },
     {
       "key": "csp_Woogg",
