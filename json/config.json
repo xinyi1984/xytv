@@ -15,10 +15,10 @@
       "jar": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
     },*/
     {      
-      "key": "csp_DuoX",
-      "name": "💢布雷┃APP",
+      "key": "探探",
+      "name": "🏵探探┃App",
       "type": 3,
-      "api": "csp_DuoX",
+      "api": "csp_YT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
