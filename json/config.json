@@ -3,17 +3,17 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
-    /*{
-      "key": "泥巴",
-      "name": "泥巴 | 海外",
+     {
+      "key": "csp_DuoX",
+      "name": "💢多线┃App",
       "type": 3,
-      "api": "csp_NiNi",
+      "api": "csp_DuoX",
       "searchable": 1,
-      "filterable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext":"0;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
-      "jar": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
-    },*/
+      "ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15" 
+    },
     {      
       "key": "探探",
       "name": "🏵探探┃App",
@@ -42,6 +42,61 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1
+    },
+     {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/x/json/少儿教育.json",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/x/json/小学课堂.json",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/x/json/初中课堂.json",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/x/json/高中课堂.json",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
     },
     {      
       "key": "csp_WoGG",      
