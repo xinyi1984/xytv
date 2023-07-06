@@ -107,6 +107,16 @@
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/高中课堂.json",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
+},
+{
+      "key": "MV_vod",
+      "name": "🎸明星┃MV",
+      "type": 1,
+      "api": "https://mv.饭太硬.ml/mv/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bea1eb5d3c0504af817dc130c14d9f15"
 },	  
 {
       "key": "巴士",
