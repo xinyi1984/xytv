@@ -25,13 +25,13 @@
        "name":"影视 | 飞云[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/飞云[V2].jsd"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/飞云[V2].js"
 },
 {      "key":"drpy_js_布雷蓝光[V2]",
        "name":"影视 | 布雷蓝光[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/布雷蓝光[V2].jsd"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/布雷蓝光[V2].js"
 },
 {      "key":"drpy_js_荐片",
        "name":"影视 | 荐片[js]",
