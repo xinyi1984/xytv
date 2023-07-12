@@ -31,7 +31,7 @@
        "name":"影视 | 布雷蓝光[js]",
        "type":3,
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/xinyi1984/布雷蓝光.js"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
 },
 {      "key":"drpy_js_荐片",
        "name":"影视 | 荐片[js]",
