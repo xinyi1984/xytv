@@ -21,6 +21,16 @@
       "filterable": 1,
       "changeable": 0
 },
+{
+      "key": "csp_DuoX",
+      "name": "💢多线┃App",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+      "jar": "http://car.weixine.net:3/dx.jar"
+},	  
 {      "key":"drpy_js_影探[V2]",
        "name":"影视 | 影探[V2][js]",
        "type":3,
