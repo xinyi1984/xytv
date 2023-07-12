@@ -49,11 +49,26 @@
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
 },
-{      "key":"drpy_js_荐片",
-       "name":"影视 | 荐片[js]",
-       "type":3,
-       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
+{
+    "key":"dr_荐片",
+    "name":"荐片(drpy)",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+    "searchable":2,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js",
+    "playerType":1
+},
+{
+    "key":"dr_低端",
+    "name":"低端(drpy)",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+    "searchable":2,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/ddys.js"
 },	  
 {
       "key": "dr_兔小贝",
