@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com//https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;bc31179d312e1796e40f717a545d3b33",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;3d4bff37b5dc5ccd83f783f404da8bd1",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
      {
@@ -11,7 +11,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext":"1;socks5://192.168.101.1:1080|socks5://127.0.0.1:2080",
-      "jar": "https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/PG.jar"
     },
     {
       "key": "玩偶",
