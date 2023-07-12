@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://car.weixine.net:3/dx.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/dx.jar"
 },	  
 {      "key":"drpy_js_影探[V2]",
        "name":"影视 | 影探[V2][js]",
