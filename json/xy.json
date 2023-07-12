@@ -31,13 +31,13 @@
        "name":"影视 | 飞云[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/飞云[V2].jsd"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/飞云[V2].js"
 },
 {      "key":"drpy_js_布雷蓝光",
        "name":"影视 | 布雷蓝光[js]",
        "type":3,
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].jsd"
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
 },
 {      "key":"drpy_js_荐片",
        "name":"影视 | 荐片[js]",
@@ -45,28 +45,7 @@
        "api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
 },	  
-{      
-      "key": "探探",
-      "name": "🏵探探┃App",
-      "type": 3,
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;971cbb8debfef67d58cb308856218149" 
-},
-{      
-      "key": "csp_Xinsj",      
-      "name": "🐼新视觉┃直连",
-      "type": 3,     
-      "api": "csp_Xinsj",  
-      "searchable": 1,     
-      "quickSearch": 1,     
-      "filterable": 1,   
-      "ext":"https://www.6080dy3.com",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;971cbb8debfef67d58cb308856218149"
-},
- {
+{
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
