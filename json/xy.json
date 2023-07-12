@@ -21,16 +21,24 @@
       "filterable": 1,
       "changeable": 0
 },
-{
-      "key": "csp_DuoX",
-      "name": "💢多线┃App",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;971cbb8debfef67d58cb308856218149" 
+{      "key":"drpy_js_飞云[V2]",
+       "name":"影视 | 飞云[V2][js]",
+       "type":3,
+	"api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/libs/drpy2.min.js",
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/飞云[V2].js"
 },
+{      "key":"drpy_js_飞云[V2]",
+       "name":"影视 | 飞云[V2][js]",
+       "type":3,
+	"api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/libs/drpy2.min.js",
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/布雷蓝光[V2].jsd"
+},
+{      "key":"drpy_js_飞云[V2]",
+       "name":"影视 | 飞云[V2][js]",
+       "type":3,
+	"api":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/libs/drpy2.min.js",
+       "ext":"https://gh-proxy.com//https://raw.githubusercontent.com/xinyi1984/dr_py_kingfren/main/js/荐片.js"
+},	  
 {      
       "key": "探探",
       "name": "🏵探探┃App",
