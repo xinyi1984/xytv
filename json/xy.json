@@ -21,27 +21,23 @@
       "filterable": 1,
       "changeable": 0
 },
-{
-      "key": "csp_DuoX",
-      "name": "💢多线┃App",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/dx.jar"
-},	  
 {      "key":"drpy_js_影探[V2]",
        "name":"影视 | 影探[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/影探[V2].js"
 },	  
-{      "key":"drpy_js_飞云[V2]",
-       "name":"影视 | 飞云[V2][js]",
+{      "key":"drpy_js_HG影院[V2]",
+       "name":"影视 | HG影院[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/飞云[V2].js"
+       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/HG影院[V2].js"
+},	  
+{      "key":"drpy_js_饭团影视",
+       "name":"影视 | 饭团影视[js]",
+       "type":3,
+       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/饭团影视.js"
 },
 {      "key":"drpy_js_布雷蓝光",
        "name":"影视 | 布雷蓝光[js]",
