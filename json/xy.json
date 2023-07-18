@@ -39,14 +39,14 @@
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/影探[V2].js"
 },
-{      "key":"dikanbot2.",
-       "name":"影视 |ikanbot2[js]",
+{      "key":"rpy_js_酷影[V2]",
+       "name":"影视 |酷影[V2][js]",
        "type":3,
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/ikanbot2.js"
+       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/酷影[V2].js"
 },     
 {
       "key": "dr_兔小贝",
