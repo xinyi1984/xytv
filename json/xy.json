@@ -29,7 +29,16 @@
        "filterable":1,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷[V2].js"
-},	  
+},
+{      "key":"drpy_js_腾讯",
+       "name":"影视 | 腾讯[js]",
+       "type":3,
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/腾云驾雾.js"
+},    
 {      "key":"drpy_js_影探[V2]",
        "name":"影视 | 影探[V2][js]",
        "type":3,
