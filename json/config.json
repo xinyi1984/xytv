@@ -13,7 +13,18 @@
       "changeable": 1,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;349de08500a30a2d439fe472ecd86913" 
     },
-    {      "key":"drpy_js_布雷蓝光[V2]",
+    {
+      "key": "888解忧愁",
+      "name": "888解忧愁",
+      "type": 4,
+      "api": "https://private--t410.repl.co/888",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {      
+       "key":"drpy_js_布雷蓝光[V2]",
        "name":"影视 | 布雷蓝光[V2][js]",
        "type":3,
        "searchable":2,
@@ -22,7 +33,8 @@
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
     },	  
-    {      "key":"drpy_js_影探[V2]",
+    {      
+       "key":"drpy_js_影探[V2]",
        "name":"影视 | 影探[V2][js]",
        "type":3,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
@@ -49,7 +61,8 @@
       "ext":"https://www.6080dy3.com",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;349de08500a30a2d439fe472ecd86913"
     },
-    {  "key": "js_荐片",
+    {  
+       "key": "js_荐片",
        "name": "⏳┃荐片┃影视",
        "type": 3,
        "searchable":1,
