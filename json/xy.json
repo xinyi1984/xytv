@@ -36,6 +36,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
+       "playerType": 2,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
 },   
