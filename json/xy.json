@@ -56,7 +56,24 @@
        "filterable":1,
        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/酷影[V2].js"
-},     
+},
+{
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/duboku.json"
+},
+{
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 1
+},    
 {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
@@ -122,14 +139,6 @@
       "changeable": 0,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;349de08500a30a2d439fe472ecd86913"
 },	  
-{
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-},
 {      
       "key": "csp_WoGG",      
       "name": "👽玩偶哥哥┃4K",
