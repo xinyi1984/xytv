@@ -3,53 +3,43 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    
   "sites": [
-     {
-      "key": "csp_DuoX",
-      "name": "💢多线┃App",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d52bf2f5009a717419eb3280145cfdd5" 
-    },
     {
-      "key": "888解忧愁",
-      "name": "888解忧愁",
-      "type": 4,
-      "api": "https://private--t410.repl.co/888",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {      
-       "key":"drpy_js_布雷蓝光[V2]",
-       "name":"影视 | 布雷蓝光[V2][js]",
-       "type":3,
-       "searchable":2,
-       "quickSearch":0,
-       "filterable":1,
-       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
-    },	  
-    {      
-       "key":"drpy_js_影探[V2]",
-       "name":"影视 | 影探[V2][js]",
-       "type":3,
-       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/影探[V2].js"
-    },	
-    {      
       "key": "探探",
-      "name": "🏵探探┃App",
+      "name": "🏵影探┃App",
       "type": 3,
+      "playerType": "1",
       "api": "csp_YT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d52bf2f5009a717419eb3280145cfdd5"   
-    },
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6"
+    },    
+    {
+      "key": "ku ying",
+      "name": "酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://cms.realdou.cn:62703/api.php/app/",
+      "categories": [
+        "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
+      ],
+      "jar": "https://gh-proxy.com/https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6"
+    }, 
+    {     
+      "key": "js_荐片",
+      "name": "⏳┃荐片┃影视",
+      "type": 3,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "playerType": 1,
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
+    },   
     {      
       "key": "csp_Xinsj",      
       "name": "🐼新视觉┃直连",
