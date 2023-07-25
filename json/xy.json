@@ -23,6 +23,17 @@
       "changeable": 0
 },
 {
+      "key": "探探",
+      "name": "🏵影探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6"
+},    
+{
       "key": "ku ying",
       "name": "酷影",
       "type": 3,
@@ -35,34 +46,9 @@
       "categories": [
         "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
       ],
-      "jar": "https://gitee.com/Lan-tongxue/new/raw/master/jar.jar"
+      "jar": "https://gh-proxy.com/https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6"
 }, 
-{
-      "key": "yt",
-      "name": "影探",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://yt3823.lfytyl.com:80/api.php/app/",
-      "categories": [
-        "新电影4K","新剧4K","电影综合", "电视剧综合", "动漫", "综艺"
-      ],
-      "jar": "https://gitee.com/Lan-tongxue/new/raw/master/jar.jar"
-},    
-{      
-      "key":"drpy_js_布雷蓝光[V2]",
-      "name":"影视 | 布雷蓝光[V2][js]",
-      "type":3,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/布雷[V2].js"
-},
-{    
+{     
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
       "type": 3,
@@ -73,35 +59,6 @@
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
 },   
-{     
-      "key":"drpy_js_影探[V2]",
-      "name":"影视 | 影探[V2][js]",
-      "type":3,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/影探[V2].js"
-},
-{     
-      "key":"rpy_js_酷影[V2]",
-      "name":"影视 |酷影[V2][js]",
-      "type":3,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/酷影[V2].js"
-},
-{
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/duboku.json"
-},
 {
       "key": "巴士",
       "name": "巴士",
