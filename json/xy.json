@@ -23,15 +23,30 @@
       "changeable": 0
 },
 {
-      "key": "酷酷",
-      "name": "ku ying",
+      "key": "ku ying",
+      "name": "酷影",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://ys.realdou.cn:-2833/api.php/app/",
+      "ext": "http://ys.realdou.cn:-2833/api.php/app",
+      "categories": [
+        "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
+      ],
+      "jar": "https://gitee.com/Lan-tongxue/new/raw/master/jar.jar"
+}, 
+{
+      "key": "yt",
+      "name": "酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://ys.realdou.cn:-2833/api.php/app",
       "categories": [
         "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
       ],
