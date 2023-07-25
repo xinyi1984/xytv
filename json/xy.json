@@ -11,6 +11,7 @@
       "filterable": 1,
       "changeable": 0
 },
+
 {
       "key": "csp_QQ",
       "name": "QQ",
@@ -21,6 +22,21 @@
       "filterable": 1,
       "changeable": 0
 },
+{
+      "key": "酷酷",
+      "name": "ku ying",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://cms.realdou.cn:62703/api.php/app/",
+      "categories": [
+        "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
+      ],
+      "jar": "https://gitee.com/Lan-tongxue/new/raw/master/jar.jar"
+},    
 {      
       "key":"drpy_js_布雷蓝光[V2]",
       "name":"影视 | 布雷蓝光[V2][js]",
