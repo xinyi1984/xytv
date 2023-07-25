@@ -44,7 +44,7 @@ try {
 
 var rule = {
 	title: '影探[V2]', // csp_AppYsV2
-	host: 'http://yt234.lfytyl.com',
+	host: 'http://yt432.lfytyl.com',
 	homeUrl:'/api.php/app/index_video',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
