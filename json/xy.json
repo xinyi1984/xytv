@@ -46,7 +46,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://yt3823.lfytyl.com:80/api.php/app",
+      "ext": "http://yt3823.lfytyl.com:80/api.php/app/",
       "categories": [
         "新电影4K","新剧4K","电影综合", "电视剧综合", "动漫", "综艺"
       ],
