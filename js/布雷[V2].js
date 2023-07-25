@@ -1,10 +1,10 @@
 var rule = {
 	title: '布雷蓝光[V2]', // csp_AppYsV2
-	host: 'http://117.175.212.198:8088',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/2.19 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
+	host: 'https://appto-v3-1251970844.cos.ap-chongqing.myqcloud.com/accredits/68.json',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=18&pg=fypage',
-	url: '/appto/v1/vod/getLists?type_id={cateId}&limit=18&pg=21',
+	url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
 	filter: {
 		"1":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"爱情","v":"爱情"},{"n":"剧情","v":"剧情"},{"n":"喜剧","v":"喜剧"},{"n":"家庭","v":"家庭"},{"n":"伦理","v":"伦理"},{"n":"文艺","v":"文艺"},{"n":"音乐","v":"音乐"},{"n":"歌舞","v":"歌舞"},{"n":"动漫","v":"动漫"},{"n":"西部","v":"西部"},{"n":"武侠","v":"武侠"},{"n":"古装","v":"古装"},{"n":"动作","v":"动作"},{"n":"恐怖","v":"恐怖"},{"n":"惊悚","v":"惊悚"},{"n":"冒险","v":"冒险"},{"n":"犯罪","v":"犯罪"},{"n":"悬疑","v":"悬疑"},{"n":"记录","v":"记录"},{"n":"战争","v":"战争"},{"n":"历史","v":"历史"},{"n":"传记","v":"传记"},{"n":"体育","v":"体育"},{"n":"科幻","v":"科幻"},{"n":"魔幻","v":"魔幻"},{"n":"奇幻片","v":"奇幻片"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"内地","v":"内地"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"法国","v":"法国"},{"n":"英国","v":"英国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"德国","v":"德国"},{"n":"泰国","v":"泰国"},{"n":"印度","v":"印度"},{"n":"意大利","v":"意大利"},{"n":"西班牙","v":"西班牙"},{"n":"加拿大","v":"加拿大"},{"n":"其他","v":"其他"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"国语","v":"国语"},{"n":"英语","v":"英语"},{"n":"粤语","v":"粤语"},{"n":"闽南语","v":"闽南语"},{"n":"韩语","v":"韩语"},{"n":"日语","v":"日语"},{"n":"法语","v":"法语"},{"n":"德语","v":"德语"},{"n":"其它","v":"其它"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"},{"n":"2006","v":"2006"},{"n":"2005","v":"2005"},{"n":"2004","v":"2004"},{"n":"2003","v":"2003"},{"n":"2002","v":"2002"},{"n":"2001","v":"2001"},{"n":"2000","v":"2000"},{"n":"1999","v":"1999"},{"n":"1998","v":"1998"},{"n":"1997","v":"1997"},{"n":"1996","v":"1996"},{"n":"1995","v":"1995"},{"n":"1994","v":"1994"},{"n":"1993","v":"1993"},{"n":"1992","v":"1992"},{"n":"1991","v":"1991"},{"n":"1990","v":"1990"}]}],
@@ -20,14 +20,14 @@ var rule = {
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/3.0 (dart:io)'},
 	timeout:5000,
-	class_name:'飞云4K&电影&电视剧&动漫&综艺', // 分类筛选 /api.php/app/nav
-	class_url:'24&1&2&4&3',
+	class_name:'电影&电视剧&动漫&综艺&飞云4K', // 分类筛选 /api.php/app/nav
+	class_url:'1&2&4&3&24',
 	play_parse:true,
 	lazy:`js:
 		if (/m3u8|mp4/.test(input)) {
 			input
 		} else {
-			let purl = request("http://t542879y96.oicp.vip:1014/mao/bulei.php?name=ysysxy&key=kl123456&url=" + input);
+			let purl = request("https://bltv.f3322.net/api/?key=6CCRD2fRGaByuEERjZ&url=" + input);
 			input = {
 				jx: 0,
 				url: JSON.parse(purl).url,
@@ -36,8 +36,7 @@ var rule = {
 		}
 	`,
 	limit:6,
-	推荐:'json:list;vlist;*;*;*;*',
-	double: true,
+	推荐:'json:list[4].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks;vod_id',
 	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_url_with_player;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["name"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=playFrom.join("$$$");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
 	搜索:'*',
