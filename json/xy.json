@@ -1,5 +1,5 @@
 {
-"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;2bf59a083d2ee035ce7f155907e38660",
+"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;92da02a7b85e98e2275a70a1e5c097d8",
   "sites": [
 {
       "key": "i4k",
@@ -11,7 +11,16 @@
       "filterable": 1,
       "changeable": 0
 },
-
+{
+      "key":"豆瓣",
+      "name":"豆瓣荐片(js)",
+      "type":3,
+      "api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+},
 {
       "key": "csp_QQ",
       "name": "QQ",
@@ -47,7 +56,18 @@
         "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
       ],
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-}, 
+},
+{      
+      "key": "csp_WoGG",      
+      "name": "👽玩偶哥哥┃4K",
+      "type": 3,     
+      "api": "csp_WoGG",  
+      "searchable": 0,     
+      "quickSearch": 0,     
+      "filterable": 0,   
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
+},    
 {     
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
@@ -66,6 +86,45 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1
+},
+{
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "filterable": 1,
+      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
+},
+{
+      "key": "MV_vod",
+      "name": "🎸明星┃MV",
+      "type": 1,
+      "api": "https://mv.饭太硬.ml/mv/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
+},
+{
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json"
+},
+{
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
 },    
 {
       "key": "dr_兔小贝",
@@ -76,7 +135,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
 },
     {
       "key": "少儿教育",
@@ -87,7 +146,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/少儿教育.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
 },
     {
       "key": "小学课堂",
@@ -98,7 +157,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/小学课堂.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
 },
     {
       "key": "初中课堂",
@@ -109,7 +168,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/初中课堂.json",
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
     },
     {
       "key": "高中教育",
@@ -120,28 +179,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/高中课堂.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
-},
-{
-      "key": "MV_vod",
-      "name": "🎸明星┃MV",
-      "type": 1,
-      "api": "https://mv.饭太硬.ml/mv/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
-},	  
-{      
-      "key": "csp_WoGG",      
-      "name": "👽玩偶哥哥┃4K",
-      "type": 3,     
-      "api": "csp_WoGG",  
-      "searchable": 0,     
-      "quickSearch": 0,     
-      "filterable": 0,   
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2bf59a083d2ee035ce7f155907e38660"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;92da02a7b85e98e2275a70a1e5c097d8"
 },
 {
       "key": "csp_Woogg",
@@ -188,45 +226,6 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar" 
 },*/
 {
-        "key":"豆瓣",
-        "name":"豆瓣荐片(js)",
-        "type":3,
-        "api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-        "searchable":0,
-        "quickSearch":0,
-        "filterable":1,
-        "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
-},
-{
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json"
-},
-{
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
-},
-{
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
-},
-{
       "key": "Dovx",
       "name": "七夜┃搜索",
       "type": 3,
@@ -235,17 +234,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},
-{
-      "key": "csp_Pape",
-      "name": "纸条┃搜索",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},	  
+},        
 {
       "key": "zhaozy",
       "name": "🔍找资源┃搜索",
@@ -304,6 +293,16 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
       "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
 },
+{
+      "key": "csp_Pape",
+      "name": "纸条┃搜索",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
+},	  
 {
       "key": "push_agent",
       "name": "📨推送",
