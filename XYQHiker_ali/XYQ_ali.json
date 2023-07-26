@@ -202,15 +202,15 @@
 },
 {
       "key": "push_agent",
-      "name": "📽Hike推送",
+      "name": "📽推送",
       "type": 3,
       "api":"csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
+      "playerType":1,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt",
-      "jar": "/https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/Hiker_xyq.jar"
 }
            ],
      "lives": [
