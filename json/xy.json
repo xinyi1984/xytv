@@ -290,7 +290,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "云盘资源",
@@ -301,7 +301,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "云盘资源",
@@ -312,7 +312,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "我的小站",
@@ -323,7 +323,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/我的小站.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "阿里云盘网",
@@ -334,7 +334,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/阿里云盘网.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "豆豆飞",
@@ -345,7 +345,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/豆豆飞.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },
 {
       "key": "土拨鼠",
@@ -356,9 +356,9 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },      
-{
+/*{
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
@@ -368,8 +368,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"/*,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  */
-},
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  
+},*/
 {
       "key": "push_agent",
       "name": "📽Hike推送",
@@ -380,7 +380,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt",
-      "jar": "/https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/Hiker_xyq.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 }
            ],
      "lives": [
