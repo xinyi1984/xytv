@@ -213,18 +213,6 @@
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
 },
-/*{
-      "key": "csp_yydsAli",
-      "name": "YYDS阿里(爬虫)",
-      "type": 3,
-      "api": "csp_yyds",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt&ysysxy&kl132408",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar" 
-},*/
 {
       "key": "Dovx",
       "name": "七夜┃搜索",
@@ -297,12 +285,79 @@
       "key": "csp_Pape",
       "name": "纸条┃搜索",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt"
-},	  
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "云盘资源",
+      "name": "云盘资源┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "云盘资源",
+      "name": "云盘资源┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "我的小站",
+      "name": "我的小站┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/我的小站.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "阿里云盘网",
+      "name": "阿里云盘网┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/阿里云盘网.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "豆豆飞",
+      "name": "豆豆飞┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/豆豆飞.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},
+{
+      "key": "土拨鼠",
+      "name": "土拨鼠┃搜索",
+      "type": 3,
+      "api": "csp_XYQHike",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/XYQH.jar"
+},      
 {
       "key": "push_agent",
       "name": "📨推送",
