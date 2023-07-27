@@ -84,9 +84,12 @@
       "name": "🅱️┃哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/bili.json"
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+      "type": "帕梅拉#太极拳#广场舞#演唱会",
+      "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
+        }
 },
 {
       "key": "MV_vod",
