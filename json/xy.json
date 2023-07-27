@@ -94,7 +94,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/xinyitv/xinyi/raw/master/bili.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/bili.json"
 },
 {
       "key": "MV_vod",
