@@ -51,7 +51,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://ck.realdou.cn/api.php/app/",
+      "ext": "http://cms.realdou.cn:27953/api.php/app/",
       "categories": [
         "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
       ],
