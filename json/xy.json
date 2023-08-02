@@ -68,17 +68,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b82abc9460a81224f59b32ccc0bc03e"
 },
-{
-  "key": "贱贱",
-  "name": "贱贱",
-  "type": 4,
-  "api": "https://test.dovx.tk/csp/jianpian",
-  "playerType": 1,
-  "searchable": 1,
-  "filterable": 1,
-  "quickSearch": 0,
-  "changeable": 0
-},    
 {     
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
