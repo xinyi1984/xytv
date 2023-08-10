@@ -1,3 +1,17 @@
+/*調整 viewType 設定方式
+type 有四種
+rect、oval、full、list
+方、圓、滿、列
+
+ratio 為比例 寬/高
+預設為直向 3:4 = 0.75
+修改橫向 4:3 則是 1.33
+
+"style":{
+    "type":"rect",
+    "ratio":0.75
+}/*
+
 {
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;8aa19c3b92ea248f90f338ece35b23b8",
   "sites": [
@@ -5,7 +19,6 @@
       "key": "i4k",
       "name": "i4k",
       "type": 3,
-      //"style":{"type":"rect","ratio":0.75},
       "style":{"type":"full"},
       "api": "csp_I4K",
       "searchable": 1,
