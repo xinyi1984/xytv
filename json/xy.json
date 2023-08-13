@@ -287,7 +287,6 @@ ratio 為比例 寬/高
       "key": "i4k",
       "name": "i4k",
       "type": 3,
-      "style":{"type":"full"},
       "api": "csp_I4K",
       "searchable": 1,
       "quickSearch": 1,
