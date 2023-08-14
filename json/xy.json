@@ -227,8 +227,8 @@ https://t.me/fongmi_release
 
 調整 viewType 改為 style
 
-type 有 4 種模式
-rect、oval、full、list
+type 有 3 種模式
+rect、oval、list
 
 ratio 為比例 寬/高
 預設為直向 3:4 = 0.75
@@ -240,6 +240,10 @@ ratio 為比例 寬/高
 正方 "style":{ "type":"rect", "ratio":1 }
 正圓 "style":{ "type":"oval" }
 橢圓 "style":{ "type":"oval", "ratio":1.1 }
+
+爬蟲規則與上方一致
+已更新到我倉庫
+請合併 Vod.java
 ://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile-python-armeabi_v7a.apk
 https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile.json
 
@@ -261,23 +265,6 @@ boot：是否自動開啟
 playerType：播放器
 recordable = 0  不記憶
 
-爬蟲規則與上方一致
-已更新到我倉庫
-請合併 Vod.java
-
-調整 viewType 設定方式
-type 有四種
-rect、oval、full、list
-方、圓、滿、列
-
-ratio 為比例 寬/高
-預設為直向 3:4 = 0.75
-修改橫向 4:3 則是 1.33
-
-"style":{
-    "type":"rect",
-    "ratio":0.75
-}
 */
 
 {
