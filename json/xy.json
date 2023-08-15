@@ -352,8 +352,8 @@ recordable = 0  不記憶
       "key":"drpy_js_4KHDR",
       "name":"影视 | 4KHDR[js] | 磁",
       "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/4khdr.js", 
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/4khdr.js", 
       "quickSearch":1, 
       "changeable":1
 },
@@ -361,8 +361,8 @@ recordable = 0  不記憶
       "key":"drpy_js_MP4US",
       "name":"影视 | MP4电影[js] | 磁",
       "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/mp4us.js", 
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/mp4us.js", 
       "quickSearch":1, 
       "changeable":1
 },
@@ -370,8 +370,8 @@ recordable = 0  不記憶
       "key":"drpy_js_电影港",
       "name":"影视 | 电影港[js] | 磁",
       "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/dygang.js",
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/dygang.js",
       "quickSearch":1,
       "changeable":1
 },
@@ -379,8 +379,8 @@ recordable = 0  不記憶
       "key":"drpy_js_极影网",
       "name":"影视 | 极影网[js] | 磁",
       "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/jiyingw.js",
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/jiyingw.js",
       "quickSearch":1,      
       "changeable":1
 }, 
