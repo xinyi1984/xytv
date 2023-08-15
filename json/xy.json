@@ -674,7 +674,7 @@ recordable = 0  不記憶
     "changeable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "api": "./lf_pushagent_min.js"
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/lf_pushagent_min.js"
 }
 /*{
       "key": "push_agent",
