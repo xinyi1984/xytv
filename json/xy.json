@@ -301,17 +301,6 @@ recordable = 0  不記憶
       "changeable": 1
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
-{     
-      "key": "布雷蓝光[V2]",
-      "name": "布雷蓝光[V2]┃影视",
-      "type": 3,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "playerType": 1,
-      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/布雷蓝光[V2].js"
-},    
 {      
       "key": "csp_WoGG",      
       "name": "👽玩偶哥哥┃4K",
