@@ -271,16 +271,6 @@ recordable = 0  不記憶
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;7339906c51e8a2640429367307ff8f96",
   "sites": [
 {
-      "key": "i4k",
-      "name": "i4k",
-      "type": 3,
-      "api": "csp_I4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-},
-{
       "key":"豆瓣",
       "name":"豆瓣荐片(js)",
       "type":3,
@@ -289,16 +279,6 @@ recordable = 0  不記憶
       "quickSearch":0,
       "filterable":1,
       "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
-},
-{
-      "key": "csp_QQ",
-      "name": "QQ",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
 },
 {
       "key": "影探",
