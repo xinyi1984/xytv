@@ -294,6 +294,7 @@ recordable = 0  不記憶
 },    
 {
       "key": "酷影",
+      "name": "💡酷影┃App",
       "type": 3,
       "api": "csp_Kuying",
       "searchable": 1,
