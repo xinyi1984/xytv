@@ -280,6 +280,7 @@ recordable = 0  不記憶
       "filterable":1,
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/drpy.js"
 },
+{"key":"qq","name":"腾讯视频","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},    
 {
       "key": "影探",
       "name": "🏵影探┃App",
