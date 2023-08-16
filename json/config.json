@@ -14,39 +14,24 @@
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/drpy.js"
 },
 {
-      "key": "csp_QQ",
-      "name": "QQ",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-},
-{
       "key": "影探",
       "name": "🏵影探┃App",
       "type": 3,
       "playerType": "1",
-      "api": "csp_YT",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
+      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },    
 {
       "key": "酷影",
-      "name": "💡酷影┃App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kuying",
       "searchable": 1,
-      "playerType": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://cms.realdou.cn:62703/api.php/app/",
-      "categories": [
-        "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
-      ],
+      "changeable": 1,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
 {      
