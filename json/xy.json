@@ -274,11 +274,11 @@ recordable = 0  不記憶
       "key":"豆瓣",
       "name":"豆瓣荐片(js)",
       "type":3,
-      "api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/drpy.js"
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/drpy.js"
 },
 {
       "key": "影探",
