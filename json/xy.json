@@ -294,17 +294,11 @@ recordable = 0  不記憶
 },    
 {
       "key": "酷影",
-      "name": "💡酷影┃App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kuying",
       "searchable": 1,
-      "playerType": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://cms.realdou.cn:-30272/api.php/app/",
-      "categories": [
-        "4K电影","4K电视剧","电影", "电视剧", "综艺", "动漫","儿童4K"
-      ],
+      "changeable": 1
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
 {     
