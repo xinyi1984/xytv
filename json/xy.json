@@ -268,7 +268,7 @@ recordable = 0  不記憶
 */
 
 {
-"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;4ac81d228992179bba786c6a061aa6c7",
+"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;994592166f51db8703a02468c16fe315",
   "sites": [
 {
       "key":"豆瓣",
@@ -311,7 +311,7 @@ recordable = 0  不記憶
       "quickSearch": 0,     
       "filterable": 0,   
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token1.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
 {     
       "key": "js_荐片",
@@ -388,7 +388,7 @@ recordable = 0  不記憶
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
 {
       "key": "AList",
@@ -419,7 +419,7 @@ recordable = 0  不記憶
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
     {
       "key": "少儿教育",
@@ -430,7 +430,7 @@ recordable = 0  不記憶
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/少儿教育.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
     {
       "key": "小学课堂",
@@ -441,7 +441,7 @@ recordable = 0  不記憶
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/小学课堂.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
     {
       "key": "初中课堂",
@@ -452,7 +452,7 @@ recordable = 0  不記憶
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/初中课堂.json",
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
     },
     {
       "key": "高中教育",
@@ -463,7 +463,7 @@ recordable = 0  不記憶
       "quickSearch": 0,
       "changeable": 0,
       "ext": "http://饭太硬.top/x/json/高中课堂.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4ac81d228992179bba786c6a061aa6c7"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
 },
 {
       "key": "csp_Woogg",
