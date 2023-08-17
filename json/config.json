@@ -369,7 +369,7 @@
     {
       "name": "直播ipv6",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "boot": true
