@@ -23,10 +23,11 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
         },
         {
-            "key": "kuqimv_open",
-            "name": "kuqimv_open",
+            "key": "libvio_open",
+            "name": "libvio_open",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/kuqimv_open.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/libvio_open.js",
             "searchable": 1,
             "changeable": 1
         },
