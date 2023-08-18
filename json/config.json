@@ -212,8 +212,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt$$$test2$$$test2"/*,
-      "jar": "https://gh-proxy.comhttps://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  */
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt$$$test2$$$test2"
 },
 {
       "key": "Upyunso",
@@ -224,8 +223,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"/*,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
 },
 {
       "key": "Yiso",
@@ -258,8 +256,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"/*,
-      "jar": "https://gitee.com/xinyitv/xinyi/raw/master/custom_spider_open.jar"  */
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
 },
 {
       "key": "csp_Pape",
@@ -338,18 +335,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },      
-/*{
-      "key": "push_agent",
-      "name": "📨推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"/*,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/custom_spider_open.jar"  
-},*/
 {
       "key": "push_agent",
       "name": "📽Hike推送",
