@@ -372,6 +372,16 @@
         },
         {
             "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
+        }
+       /* {
+            "key": "push_agent",
             "name": "📽Hike推送",
             "type": 3,
             "api": "csp_PushAgent",
@@ -381,7 +391,7 @@
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
-        }
+        }*/
     ],
     "lives": [
         {
