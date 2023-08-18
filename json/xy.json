@@ -54,7 +54,7 @@
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
 },
-{
+*/{
       "key":"drpy_js_4KHDR",
       "name":"影视 | 4KHDR[js] | 磁",
       "type":3,
