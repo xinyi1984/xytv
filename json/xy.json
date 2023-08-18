@@ -642,7 +642,7 @@ recordable = 0  不記憶
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
 },      
-/*{
+{
     "key": "push_agent",
     "name": "推送 | lf_push",
     "type": 3,
@@ -650,9 +650,10 @@ recordable = 0  不記憶
     "changeable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/lf_pushagent_min.js"
-}*/
-{
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/lf_pushagent1_2_min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+}
+/*{
       "key": "push_agent",
       "name": "📽Hike推送",
       "type": 3,
@@ -663,7 +664,7 @@ recordable = 0  不記憶
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
-}
+}*/
            ],
      "lives": [
     
