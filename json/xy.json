@@ -852,6 +852,4 @@ pass：是否免密碼
 boot：是否自動開啟
 playerType：播放器
 recordable = 0  不記憶
-
 */
-
