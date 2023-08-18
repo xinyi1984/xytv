@@ -12,27 +12,6 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/drpy.js"
         },
         {
-            "key": "影探",
-            "name": "🏵影探┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ytcms.lfytyl.com/api.php/app/",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "酷影",
-            "name": "💡酷影┃App",
-            "type": 3,
-            "api": "csp_Kuying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
             "key": "csp_WoGG",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
