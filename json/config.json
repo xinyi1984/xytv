@@ -17,12 +17,11 @@
       "key": "影探",
       "name": "🏵影探┃App",
       "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt",
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://ytcms.lfytyl.com/api.php/app/",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },    
 {
