@@ -23,14 +23,6 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;994592166f51db8703a02468c16fe315"
         },
         {
-            "key": "kunyu77_open",
-            "name": "kunyu77_open",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
