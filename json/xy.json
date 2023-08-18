@@ -54,12 +54,12 @@
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
 },
-*/{
+{
       "key":"drpy_js_4KHDR",
       "name":"影视 | 4KHDR[js] | 磁",
       "type":3,
-      "quickSearch":1, 
-      "changeable":1, 
+      "quickSearch": 1, 
+      "changeable": 1, 
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
