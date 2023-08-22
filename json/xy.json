@@ -371,7 +371,8 @@
             "type": 3,
             "api": "csp_Push",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "push_agent",
