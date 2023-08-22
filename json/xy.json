@@ -33,7 +33,7 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
         },
-        {"
+        {
             "key": "路飛转点播",
             "name": "路飛_MV",
             "type": 3,
@@ -402,7 +402,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0
-        }
+        },
         {
             "key": "push_agent",
             "name": "📽Hike推送",
