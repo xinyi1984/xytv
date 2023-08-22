@@ -65,7 +65,7 @@
             "name": "影视 | 极影网[js] | 磁",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingw.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingwp.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -74,7 +74,7 @@
             "name": "影视 | cilixiong | 磁",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiong.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiongp.js",
             "quickSearch": 1,
             "changeable": 1
         },
