@@ -40,8 +40,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
         },
         {
             "key": "drpy_js_MP4US",
@@ -67,6 +66,24 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingw.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_cilixiong",
+            "name": "影视 | cilixiong | 磁",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiong.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_xb6v",
+            "name": "影视 | xb6v | 磁",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/xb6v.js",
             "quickSearch": 1,
             "changeable": 1
         },
