@@ -65,7 +65,7 @@
             "name": "影视 | 极影网[js] | 磁",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingwp.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingw.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -74,7 +74,7 @@
             "name": "影视 | cilixiong | 磁",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiongp.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiong.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -356,16 +356,14 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
         },
-        /*{
+        {
             "key": "push_agent",
-            "name": "🛴手机┃推送",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a9179c9cefaf271b74c6bb8e8e03ec68"
-        }*/
+            "searchable": 1,
+            "changeable": 0
+        }
         {
             "key": "push_agent",
             "name": "📽Hike推送",
