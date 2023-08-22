@@ -71,7 +71,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb//lf_pushagent.js",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
         {
             "key": "drpy_js_4KHDR",
             "name": "影视 | 4KHDR[js] | 磁",
