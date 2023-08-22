@@ -34,7 +34,7 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
         },
         {"
-            key": "路飛转点播",
+            "key": "路飛转点播",
             "name": "路飛_MV",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js",
@@ -49,7 +49,7 @@
             "ext": ""
         },
         {
-            key": "路飛搜索",
+            "key": "路飛搜索",
             "name": "路飛_搜索",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/ss.js",
