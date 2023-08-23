@@ -23,25 +23,15 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f7950ac2cb5b84c4ec1fdee98589d998"
         },
         {
-            "key": "csp_Bdys",
-            "name": "🐞哔嘀影视",
+            "key": "js_荐片",
+            "name": "⏳┃荐片┃影视",
             "type": 3,
-            "api": "csp_Bdys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
-        },
-        {
-            "key": "csp_JianPian",
-            "name": "🔨荐片",
-            "type": 3,
-            "api": "csp_JianPian",
             "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
         },
         {
             "key": "巴士",
