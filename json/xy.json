@@ -100,11 +100,11 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_cilixiong",
-            "name": "影视 | cilixiong | 磁",
+            "key": "drpy_js_美剧迷",
+            "name": "影视 | 美剧迷[js] | 磁",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/cilixiong.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/meijumi.js",
             "quickSearch": 1,
             "changeable": 1
         },
