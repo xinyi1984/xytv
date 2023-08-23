@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397",
     "sites": [
         {
             "key": "豆瓣",
@@ -23,15 +23,157 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;25490116188e225153155ccdeeccf397"
         },
         {
-            "key": "js_荐片",
-            "name": "⏳┃荐片┃影视",
+            "key": "csp_JianPian",
+            "name": "🔨荐片",
             "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_Ikanbot",
+            "name": "👾Ikanbot",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_Mp4Mov",
+            "name": "🧲Mp4电影",
+            "type": 3,
+            "api": "csp_Mp4Mov",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_New6v",
+            "name": "🧲新6V",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.xb6v.com",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_SeedHub",
+            "name": "🧲SeedHub",
+            "type": 3,
+            "api": "csp_SeedHub",
             "playerType": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_KubaCL",
+            "name": "🧲酷吧电影",
+            "type": 3,
+            "api": "csp_KubaCL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_MeijuTT",
+            "name": "🧲美剧天堂",
+            "type": 3,
+            "api": "csp_MeijuTT",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_MeijuMi",
+            "name": "🧲美剧迷",
+            "type": 3,
+            "api": "csp_MeijuMi",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_BLSGod",
+            "name": "🧲80S影视",
+            "type": 3,
+            "api": "csp_BLSGod",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_Xunlei8",
+            "name": "🧲迅雷吧",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_XYQHikerAL_4KHDR",
+            "name": "🧲📀4KHDR(盘/磁)",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/4KHDR.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_XYQHiker_电影港",
+            "name": "🧲电影港(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/电影港磁力.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_XYQHiker_BT天堂",
+            "name": "🧲✈️BT天堂(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/BT天堂.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key": "csp_XYQHiker_极影网",
+            "name": "🧲极影网(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/极影网.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
         },
         {
             "key":"影探4K",
@@ -52,70 +194,6 @@
             "quickSearch": 1, 
             "filterable": 1,
             "ext": "http://ys.realdou.cn:2683/api.php/app/"
-        },
-        {
-            "key":"drpy_js_kkpans",
-            "name":"影视 | kkpans[js] | 磁",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/kkpans.js", 
-            "quickSearch":1, 
-            "changeable":1, 
-            "timeout":60000
-        },
-        {
-            "key": "drpy_js_4KHDR",
-            "name": "影视 | 4KHDR[js] | 磁",
-            "type": 3,
-            "quickSearch": 1,
-            "changeable": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/4khdr.js"
-        },
-        {
-            "key": "drpy_js_MP4US",
-            "name": "影视 | MP4电影[js] | 磁",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/mp4us.js",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_电影港",
-            "name": "影视 | 电影港[js] | 磁",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/dygang.js",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_极影网",
-            "name": "影视 | 极影网[js] | 磁",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/jiyingw.js",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_美剧迷",
-            "name": "影视 | 美剧迷[js] | 磁",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/meijumi.js",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_xb6v",
-            "name": "影视 | xb6v | 磁",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/xb6v.js",
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "巴士",
@@ -221,8 +299,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "阿里云集合",
@@ -232,8 +309,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "csp_DyyAli",
@@ -244,8 +320,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "Dovx",
@@ -255,8 +330,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "zhaozy",
@@ -267,8 +341,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt$$$test2$$$test2",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt$$$test2$$$test2"
         },
         {
             "key": "Upyunso",
@@ -279,8 +352,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "Yiso",
@@ -291,8 +363,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "csp_PanSearch",
@@ -303,8 +374,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "AliPS",
@@ -315,8 +385,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;25490116188e225153155ccdeeccf397"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "csp_Pape",
@@ -394,15 +463,6 @@
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "push_agent",
