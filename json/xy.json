@@ -31,7 +31,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar"
         },
         {
             "key":"酷影",
@@ -42,7 +42,7 @@
             "quickSearch": 1, 
             "filterable": 1,
             "ext": "http://ys.realdou.cn:2683/api.php/app/",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar"
         },
         {
             "key": "csp_Czsapp",
