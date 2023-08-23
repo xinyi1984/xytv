@@ -54,13 +54,23 @@
             "ext": "http://ys.realdou.cn:2683/api.php/app/"
         },
         {
+            "key":"drpy_js_美剧迷",
+            "name":"影视 | 美剧迷[js] | 磁",
+            "type":3,
+            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/meijumi.js", 
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":60000
+        },
+        {
             "key": "drpy_js_4KHDR",
             "name": "影视 | 4KHDR[js] | 磁",
             "type": 3,
             "quickSearch": 1,
             "changeable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984//xytv/master/js/4khdr.js"
         },
         {
             "key": "drpy_js_MP4US",
