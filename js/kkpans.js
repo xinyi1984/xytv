@@ -81,17 +81,27 @@ d.forEach(function(it) {
 	},
 	搜索:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let new_html=request(HOST, {withHeaders:true});
+
+let new_html=request(HOST + '/search.php?mod=forum', {withHeaders:true});
 let json=JSON.parse(new_html);
 let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
-let cookie=setCk?json[setCk]:"";
+let cookie="";
+if (typeof setCk !== "undefined"){
+	let d=[];
+	for(const key in json[setCk]){
+		if (typeof json[setCk][key] === "string"){
+			log("kkpans header setCk key>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" + json[setCk][key] + " " + (typeof json[setCk][key]));
+			d.push(json[setCk][key].split(";")[0]);
+		}
+	}
+	cookie=d.join(";");
+}
 fetch_params.headers.Cookie=cookie;
 rule_fetch_params.headers.Cookie=cookie;
 log('kkpans search cookie >>>>>>>>>>>>>>>>>>>>>' + cookie);
+log('kkpans search body >>>>>>>>>>>>>>>>>>>>>' + json['body']);
 
-let new_host= HOST + '/search.php?mod=forum';
-
-new_html=request(new_host);
+new_html = json['body'];
 
 let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
 log("kkpans formhash>>>>>>>>>>>>>>>" + formhash);
@@ -105,7 +115,7 @@ log("kkpans search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
 let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
 //log("kkpans search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
-let dlist = pdfa(search_html, 'div#threadlist ul li.list');
+let dlist = pdfa(search_html, 'div.threadlist ul li.list');
 dlist.forEach(function(it){
 	let title = pdfh(it, 'div.threadlist_tit&&Text');
 	if (searchObj.quick === true){
