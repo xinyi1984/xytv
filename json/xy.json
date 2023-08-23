@@ -23,6 +23,28 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;25490116188e225153155ccdeeccf397"
         },
         {
+            "key":"影探4K",
+            "name":"🚛影探┃4K",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
+            "key":"酷影",
+            "name":"🚛酷影┃4K",
+            "type":3,
+            "api":"csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "http://ys.realdou.cn:2683/api.php/app/",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
             "key": "csp_JianPian",
             "name": "🔨荐片",
             "type": 3,
@@ -174,26 +196,6 @@
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/极影网.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
-        },
-        {
-            "key":"影探4K",
-            "name":"🚛影探┃4K",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/"
-        },
-        {
-            "key":"酷影",
-            "name":"🚛酷影┃4K",
-            "type":3,
-            "api":"csp_AppYsV2", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1,
-            "ext": "http://ys.realdou.cn:2683/api.php/app/"
         },
         {
             "key": "巴士",
