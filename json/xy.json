@@ -1,6 +1,6 @@
 {
-    //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar;md5;9d341843f33e3e1ba7fbdda755eb1557",
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;9d341843f33e3e1ba7fbdda755eb1557",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar;md5;9d341843f33e3e1ba7fbdda755eb1557",
+    //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;9d341843f33e3e1ba7fbdda755eb1557",
     "sites": [
         {
             "key": "豆瓣",
