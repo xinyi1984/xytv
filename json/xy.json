@@ -24,6 +24,16 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;649971b75749d5f26bbeda4316d6e4e7"
         },
         {
+            "key": "kkpans",
+            "name": "kkpans(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/kkpans.js"
+        },
+        {
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
