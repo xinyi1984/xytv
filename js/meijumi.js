@@ -166,6 +166,7 @@ playGroups.forEach(function (it) {
 		if (magCount>0){
 			TABS.push("磁力" + groupIndex);
 			haveMag= true;
+			haveDelay = true;
 		}
 		if (aliCount === 1){
 			if (!haveMag && !haveDelay){
@@ -234,6 +235,8 @@ let haveDelay = false;
 playGroups.forEach(function(it){
 	let haveMag = false;
 	if (Object.keys(it["magnet"]).length>0){
+		haveMag = true;
+		haveDelay = true;
 		let d = [];
 		for(const key in it["magnet"]){
 			if (it["magnet"].hasOwnProperty(key)){
@@ -291,40 +294,5 @@ playGroups.forEach(function(it){
 `,
 
 	},
-	搜索:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let params = 'show=title&tempid=1&tbname=article&mid=1&dopost=search&submit=&keyboard=' + encodeURIComponent(KEY);
-let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-let postData = {
-    method: "POST",
-    body: params
-};
-delete(_fetch_params.headers['Content-Type']);
-Object.assign(_fetch_params, postData);
-log("meijumi search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = request( rule.homeUrl + 'e/search/index.php', _fetch_params, true);
-log("meijumi search result>>>>>>>>>>>>>>>" + search_html);
-let d=[];
-let dlist = pdfa(search_html, 'div.mainleft&&ul#post_container&&li');
-dlist.forEach(function(it){
-	let title = pdfh(it, 'div.thumbnail img&&alt');
-	if (searchObj.quick === true){
-		if (title.includes(KEY)){
-			title = KEY;
-		}
-	}
-	let img = pd(it, 'div.thumbnail img&&src', HOST);
-	let content = pdfh(it, 'div.article div.entry_post&&Text');
-	let desc = pdfh(it, 'div.info&&span.info_date&&Text');
-	let url = pd(it, 'div.thumbnail&&a&&href', HOST);
-	d.push({
-		title:title,
-		img:img,
-		content:content,
-		desc:desc,
-		url:url
-		});
-});
-setResult(d);
-`,
+	搜索:'ul.search-page article;h2&&Text;a img&&src;div.entry-content span:eq(1)&&Text;a&&href;div.entry-content div.archive-content&&Text',
 }

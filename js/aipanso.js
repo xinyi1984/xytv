@@ -78,7 +78,7 @@ Object.assign(_fetch_params, withHeaders);
 
 log('aipanso search params >>>>>>>>>>>>>>>>>>>>>' + JSON.stringify(_fetch_params));
 let new_html=request(rule.homeUrl + 'search?page=' + MY_PAGE + '&s=1&t=-1&k=' + encodeURIComponent(KEY) , _fetch_params);
-log('aipanso search new_html >>>>>>>>>>>>>>>>>>>>>' + new_html);
+//log('aipanso search new_html >>>>>>>>>>>>>>>>>>>>>' + new_html);
 let json=JSON.parse(new_html);
 let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
 let cookie="";
