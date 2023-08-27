@@ -228,8 +228,8 @@
             "timeout":30000
         },
         {
-            "key":"drpy_js_愛盤搜",
-            "name":"影视 | 爱盘搜[js](搜索)| 夸",
+            "key":"drpy_js_趣盘搜",
+            "name":"影视 | 趣盘搜[js](搜索)| 夸",
             "type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/funletu.js", 
             "quickSearch":1, 
