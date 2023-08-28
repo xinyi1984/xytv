@@ -46,7 +46,7 @@
                 "type": "4K#电影#电视剧#MV#体育#帕梅拉#太极拳#广场舞#演唱会#白噪音#考公考证#平面设计教学#软件教程#Windows",
                 "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/cookie.txt"
             }
-        },  
+        },
         {
             "key": "阿里云集合",
             "name": "阿里云集合|4K",
@@ -221,6 +221,18 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
         },
+        /*{
+            "key": "push_agent",
+            "name": "📽Hike推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },*/
         {
             "key": "巴士",
             "name": "巴士",
@@ -305,112 +317,114 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
         },
         {
-            "key":"drpy_js_4khdr",
-            "name":"影视 | 🧲📀4KHDR[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/4khdr.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_4khdr",
+            "name": "影视 | 🧲📀4KHDR[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/4khdr.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_KKPANS",
-            "name":"影视 | 🧲KK网盘[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/kkpans.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_KKPANS",
+            "name": "影视 | 🧲KK网盘[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/kkpans.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_mp4us",
-            "name":"影视 | 🧲Mp4电影[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/mp4us.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_mp4us",
+            "name": "影视 | 🧲Mp4电影[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/mp4us.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_jiyingw",
-            "name":"影视 | 🧲极影网[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/jiyingw.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_jiyingw",
+            "name": "影视 | 🧲极影网[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/jiyingw.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_dygang",
-            "name":"影视 | 🧲电影港[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dygang.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_dygang",
+            "name": "影视 | 🧲电影港[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dygang.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_kuba",
-            "name":"影视 | 🧲酷吧电影[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/kuba.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_kuba",
+            "name": "影视 | 🧲酷吧电影[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/kuba.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_meijumi",
-            "name":"影视 | 🧲美剧迷[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/meijumi.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_meijumi",
+            "name": "影视 | 🧲美剧迷[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/meijumi.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_xb6v",
-            "name":"影视 | 🧲新6V[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/xb6v.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_xb6v",
+            "name": "影视 | 🧲新6V[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/xb6v.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_4khdr",
-            "name":"影视 | 🧲磁力熊[js][磁]",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/cilixiong.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_4khdr",
+            "name": "影视 | 🧲磁力熊[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/cilixiong.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_愛盤搜",
-            "name":"影视 | 爱盘搜[js](搜索)| 夸",
-            "type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/aipanso.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_愛盤搜",
+            "name": "影视 | 爱盘搜[js](搜索)| 夸",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/aipanso.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
-            "key":"drpy_js_趣盘搜",
-            "name":"影视 | 趣盘搜[js](搜索)| 夸",
-            "type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/funletu.js", 
-            "quickSearch":1, 
-            "changeable":1,
-            "timeout":30000
+            "key": "drpy_js_趣盘搜",
+            "name": "影视 | 趣盘搜[js](搜索)| 夸",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/funletu.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30000
         },
         {
             "key": "push_agent",
@@ -427,7 +441,7 @@
             "name": "🕹夸克",
             "type": 3,
             "api": "csp_Quark",
-            "changeable":0,
+            "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.txt",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar"
         }
