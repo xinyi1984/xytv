@@ -22,7 +22,8 @@
             "ext": {
                 "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
-            }
+            },
+            "timeout": 30000
         },
         {
             "key": "js_荐片",
@@ -33,7 +34,8 @@
             "filterable": 1,
             "playerType": 1,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js",
+            "timeout": 30000
         },
         {
             "key": "哔哩",
@@ -45,7 +47,8 @@
             "ext": {
                 "type": "4K#电影#电视剧#MV#体育#帕梅拉#太极拳#广场舞#演唱会#白噪音#考公考证#平面设计教学#软件教程#Windows",
                 "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/cookie.txt"
-            }
+            },
+            "timeout": 30000
         },
         {
             "key": "阿里云集合",
@@ -55,7 +58,8 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 10000
         },
         {
             "key": "csp_Woogg",
@@ -66,7 +70,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 20000
         },
         {
             "key": "csp_DyyAli",
@@ -87,7 +92,8 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30000
         },
         {
             "key": "zhaozy",
@@ -98,7 +104,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt$$$test2$$$test2"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt$$$test2$$$test2",
+            "timeout": 30000
         },
         {
             "key": "Upyunso",
@@ -109,7 +116,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30000
         },
         {
             "key": "Yiso",
@@ -120,7 +128,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30000
         },
         {
             "key": "csp_PanSearch",
@@ -131,7 +140,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30000
         },
         {
             "key": "AliPS",
@@ -142,7 +152,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30000
         },
         {
             "key": "csp_Pape",
@@ -153,7 +164,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "云盘资源",
@@ -164,7 +176,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "云盘资源",
@@ -175,7 +188,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "我的小站",
@@ -186,7 +200,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/我的小站.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "阿里云盘网",
@@ -197,7 +212,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/阿里云盘网.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "豆豆飞",
@@ -208,7 +224,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/豆豆飞.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         {
             "key": "土拨鼠",
@@ -219,7 +236,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/土拨鼠搜索.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30000
         },
         /*{
             "key": "push_agent",
@@ -239,7 +257,8 @@
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "timeout": 30000
         },
         {
             "key": "AList",
@@ -249,7 +268,8 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json",
+            "timeout": 30000
         },
         {
             "key": "WebDAV",
@@ -259,7 +279,8 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json",
+            "timeout": 30000
         },
         {
             "key": "dr_兔小贝",
@@ -270,7 +291,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131",
+            "timeout": 30000
         },
         {
             "key": "少儿教育",
@@ -281,7 +303,8 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/少儿教育.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131",
+            "timeout": 30000
         },
         {
             "key": "小学课堂",
@@ -292,7 +315,8 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/小学课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131",
+            "timeout": 30000
         },
         {
             "key": "初中课堂",
@@ -303,7 +327,8 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/初中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131",
+            "timeout": 30000
         },
         {
             "key": "高中教育",
@@ -314,7 +339,8 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/高中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;260fe4a3faeebfb72a5ad2487e0a4131",
+            "timeout": 30000
         },
         {
             "key": "drpy_js_4khdr",
