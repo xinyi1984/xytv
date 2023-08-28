@@ -19,7 +19,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+            }
         },
         {
             "key":"drpy_js_4khdr",
