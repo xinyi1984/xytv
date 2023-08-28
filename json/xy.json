@@ -19,8 +19,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/token.txt$$$https://tvfan.xxooo.cf/"/*,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;260fe4a3faeebfb72a5ad2487e0a4131"*/
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;260fe4a3faeebfb72a5ad2487e0a4131"
         },
         {
             "key":"drpy_js_4khdr",
