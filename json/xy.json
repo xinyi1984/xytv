@@ -157,16 +157,14 @@
             "timeout": 30
         },
         {
-            "key": "csp_Pape",
+            "key": "csp_XiaoZhiTiao",
             "name": "纸条┃搜索",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
-            "timeout": 30
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
             "key": "云盘资源",
