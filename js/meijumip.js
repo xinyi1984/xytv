@@ -3,13 +3,13 @@ var rule = {
 	//host:'https://www.meijumi.xyz',
 	//homeUrl:'/',
 	//url: '/fyclass/page/fypage/?',
-	host:'http://127.0.0.1:10079',
-	homeUrl:'/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.meijumi.net/',
-	url: '/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.meijumi.net/fyclass/page/fypage/?',
+	host:'http://127.0.0.1:10078',
+	homeUrl:'/p/0/socks5%3A%2F%2F192.168.101.1%3A1080/https://www.meijumi.net/',
+	url: '/p/0/socks5%3A%2F%2F192.168.101.1%3A1080/https://www.meijumi.net/fyclass/page/fypage/?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.meijumi.net/?s=**',
+	searchUrl: '/p/0/socks5%3A%2F%2F192.168.101.1%3A1080/https://www.meijumi.net/?s=**',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
@@ -258,10 +258,6 @@ playGroups.forEach(function(it){
 		LISTS.push(newd);
 	}
 	if (Object.keys(it["ali"]).length==1){
-		if (!haveMag && !haveDelay){
-			haveDelay = true;
-			LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
-		}
 		let d = [];
 		for(const key in it["ali"]){
 			if (it["ali"].hasOwnProperty(key)){
@@ -271,15 +267,15 @@ playGroups.forEach(function(it){
 				log('meijumi ali title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi ali burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);
+				if (!haveMag && !haveDelay){
+					haveDelay = true;
+					LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+				}
 			}
 		}
 		LISTS.push(d);
 	}
 	if (Object.keys(it["quark"]).length==1){
-		if (!haveMag && !haveDelay){
-			haveDelay = true;
-			LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
-		}
 		let d = [];
 		for(const key in it["quark"]){
 			if (it["quark"].hasOwnProperty(key)){
@@ -289,6 +285,10 @@ playGroups.forEach(function(it){
 				log('meijumi quark title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi quark burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);
+				if (!haveMag && !haveDelay){
+					haveDelay = true;
+					LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+				}
 			}
 		}
 		LISTS.push(d);
