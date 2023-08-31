@@ -124,13 +124,12 @@
             "key": "YiSo",
             "name": "🎯易搜┃搜索",
             "type": 3,
-            "api": "csp_Yisou",
+            "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
             "timeout": 30
         },
         {
@@ -168,14 +167,28 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
-            "key": "云盘资源",
-            "name": "云盘资源┃搜索",
+            "key": "YiSo",
+            "name": "📀易搜┃搜索[XYQ]",
             "type": 3,
-            "api": "csp_XYQHikerAL",
+            "api": "csp_Yisou",
             "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/云盘资源分享.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30
+        },
+        {
+            "key": "Zhaozy",
+            "name": "📀找资源┃搜索[XYQ]",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
             "timeout": 30
         },
