@@ -121,10 +121,10 @@
             "timeout": 30
         },
         {
-            "key": "Yiso",
+            "key": "YiSo",
             "name": "🎯易搜┃搜索",
             "type": 3,
-            "api": "csp_Yiso",
+            "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
