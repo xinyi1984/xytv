@@ -124,12 +124,13 @@
             "key": "YiSo",
             "name": "🎯易搜┃搜索",
             "type": 3,
-            "api": "csp_YiSo",
+            "api": "csp_Yiso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
             "timeout": 30
         },
         {
