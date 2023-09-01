@@ -388,7 +388,9 @@
             "type": 3,
             "api": "csp_Quark",
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/推送模板.json"
+            "ext": {
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+            }
         }
     ],
     "lives": [
