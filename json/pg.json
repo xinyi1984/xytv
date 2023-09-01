@@ -388,7 +388,7 @@
             "type": 3,
             "api": "csp_Quark",
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.json"
         }
     ],
     "lives": [
