@@ -252,6 +252,17 @@
             "timeout": 30
         },
         {
+            "key":"csp_Xunlei8",
+            "name":"🧲迅雷吧",
+            "type":3,
+            "api":"csp_Xunlei8",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "timeout": 30
+        },
+        {
             "key": "drpy_js_mp4us",
             "name": "影视 | 🧲Mp4电影[js][磁]",
             "type": 3,
