@@ -132,15 +132,6 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
         },
         {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
-        },
-        {
             "key": "巴士",
             "name": "巴士",
             "type": 3,
@@ -383,14 +374,14 @@
             "timeout": 30
         },
         {
-            "key": "push_quark",
-            "name": "🕹夸克",
+            "key": "push_agent",
+            "name": "推送",
             "type": 3,
-            "api": "csp_Quark",
+            "api": "csp_Push",
+            "searchable": 1,
             "changeable": 0,
-            "ext": {
-                "quark_cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.txt"
-            }
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+            "timeout": 30
         }
     ],
     "lives": [
