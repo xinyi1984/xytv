@@ -138,7 +138,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/推送模板.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt"
         },
         {
             "key": "巴士",
