@@ -1,1 +1,10 @@
-
+        {
+            "token":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token1.txt",
+            "open_token":"280位阿里token",
+            "thread_limit":32,
+            "vod_flags":"4k|4kz|auto",
+            "aliproxy":"没有代理可以不填",
+            "proxy":"",
+            "open_api_url":"https://api.xhofe.top/alist/ali_open/",
+            "quark_cookie":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.txt"
+        }
