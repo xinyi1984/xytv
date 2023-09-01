@@ -389,7 +389,7 @@
             "api": "csp_Quark",
             "changeable": 0,
             "ext": {
-                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+                "quark_cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/quark.txt"
             }
         }
     ],
