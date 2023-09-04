@@ -36,6 +36,16 @@
             "timeout": 30
         },
         {
+            "key": "drpy_js_tzfile",
+            "name": "影视 | 🧲团长资源[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/tzfile.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
             "key": "drpy_js_ddys",
             "name": "影视 | 🧲📀低端[js][磁]",
             "type": 3,
