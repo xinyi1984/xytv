@@ -12,6 +12,14 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
         },
         {
+            "key": "影視",
+            "name": "影視",
+            "type": 3,
+            "api": "csp_YingShi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Wogg",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
