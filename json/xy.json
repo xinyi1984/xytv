@@ -12,10 +12,10 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
         },
         {
-            "key": "影視",
-            "name": "影視",
+            "key": "I4K",
+            "name": "I4K",
             "type": 3,
-            "api": "csp_YingShi",
+            "api": "csp_I4K",
             "searchable": 1,
             "changeable": 1
         },
