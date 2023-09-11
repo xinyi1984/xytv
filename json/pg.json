@@ -36,6 +36,26 @@
             "timeout": 30
         },
         {
+            "key": "drpy_js_RRDY網",
+            "name": "影视 | 🧲RRDY網[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/rrdyw.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
+            "key": "drpy_js_高清MP4吧",
+            "name": "影视 | 🧲高清MP4吧[js][磁]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/97tvs.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
             "key": "drpy_js_kkxz",
             "name": "影视 | 🧲kk小站[js][磁]",
             "type": 3,
