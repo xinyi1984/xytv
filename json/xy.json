@@ -294,15 +294,6 @@
             "boot": false
         },
         {
-            "name": "leosam1024 IPv6",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/tive.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
-        },
-        {
             "name": "YanG-1989 IPv6",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
