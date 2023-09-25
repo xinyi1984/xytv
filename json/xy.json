@@ -12,24 +12,6 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
         },
         {
-            "key": "泥巴",
-            "name": "泥巴",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "proxy": true
-        },
-        {
-            "key": "星星",
-            "name": "星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "proxy": true
-        },
-        {
             "key": "I4K",
             "name": "I4K",
             "type": 3,
