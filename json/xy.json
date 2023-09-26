@@ -16,7 +16,7 @@
             "name": "I4K",
             "type": 3,
             "api": "csp_I4K",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 1,
             "timeout": 30
         },
@@ -25,9 +25,9 @@
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
             "api": "csp_Wogg",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": {
                 "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
@@ -51,7 +51,7 @@
             "name": "🅱️┃哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 0,
             "ext": {
                 "type": "4K#电影#电视剧#MV#体育#帕梅拉#太极拳#广场舞#演唱会#白噪音#考公考证#平面设计教学#软件教程#Windows",
