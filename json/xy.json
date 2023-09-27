@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ae36fae04e586a806c5a45206b2a915b",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;a94feb3342028a3c5d708c0797f12468",
     "sites": [
         {
             "key": "豆瓣",
@@ -98,7 +98,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ae36fae04e586a806c5a45206b2a915b",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a94feb3342028a3c5d708c0797f12468",
             "timeout": 30
         },
         {
@@ -110,7 +110,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/少儿教育.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ae36fae04e586a806c5a45206b2a915b",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a94feb3342028a3c5d708c0797f12468",
             "timeout": 30
         },
         {
@@ -122,7 +122,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/小学课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ae36fae04e586a806c5a45206b2a915b",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a94feb3342028a3c5d708c0797f12468",
             "timeout": 30
         },
         {
@@ -134,7 +134,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/初中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ae36fae04e586a806c5a45206b2a915b",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a94feb3342028a3c5d708c0797f12468",
             "timeout": 30
         },
         {
@@ -146,7 +146,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/高中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ae36fae04e586a806c5a45206b2a915b",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a94feb3342028a3c5d708c0797f12468",
             "timeout": 30
         },
         {
