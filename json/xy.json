@@ -74,7 +74,6 @@
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json",
             "timeout": 30
