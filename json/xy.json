@@ -21,6 +21,17 @@
             "timeout": 30
         },
         {
+            "key": "csp_XYQHiker_迷迷剧",
+            "name":"迷迷剧",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/迷迷剧.json",
+            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+        },
+        {
             "key": "csp_Wogg",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
