@@ -29,7 +29,8 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/迷迷剧.json",
-            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
+            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar",
+            "timeout": 30
         },
         {
             "key": "csp_Wogg",
