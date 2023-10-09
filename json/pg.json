@@ -26,6 +26,13 @@
             "timeout": 30
         },
         {
+            "key":"Wobg",
+            "name":"阿里|玩偶表哥",
+            "type":3,
+            "api":"csp_Wobg",
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/token.json"
+        },
+        {
             "key": "Hdhive",
             "name": "影巢",
             "type": 3,
