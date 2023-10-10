@@ -1,16 +1,27 @@
 var rule = {
-            title: '嗷嗷影视',
-            host: 'https://aoao.tv',
-            // homeUrl:'/',
-            url: '/vodshow/fyclass--------fypage---.html',
-            searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
-            filterable: 0,//是否启用分类筛选,
-            headers: {//网站的请求头,完整支持所有的,常带ua和cookies
-                'User-Agent': 'Mozilla/5.0 (Linux; Android 12; NX669J Build/SKQ1.220502.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6055.0 Mobile Safari/537.36',
-                // "Cookie": "searchneed=ok"
-            },
+    title: '嗷嗷影视',
+    host: 'https://aoao.tv',
+    // homeUrl:'/',
+    url: '/vodtype/fyclass--------fypage---.html',
+    searchUrl: '/vodsearch/**----------fypage---.html',
+    searchable: 2,//是否启用全局搜索,
+    quickSearch: 0,//是否启用快速搜索,
+    filterable:1,//是否启用分类筛选,
+    filter_url:'fypage---{{fl.by}}',
+    filter:{
+        "duanju":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "dianying":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "dianshiju":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "zongyi":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "dongman":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
+    },
+    filter_def:{
+        duanju:{cateId:'duanju'},
+        dianying:{cateId:'dianying'},
+        dianshiju:{cateId:'dianshiju'},
+        zongyi:{cateId:'zongyi'},
+        dongman:{cateId:'dongman'}
+    },
             class_parse: 'body&&.navbar&&ul&&li:gt(0);a&&Text;a&&href;.*/(.*?).html',
             play_parse: true,
             lazy: '',
