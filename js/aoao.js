@@ -7,7 +7,7 @@ var rule = {
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.cateId}}--{{fl.by}}------fypage---',
+    filter_url:'--{{fl.by}}------fypage---',
     filter:{
         "duanju":[{"key":"by","name":"排序","value":[{"n":"时间排序","v":"time"},{"n":"人气排序","v":"hits"},{"n":"评分排序","v":"score"}]}],
         "dianying":[{"key":"by","name":"排序","value":[{"n":"时间排序","v":"time"},{"n":"人气排序","v":"hits"},{"n":"评分排序","v":"score"}]}],
