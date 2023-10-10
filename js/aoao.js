@@ -2,7 +2,7 @@ var rule = {
     title: '嗷嗷影视',
     host: 'https://aoao.tv',
     // homeUrl:'/',
-    url: '/vodtype/fyclass--------fypage---.html',
+    url: '/vodshow/fyclass--------fypage---.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
