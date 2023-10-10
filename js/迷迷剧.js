@@ -1,12 +1,24 @@
 var rule = {
-            title: '迷迷剧',
-            host: 'https://mimiju.com',
-            searchUrl: '/v_search/**----------fypage---.html',
-            url: '/vodtype/fyclass-fypage.html',
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Linux; Android 12; NX669J Build/SKQ1.220502.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6050.0 Mobile Safari/537.36'
-            },
-            timeout: 5000,
+    title: '迷迷剧',
+    host: 'https://mimiju.com',
+    searchUrl: '/v_search/**----------fypage---.html',
+    url:'/vodshow/fyclass--------fypage---.html',
+    filterable:1,//是否启用分类筛选,
+    filter_url:'fypage---{{fl.by}}',
+    filter:{
+        "20":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "22":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "21":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "24":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+        "23":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
+    },
+    filter_def:{
+        20:{cateId:'20'},
+        22:{cateId:'22'},
+        21:{cateId:'21'},
+        24:{cateId:'24'},
+        23:{cateId:'23'}
+    },
             class_parse: 'body&&.hl-nav li:gt(0);a&&Text;a&&href;.*/(.*?).html',
             cate_exclude: '明星|专题|最新|排行',
             limit: 40,
