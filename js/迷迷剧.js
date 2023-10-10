@@ -2,7 +2,7 @@ var rule = {
     title: '迷迷剧',
     host: 'https://mimiju.com',
     searchUrl: '/v_search/**----------fypage---.html',
-    url:'/vodshow/fyclass--------fypage---.html',
+    url:'/vodshow/fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}--{{fl.by}}---{{fl.letter}}---fypage---',
     filter:{
