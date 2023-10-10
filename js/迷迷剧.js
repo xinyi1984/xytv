@@ -4,7 +4,7 @@ var rule = {
     searchUrl: '/v_search/**----------fypage---.html',
     url:'/vodshow/fyclass--------fypage---.html',
     filterable:1,//是否启用分类筛选,
-    filter_url:'fypage---{{fl.by}}',
+    filter_url:'fypage---{{fl.ZM}}---{{fl.by}}',
     filter:{
         "20":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
         "22":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
