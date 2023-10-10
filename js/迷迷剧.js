@@ -16,7 +16,7 @@ var rule = {
                 'User-Agent': 'Mozilla/5.0 (Linux; Android 12; NX669J Build/SKQ1.220502.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6050.0 Mobile Safari/537.36'
             },
     timeout: 5000,
-    class_name:'短剧&电影&电视剧&综艺&动漫', // 分类筛选 /api.php/app/nav
+    class_name:'短剧&电影&电视剧&综艺&动漫', // 分类筛选 
     class_url:'20&22&21&24&23',
     class_parse: 'body&&.hl-nav li:gt(0);a&&Text;a&&href;.*/(.*?).html',
     cate_exclude: '明星|专题|最新|排行',
