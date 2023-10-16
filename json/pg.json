@@ -12,6 +12,16 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
         },
         {
+            "key": "荐片",
+            "name": "荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/jianpian.json",
+            "timeout": 30
+        },
+        {
             "key": "csp_Wogg",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
@@ -222,18 +232,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "timeout": 30
-        },
-        {
-            "key": "js_荐片",
-            "name": "⏳┃荐片┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/荐片.js",
             "timeout": 30
         },
         {
