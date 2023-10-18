@@ -42,14 +42,14 @@
             "name":"阿里|玩偶表哥",
             "type":3,
             "api":"csp_Wobg",
-            "ext":"./lib/token.txt$$$"
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/token.json"
         },
         {
             "key":"Hdhive",
             "name":"阿里|影巢",
             "type":3,
             "api":"csp_Hdhive",
-            "ext":"./lib/token.txt$$$socks5://192.168.101.1:1080"
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/token.json"
         },
         {
             "key":"4KHDR",
