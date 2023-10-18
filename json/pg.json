@@ -42,28 +42,33 @@
             "name":"阿里|玩偶表哥",
             "type":3,
             "api":"csp_Wobg",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/token.json"
+            "ext":"./lib/token.txt$$$"
         },
         {
-            "key": "Hdhive",
-            "name": "影巢",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 30
+            "key":"Hdhive",
+            "name":"阿里|影巢",
+            "type":3,
+            "api":"csp_Hdhive",
+            "ext":"./lib/token.txt$$$socks5://192.168.101.1:1080"
         },
         {
-            "key": "drpy_js_4khdr",
-            "name": "影视 | 🧲📀4KHDR[js][磁]",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/4khdr.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30
+            "key":"4KHDR",
+            "name":"4KHDR|网盘",
+            "type":3,
+            "api":"csp_FourKHDR",
+            "ext":"./lib/token.txt$$$./lib/4khdr.txt",
+            "quickSearch":1,
+            "changeable":1,
+            "timeout":60
+        },
+        {
+            "key":"校长影视",
+            "name":"校长影视|网盘",
+            "type":3,"api":"csp_XiaoZhang",
+            "ext":"./lib/token.txt", 
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":30
         },
         {
             "key": "drpy_js_RRDY網",
