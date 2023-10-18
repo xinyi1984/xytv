@@ -32,6 +32,39 @@
             "timeout": 30
         },
         {
+            "key": "短剧网",
+            "name":"短剧网(js)",
+            "type":3,
+            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/短剧网.js",
+            "timeout": 30
+        },
+        {
+            "key": "嗷嗷影视",
+            "name":"嗷嗷影视(js)",
+            "type":3,
+            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/aoao.js",
+            "timeout": 30
+        },
+        {
+            "key": "迷迷剧",
+            "name":"迷迷剧(js)",
+            "type":3,
+            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/迷迷剧.js",
+            "timeout": 30
+        },
+        {
             "key": "csp_Wogg",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
