@@ -1,5 +1,4 @@
 Credit: [xinyi1984/TV/dev](https://github.com/xinyi1984/TV)
-Commit: 32f59ace90ec31dd604afe6cd87048f5ea5fab4b
+Commit: 7ffeb6fa5fa99a48dea1fe40a465eb64a5d15323
 Changelog:
-Clean code
-Update CustomMovement.java
+Update build.gradle
