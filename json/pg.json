@@ -2,6 +2,15 @@
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar",
     "sites": [
         {
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+        },
+        {
             "key": "豆瓣",
             "name": "豆瓣荐片(js)",
             "type": 3,
@@ -486,15 +495,6 @@
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/token.json",
             "timeout": 30
-        },
-        {
-            "key": "應用商店",
-            "name": "應用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
         }
     ],
     "lives": [
