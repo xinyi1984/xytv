@@ -313,28 +313,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": [
-                {
-                    "name": "電視-java-v7",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-armeabi_v7a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "電視-java-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "手機-java-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/mobile-java-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
-                },
-                {
-                    "name": "Android-4.x",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                }
-            ]
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
         }
     ],
     "lives": [
