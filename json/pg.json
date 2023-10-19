@@ -2,13 +2,13 @@
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/fm.nogo.jar",
     "sites": [
         {
-            "key": "應用商店",
-            "name": "應用商店",
+            "key": "应用商店",
+            "name": "应用商店",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/maste/json/market.json"
         },
         {
             "key": "豆瓣",
