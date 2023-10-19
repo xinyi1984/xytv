@@ -9,7 +9,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
-        }
+        },
         {
             "key": "豆瓣",
             "name": "豆瓣荐片(js)",
