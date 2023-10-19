@@ -33,35 +33,35 @@
         },
         {
             "key": "短剧网",
-            "name":"短剧网(js)",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/短剧网.js",
+            "name": "短剧网(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/短剧网.js",
             "timeout": 30
         },
         {
             "key": "嗷嗷影视",
-            "name":"嗷嗷影视(js)",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/aoao.js",
+            "name": "嗷嗷影视(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/aoao.js",
             "timeout": 30
         },
         {
             "key": "迷迷剧",
-            "name":"迷迷剧(js)",
-            "type":3,
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/迷迷剧.js",
+            "name": "迷迷剧(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/迷迷剧.js",
             "timeout": 30
         },
         {
@@ -306,31 +306,31 @@
             "changeable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
-    {
-      "key": "應用商店",
-      "name": "應用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": [
         {
-          "name": "電視-java-v7",
-          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-armeabi_v7a.apk",
-          "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-        },
-        {
-          "name": "電視-java-v8",
-          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-arm64_v8a.apk",
-          "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-        },
-        {
-          "name": "手機-java-v8",
-          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/mobile-java-arm64_v8a.apk",
-          "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": [
+                {
+                    "name": "電視-java-v7",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-armeabi_v7a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "電視-java-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "手機-java-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/mobile-java-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+                }
+            ]
         }
-      ]
-    }
     ],
     "lives": [
         {
