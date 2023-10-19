@@ -1,4 +1,5 @@
 Credit: [xinyi1984/TV/dev](https://github.com/xinyi1984/TV)
-Commit: a79372e39dde564941b9e7428ba2f79a6ce59423
+Commit: 32f59ace90ec31dd604afe6cd87048f5ea5fab4b
 Changelog:
-[leanback] support home style
+Clean code
+Update CustomMovement.java
