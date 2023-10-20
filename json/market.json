@@ -27,15 +27,13 @@
             },
             {
                 "name": "俊于",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/box-apk/TVBox_q215613905.apk
-",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v8a"
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/box-apk/TVBox_q215613905.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/q215613905/TVBoxOS/main/app/src/main/res/drawable-xxxhdpi/app_icon.png"
             },
             {
                 "name": "takagen99",
                 "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/box-apk/mTVBox_takagen99.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/Box/main/app/src/main/res/drawable/app_icon.png"
             }
         ]
     },
