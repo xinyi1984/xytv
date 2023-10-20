@@ -24,6 +24,18 @@
                 "name": "Android-4.x",
                 "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+            },
+            {
+                "name": "俊于",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/box-apk/TVBox_q215613905.apk
+",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            },
+            {
+                "name": "takagen99",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/box-apk/mTVBox_takagen99.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
             }
         ]
     },
