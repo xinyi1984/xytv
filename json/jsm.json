@@ -1,5 +1,5 @@
 {
-    "spider": "./fm.jar",
+    "spider": "./js/fm.jar",
     "sites": [
         {
             "key": "应用商店",
