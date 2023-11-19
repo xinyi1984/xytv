@@ -1,51 +1,5 @@
 {
     "spider": "./js/fm.jar",
-    "lives": [
-        {
-            "name": "直播",
-            "type": 0,
-            "playerType": 1,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "TXT",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-        },
-        {
-            "name": "Json",
-            "type": 1,
-            "playerType": 1,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
-                    ]
-                },
-                {
-                    "name": "ETH",
-                    "urls": [
-                        "proxy://do=live&type=eth&a=0"
-                    ]
-                }
-            ]
-        }
-    ],
     "sites": [
         {
             "key": "应用商店",
@@ -1151,6 +1105,96 @@
             "api": "csp_Push",
             "changeable": 0,
             "ext": "./js/token.json"
+        }
+    ],
+    "lives": [
+        {
+            "name": "直播ipv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "boot": true
+        },
+        {
+            "name": "直播",
+            "type": 0,
+            "url": "http://home.jundie.top:81/ray/tvlive.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "boot": false
+        },
+        {
+            "name": "YanG-1989 IPv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "whpsky-chinatv",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": " YueChan IPv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "APTV IPv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "范明明 IPv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "ZHG IPv6",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "BESTV源",
+            "type": 0,
+            "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
+        },
+        {
+            "name": "youtube.m3u",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "okhttp/3.15",
+            "boot": false
         }
     ],
     "doh": [
