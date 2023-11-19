@@ -2,24 +2,6 @@
     "spider": "./js/fm.jar",
     "lives": [
         {
-            "name": "live.feimao",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-            "url.bak": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "live.dxawi",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "直播",
             "type": 0,
             "playerType": 1,
@@ -1169,15 +1151,6 @@
             "api": "csp_Push",
             "changeable": 0,
             "ext": "./js/token.json"
-        },
-        {
-            "key": "應用商店",
-            "name": "應用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
         }
     ],
     "doh": [
