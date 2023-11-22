@@ -1,8 +1,8 @@
 var rule = {
     title:'腾云驾雾',
     host:'https://v.%71%71.com',
-    homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
-    //homeUrl:'/x/bu/pagesheet/list?_all=1&append=0&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
+    //homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
+    homeUrl:'/x/bu/pagesheet/list?_all=1&append=0&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     url:'/channel/fyclassfyfilter',//解决分类问题
     detailUrl:'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
     // searchUrl:'https://node.video.%71%71.com/x/api/msearch?keyWord=**',
