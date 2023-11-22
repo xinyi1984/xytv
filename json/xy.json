@@ -25,10 +25,9 @@
             "key": "QQ",
             "name": "QQ",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "api": "csp_QQ",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/js/腾云驾雾.js",
             "timeout": 30
         },
         {
