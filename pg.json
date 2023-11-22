@@ -18,6 +18,15 @@
             "searchable": 0,
             "changeable": 0
         },
+        {"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./js/live2vod.js",
+			"ext": "./js/feimaolive.json"
+		},
         {
             "key": "Local",
             "name": "本地",
@@ -117,7 +126,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./js/token.json$$$https://wobge.run.goorm.io$$$null$$$1"
+            "ext": "./js/token.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "新6V",
@@ -139,6 +148,14 @@
             "ext": "null$$$1"
         },
         {
+			"key": "蝴蝶",
+			"name": "蝴蝶┃App",
+			"type": 3,
+			"api": "csp_Hudie",
+			"playerType": 2,
+			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+		},
+        {
             "key": "易搜",
             "name": "阿里|易搜",
             "type": 3,
@@ -159,7 +176,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./js/jianpian.json$$$null$$$1",
+            "ext": "./js/jianpian.json$$$1",
             "timeout": 60
         },
         {
