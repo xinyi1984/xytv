@@ -20,10 +20,29 @@
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
         },
-        
         {
-            "key": "QQ",
-            "name": "QQ",
+            "key": "drpy_js_奇珍异兽",
+            "name": "官源 | 爱奇艺",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/奇珍异兽.js",
+            "timeout": 30
+        },
+        {
+            "key": "drpy_js_优酷",
+            "name": "官源 | 优酷[js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/优酷.js",
+            "timeout": 30
+        },
+        {
+            "key": "drpy_js_腾云驾雾",
+            "name": "官源 | 腾讯[js]",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
