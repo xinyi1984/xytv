@@ -155,7 +155,7 @@
 
 	],
 
-  "cookie":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/cookie.txt",
+  "cookie":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/cookie.txt",
 	"filter": {
 		"考公考证": [{
 				"key": "order",
