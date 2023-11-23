@@ -8,7 +8,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
         },
         {
             "key": "酷狗",
@@ -1128,7 +1128,7 @@
         {
             "name": "直播ipv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "boot": true
@@ -1144,7 +1144,7 @@
         {
             "name": "YanG-1989 IPv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1153,7 +1153,7 @@
         {
             "name": "whpsky-chinatv",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1162,7 +1162,7 @@
         {
             "name": " YueChan IPv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1171,7 +1171,7 @@
         {
             "name": "APTV IPv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1180,7 +1180,7 @@
         {
             "name": "范明明 IPv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1189,7 +1189,7 @@
         {
             "name": "ZHG IPv6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
@@ -1207,7 +1207,7 @@
         {
             "name": "youtube.m3u",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
