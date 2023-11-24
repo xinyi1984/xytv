@@ -11,6 +11,15 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
         },
         {
+            "key": "I4K",
+            "name": "I4K",
+            "type": 3,
+            "api": "csp_I4K",
+            "searchable": 0,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
             "key": "豆瓣",
             "name": "豆瓣荐片(js)",
             "type": 3,
@@ -128,15 +137,6 @@
             "searchable": 0,
             "changeable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/腾云驾雾.js",
-            "timeout": 30
-        },
-        {
-            "key": "I4K",
-            "name": "I4K",
-            "type": 3,
-            "api": "csp_I4K",
-            "searchable": 0,
-            "changeable": 1,
             "timeout": 30
         },
         {
