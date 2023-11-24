@@ -2,15 +2,6 @@
     "spider": "./js/pg.jar",
     "sites": [
         {
-            "key": "应用商店",
-            "name": "应用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
-        },
-        {
             "key": "酷狗",
             "name": "酷狗",
             "type": 3,
@@ -18,15 +9,6 @@
             "searchable": 0,
             "changeable": 0
         },
-        {"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "./js/live2vod.js",
-			"ext": "./js/feimaolive.json"
-		},
         {
             "key": "Local",
             "name": "本地",
@@ -34,13 +16,21 @@
             "api": "csp_Local"
         },
         {
+            "key": "直播转点播",
+            "name": "🐼️┃电视┃直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "./js/live2vod.js",
+            "ext": "./js/feimaolive.json"
+        },
+        {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "./js/dbjp.js"
+            "ext": "./js/douban.json"
         },
         {
             "key": "drpy_js_磁力熊",
@@ -62,7 +52,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云$$$null$$$1",
+                "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
                 "cookie": ""
             }
         },
@@ -74,7 +64,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./js/token.json$$$https://wogg.xyz/$$$null$$$1"
+            "ext": "./js/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
         },
         {
             "key": "Hdhive",
@@ -84,7 +74,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./js/token.json$$$null$$$1"
+            "ext": "./js/tokenm.json$$$null$$$1"
         },
         {
             "key": "Ppxzy",
@@ -94,7 +84,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./js/token.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "./js/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "校长影视",
@@ -105,7 +95,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/token.json$$$null$$$1"
+            "ext": "./js/tokenm.json$$$null$$$1"
         },
         {
             "key": "团长资源",
@@ -116,7 +106,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/token.json$$$null$$$1"
+            "ext": "./js/tokenm.json$$$null$$$1"
         },
         {
             "key": "Wobg",
@@ -126,7 +116,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./js/token.json$$$https://wobge.run.goorm.io$$$1"
+            "ext": "./js/tokenm.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "新6V",
@@ -136,7 +126,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/token.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "./js/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -148,26 +138,26 @@
             "ext": "null$$$1"
         },
         {
-			"key": "蝴蝶",
-			"name": "蝴蝶┃App",
-			"type": 3,
-			"api": "csp_Hudie",
-			"playerType": 2,
-			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
-		},
+            "key": "蝴蝶",
+            "name": "蝴蝶┃App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+        },
         {
             "key": "易搜",
             "name": "阿里|易搜",
             "type": 3,
             "api": "csp_YiSo",
-            "ext": "./js/token.json$$$__51vcke__JkIGvjjs25ETn0wz=5ac42a7e-156c-5f0a-a181-db972f758a12; __51vuft__JkIGvjjs25ETn0wz=1686617642681; __51uvsct__JkIGvjjs25ETn0wz=2; JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704; satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2; __vtins__JkIGvjjs25ETn0wz=%7B%22sid%22%3A%20%22d1f6816b-4047-5382-8777-ef255cdad26f%22%2C%20%22vd%22%3A%203%2C%20%22stt%22%3A%2018544%2C%20%22dr%22%3A%2013746%2C%20%22expires%22%3A%201690127812799%2C%20%22ct%22%3A%201690126012799%7D"
+            "ext": "./js/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
             "key": "盘搜",
             "name": "阿里|盘搜",
             "type": 3,
             "api": "csp_PanSou",
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "賤賤",
@@ -654,21 +644,21 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./js/token.json$$$./js/4khdr.txt$$$null$$$1"
+            "ext": "./js/tokenm.json$$$./js/4khdr.txt$$$1"
         },
         {
             "key": "Sean",
             "name": "阿里|Sean",
             "type": 3,
             "api": "csp_Sean",
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "UP云搜",
             "name": "阿里|UP云搜",
             "type": 3,
             "api": "csp_UpYun",
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "Dovx",
@@ -678,7 +668,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "Gitcafe",
@@ -688,7 +678,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "找資源",
@@ -698,7 +688,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "drpy_js_酷吧",
@@ -925,7 +915,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$null$$$1"
+            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
         },
         {
             "key": "haiwaikan",
@@ -1121,97 +1111,89 @@
             "type": 3,
             "api": "csp_Push",
             "changeable": 0,
-            "ext": "./js/token.json"
+            "ext": "./js/tokenm.json"
+        },
+        {
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
         }
     ],
     "lives": [
         {
-            "name": "直播ipv6",
+            "name": "live.fmm",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "boot": true
+            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "live.fan",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播",
             "type": 0,
-            "url": "http://home.jundie.top:81/ray/tvlive.txt",
+            "playerType": 1,
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "boot": false
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG-1989 IPv6",
+            "name": "TXT",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "playerType": 1,
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         },
         {
-            "name": "whpsky-chinatv",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "name": "Json",
+            "type": 1,
+            "playerType": 1,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         },
         {
-            "name": " YueChan IPv6",
+            "name": "live.feimao",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
+            "playerType": 1,
+            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "APTV IPv6",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
-        },
-        {
-            "name": "范明明 IPv6",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
-        },
-        {
-            "name": "ZHG IPv6",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
-        },
-        {
-            "name": "BESTV源",
-            "type": 0,
-            "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
-        },
-        {
-            "name": "youtube.m3u",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "boot": false
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
+                    ]
+                },
+                {
+                    "name": "ETH",
+                    "urls": [
+                        "proxy://do=live&type=eth&a=0"
+                    ]
+                }
+            ]
         }
     ],
     "doh": [
@@ -1275,6 +1257,7 @@
                 "uhibo.com",
                 ".*boku.*",
                 ".*nivod.*",
+                "*.t4tv.hz.cz",
                 ".*ulivetv.*"
             ]
         },
