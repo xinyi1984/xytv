@@ -1,8 +1,10 @@
 {
 "token":"",
 "open_token":"",
-"thread_limit":32,
+"thread_limit":10,
+"quark_thread_limit":10,
 "vod_flags":"4k|4kz|auto",
+"quark_flags":"4kz|auto",
 "aliproxy":"",
 "proxy":"",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
