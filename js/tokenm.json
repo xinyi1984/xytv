@@ -2,6 +2,8 @@
             "token":"",
             "open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyMWMxMjM0OWYyNTA0MjcyODhkMGJkNDc5N2YxNGZjZSIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA1NTQ3NjM2LCJpYXQiOjE2OTc3NzE2MzYsImp0aSI6IjVlZjBiOWM0MGMyYzQ5ZGQ5MGNlNTgzN2Q4YjliYTQ4In0.BmC240U5TrES2B_KDHLcGp3tAwUodNvvwH4gurBpAv8fzN97JHcAYhII67L-0nDt2D7x6xLhgvNdSwQ3wZcQhg",
             "thread_limit":32,
+            "quark_thread_limit":32,
+            "quark_is_vip":false,
             "vod_flags":"4k|4kz|auto",
             "quark_flags":"4k|4kz|auto",
             "aliproxy":"",
