@@ -11,16 +11,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
         },
         {
-            "key":"配置中心",
-            "name":"配置中心",
-            "type":3,"api":
-            "csp_Config",
-            "searchable":0,
-            "changeable":0,
-            "style":{"type":"rect","ratio":1},
-            "jar": "https://already.free.hr/okcaptain/okjar/main/ok1202.png;md5;bf081722443229b2cc6dd5e459357fc8"
-        },
-        {
             "key": "I4K",
             "name": "I4K",
             "type": 3,
