@@ -11,6 +11,19 @@
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{
+			"key": "獲取阿里云盤Token",
+			"name": "獲取阿里云盤Token",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext":"./lib/tokenm.json"
+		},
+		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
