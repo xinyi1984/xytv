@@ -20,7 +20,7 @@
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./lib/tokenm.json"
+            "ext": "./js/tokenm.json"
         },
         {
             "key": "Local",
