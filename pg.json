@@ -10,6 +10,19 @@
             "changeable": 0
         },
         {
+			"key": "獲取阿里云盤Token",
+			"name": "獲取阿里云盤Token",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext":"./lib/tokenm.json"
+		},
+        {
             "key": "Local",
             "name": "本地",
             "type": 3,
