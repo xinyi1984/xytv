@@ -17,8 +17,7 @@
             "csp_Config",
             "searchable":0,
             "changeable":0,
-            "style":{"type":"rect","ratio":1},
-            "jar": "https://already.free.hr/okcaptain/okjar/main/ok1203.png"
+            "style":{"type":"rect","ratio":1}
         },
         {
             "key": "I4K",
