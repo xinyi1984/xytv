@@ -5,7 +5,7 @@
 
 阿里云盤用戶使用阿里云盤APP升級到5.0以上(訪問www.alipan.com升級），可以把自己當作阿里云盤的VIP用戶。也可以嘗試使用alist
 openapi之外的其他第三方開發者提供的openapi接口來獲取解除限速的優待。黨使用其他第三方開發者的openapi接口時，修改配置文件中open_api_url的設置，要寫到他的完整地址，例如http://aliopenapi.test.com/access_token。並提前通過相應openapi提供方的網站獲取其專屬的opentoken（不可直接使用alist的opentoken）並填入open_token字段。
-可以透过配置中的“獲取阿里云盤Token”的視頻源來實現快捷方便的獲取32位token及opentoken的功能。 
+可以透过配置中的“阿里夸克配置”的視頻源來實現快捷方便的獲取32位token及opentoken的功能。在“阿里夸克配置”中掃過任何一個OpenToken后，會自動激活“轉存原畫”功能
 
 提示：如果遇到極速GO原畫反復快速報錯，不一定是被封號，可嘗試殺掉播放器重啓，或重啓整個播放設備解決。
 提示2：如果遇到“轉存原畫”速度被限制在2M左右，那麽請嘗試在阿里云盤APP裏退出登錄，然後重新登錄，然後刪除播放設備SD卡的TV目錄，在播放器上重新掃碼登錄。
