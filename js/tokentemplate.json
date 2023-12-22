@@ -26,5 +26,9 @@
 "uc_cookie":"",
 "thunder_username":"",
 "thunder_password":"",
-"thunder_captchatoken":""
+"thunder_captchatoken":"",
+"yd_auth":"",
+"yd_thread_limit":4,
+"yd_flags":"4kz|auto",
+"yd_danmu":true
 }
