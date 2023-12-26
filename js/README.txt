@@ -19,7 +19,7 @@ tokenm.json格式説明：
 "vip_thread_limit":10, //這裏是阿里云盤的轉存原畫(OpenToken)并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
 "quark_thread_limit":32, //這裏是夸克網盤GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制並發數，請將此數值改爲10
 "quark_vip_thread_limit":16, //這裏是夸克網盤設置quark_is_vip:true之後的并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
-"quark_is_vip":false, //是否是夸克網盤的VIP用戶，設置為true后，固定10綫程，不受quark_thread_limit控制
+"quark_is_vip":false, //是否是夸克網盤的VIP用戶，設置為true后，綫程數受quark_vip_thread_limit控制
 "vod_flags":"4k|4kz|auto", //這裏是播放阿里雲的畫質選項，4k代表不轉存原畫（GO原畫），4kz代表轉存原畫,其他都代表預覽畫質,可選的預覽畫質包括qhd,fhd,hd,sd,ld，
 "quark_flags":"4kz|auto", //這裏是播放夸克網盤的畫質選項，4kz代表轉存原畫（GO原畫），其他都代表轉碼畫質,可選的預覽畫質包括4k,2k,super,high,low,normal
 "uc_thread_limit":0,
