@@ -41,6 +41,15 @@
             "timeout": 30
         },
         {
+            "key": "新6V",
+            "name": "新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 0,
+            "timeout": 60
+        },
+        {
             "key": "996影院",
             "name": "996影院",
             "type": 3,
@@ -148,8 +157,7 @@
             "name": "WebDAV",
             "type": 3,
             "api": "csp_WebDAV",
-            "searchable": 1,
-            "filterable": 1,
+            "searchable": 0,
             "changeable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json",
             "timeout": 30
@@ -348,9 +356,9 @@
             "name": "推送",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "timeout": 60
         }
     ],
     "lives": [
