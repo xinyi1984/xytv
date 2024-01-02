@@ -41,6 +41,15 @@
             "timeout": 30
         },
         {
+            "key": "盤99",
+            "name": "盤99",
+            "type": 3,
+            "api": "csp_Pan99",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+        },
+        {
             "key": "996影院",
             "name": "996影院",
             "type": 3,
