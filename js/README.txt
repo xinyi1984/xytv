@@ -39,5 +39,11 @@ tokenm.json格式説明：
 "uc_cookie":"這裏填寫通過https://drive.uc.cn網站登錄獲取的cookie",
 "thunder_username":"這裏填入用戶名或手機號，如果是手機號，記得是類似'+86 139123457'這樣的格式，+86后有空格才對",
 "thunder_password":"密碼",
-"thunder_captchatoken":"首次使用迅雷網盤時，需要使用app彈出的登陸地址去接碼登錄，並獲取captchaToken，具體方法參考alist網站的文檔:https://alist.nn.ci/zh/guide/drivers/thunder.html"
+"thunder_captchatoken":"首次使用迅雷網盤時，需要使用app彈出的登陸地址去接碼登錄，並獲取captchaToken，具體方法參考alist網站的文檔:https://alist.nn.ci/zh/guide/drivers/thunder.html",
+"pikpak_username":"PikPak網盤的用戶名",
+"pikpak_password":"PikPak網盤的密碼",
+"pikpak_flags":"4k|auto",
+"pikpak_thread_limit":2,
+"pikpak_vip_thread_limit":2,
+"pikpak_proxy":"用於科學上網連接PikPak網盤的代理服務器地址"
 }
