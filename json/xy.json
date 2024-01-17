@@ -50,10 +50,10 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
-            "key": "泥巴",
-            "name": "泥巴",
+            "key": "新版6V电影网",
+            "name": "新版6V电影网",
             "type": 3,
-            "api": "csp_NiNi",
+            "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 1
         },
