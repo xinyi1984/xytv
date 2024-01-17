@@ -50,14 +50,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
         },
         {
-            "key": "新版6V电影网",
-            "name": "新版6V电影网",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "996影院",
             "name": "996影院",
             "type": 3,
