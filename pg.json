@@ -16,16 +16,36 @@
             "api": "csp_Local"
         },
         {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./js/tokenm.json$$$./js/pikpakclass.json$$$./js/pikpakclass.json.txt.gz"
+        },
+        {
+            "key": "AliShare",
+            "name": "阿里云盘分享",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./js/tokenm.json$$$./js/alishare.txt"
+        },
+        {
             "key": "网盘配置",
             "name": "网盘及彈幕配置",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
             "ext": "./js/tokenm.json"
         },
         {
@@ -51,7 +71,8 @@
             "type": 3,
             "api": "csp_Cs1369",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://www.cs1369.com$$$null$$$1"
         },
         {
             "key": "FirstAid",
@@ -107,7 +128,40 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
+            "ext": "./js/tokenm.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$./js/wogg.json"
+        },
+        {
+            "key": "影视车",
+            "name": "影视车|网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./js/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./js/wogg.json"
+        },
+        {
+            "key": "Wobg",
+            "name": "玩偶表哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./js/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./js/wogg.json"
+        },
+        {
+            "key": "Pan99",
+            "name": "盘99|网盘",
+            "type": 3,
+            "api": "csp_Pan99",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./js/tokenm.json$$$https://pan99.xyz$$$null$$$1"
         },
         {
             "key": "Hdhive",
@@ -129,7 +183,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "./js/tokenm.json$$$https://ppxzy.net$$$null$$$1"
         },
         {
             "key": "校长影视",
@@ -154,17 +208,6 @@
             "ext": "./js/tokenm.json$$$null$$$1"
         },
         {
-            "key": "Wobg",
-            "name": "玩偶表哥|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./js/tokenm.json$$$https://wobge.run.goorm.io$$$1"
-        },
-        {
             "key": "Libvio",
             "name": "LIBVIO|网盘",
             "type": 3,
@@ -173,7 +216,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/tokenm.json$$$https://www.libvio.vip$$$null"
+            "ext": "./js/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
             "key": "PanSearch",
@@ -187,18 +230,34 @@
             "ext": "./js/tokenm.json"
         },
         {
+            "key": "盘搜",
+            "name": "盘搜|网盘",
+            "type": 3,
+            "api": "csp_PanSou",
+            "timeout": 30,
+            "ext": "./js/tokenm.json"
+        },
+        {
             "key": "易搜",
             "name": "易搜|网盘",
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 30,
-            "ext": "./js/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext": "./js/tokenm.json$$$./js/yiso.txt"
         },
         {
-            "key": "盘搜",
-            "name": "盘搜|阿里",
+            "key": "混合盘",
+            "name": "混合盘|网盘",
             "type": 3,
-            "api": "csp_PanSou",
+            "api": "csp_HunHePan",
+            "timeout": 30,
+            "ext": "./js/tokenm.json"
+        },
+        {
+            "key": "秒搜",
+            "name": "秒搜|网盘",
+            "type": 3,
+            "api": "csp_MiaoSou",
             "timeout": 30,
             "ext": "./js/tokenm.json"
         },
@@ -247,6 +306,17 @@
             "ext": "./js/tokenm.json$$$https://dapanso.com$$$null"
         },
         {
+            "key": "PikaSo",
+            "name": "皮卡搜|网盘",
+            "type": 3,
+            "api": "csp_PikaSo",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./js/tokenm.json$$$https://www.pikaso.top/$$$null"
+        },
+        {
             "key": "Qianfan",
             "name": "千帆|网盘",
             "type": 3,
@@ -255,7 +325,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./js/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID="
+            "ext": "./js/tokenm.json$$$https://pan.qianfan.app$$$null$$$./js/qianfan.txt"
         },
         {
             "key": "YunSo",
@@ -827,7 +897,7 @@
         {
             "key": "量子",
             "name": "量子",
-            "type": 0,
+            "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "playerType": 1,
             "searchable": 1,
@@ -836,7 +906,7 @@
         {
             "key": "非凡",
             "name": "非凡",
-            "type": 0,
+            "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playerType": 1,
             "searchable": 1,
@@ -947,7 +1017,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
         }
     ],
     "lives": [
@@ -1021,6 +1091,17 @@
             "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+                        "proxy://do=live&type=live&proxy=&url="
+                    ]
+                }
+            ]
         }
     ],
     "doh": [
@@ -1243,6 +1324,24 @@
             ],
             "regex": [
                 "video/tos/cn"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         },
         {
