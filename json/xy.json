@@ -236,6 +236,18 @@
             "timeout": 30
         },
         {
+            "key": "阿里云集合d",
+            "name": "阿里云集合|4K",
+            "type": 3,
+            "api": "csp_阿里云集合",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/阿里集合.json;https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "jar": "https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/custom_spider.jar",
+            "timeout": 30
+        },
+        {
             "key": "阿里云集合",
             "name": "阿里云集合|4K",
             "type": 3,
