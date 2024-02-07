@@ -3,22 +3,40 @@
         "name": "推荐",
         "list": [
             {
-                "name": "电视-java-v8",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-armeabi_v7a.apk",
+                "name": "dev-v7a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/dev-leanback-java-armeabi_v7a.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v7a"
+                "version": "电视-java-v7"
             },
             {
-                "name": "电视-java-v8",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/leanback-java-arm64_v8a.apk",
+                "name": "dev-v8a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/dev-leanback-java-arm64_v8a.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v8a"
+                "version": "电视-java-v8"
             },
             {
-                "name": "手机-java-v8",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/mobile-java-arm64_v8a.apk",
+                "name": "dev-v8a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/dev-mobile-java-arm64_v8a.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v8a"
+                "version": "手机-java-v8"
+            },
+            {
+                "name": "release-v7a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/release-leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "电视-java-v7"
+            },
+            {
+                "name": "release-v8a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/release-leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "电视-java-v8"
+            },
+            {
+                "name": "release-v8a",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/tv-apk/release-mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "手机-java-v8"
             },
             {
                 "name": "Android-4.x",
