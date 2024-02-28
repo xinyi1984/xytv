@@ -228,6 +228,17 @@
             "timeout": 30
         },
         {
+            "key": "优品搁|YYDSVIP|YYDSHD",
+            "name": "阿优品搁|YYDSVIP|YYDSHD|4K",
+            "type": 3,
+            "api": "csp_优品搁|YYDSVIP|YYDSHD",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+            "timeout": 30
+        },
+        {
             "key": "阿里云集合",
             "name": "阿里云集合|4K",
             "type": 3,
