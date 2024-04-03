@@ -53,8 +53,10 @@
             "key": "短劇",
             "name": "短劇",
             "type": 3,
-            "api": "csp_Duanju",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
