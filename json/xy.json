@@ -55,7 +55,10 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/XBPQ.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/无忧短剧.json"
+             "ext": {
+                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
+                }
         },
         {
             "key": "短剧TV",
@@ -64,9 +67,9 @@
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/XBPQ.jar",
             "ext": {
-            "分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html",
-            "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"
-            }
+                       "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+                        "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"
+                }
         },
         {
             "key": "短劇",
