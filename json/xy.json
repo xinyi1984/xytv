@@ -58,27 +58,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/无忧短剧.json"
         },
         {
-            "key": "XBPQ_葡萄",
-            "name": "🍇短剧┃葡萄",
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/XBPQ.jar",
-            "ext": {
-            "数组": "class=\"stui-vodlist__box&&</li",
-            "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-            "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-            }
-        },
-        {
-            "key": "聚短视频js",
-            "name": "📽️聚短┃视频",
-            "type": 3,
-            "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/短视频.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "看球",
             "name": "看球",
             "type": 3,
