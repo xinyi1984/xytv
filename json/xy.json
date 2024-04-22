@@ -58,6 +58,14 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/无忧短剧.json"
         },
         {
+            "key": "短劇",
+            "name": "短劇",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "看球",
             "name": "看球",
             "type": 3,
