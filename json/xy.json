@@ -69,13 +69,13 @@
             }
         },
         {
-            "key": "短劇",
-            "name": "短劇",
+            "key": "聚短视频js",
+            "name": "📽️聚短┃视频",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0
         },
         {
