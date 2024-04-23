@@ -12,7 +12,7 @@ var rule ={
     limit: 6,
      推荐: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
     double: true, // 推荐内容是否双层定位
-    一级: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
+    一级: '.stui-vodlist__box;ul&&li;a&&title;img&&src;a&&href',
     二级: {
         "title": ".title&&Text;.detail-sketch&&Text",
         "img": ".img&&img&&src",
