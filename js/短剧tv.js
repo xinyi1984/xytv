@@ -15,9 +15,9 @@ var rule ={
     一级: '.stui-pannel_bd .stui-vodlist__box;a&&title;img&&src;;a&&href',
     //一级: 'body&&.stui-pannel_bd;a&&title;img&&src;a&&href',
     二级: {
-        "title": "a&&title",
-        "img": "img",
-        "desc": ".pic-text&&Text",
+        "title": ".title&&Text;.detail-sketch&&Text",
+        "img": "img&&src",
+        "desc": ".stui-content__detail&&p:eq(1)&&Text.stui-content__detail&&p:eq(1)&&Text;.stui-content__detail&&p:eq(2)&&Text;.stui-content__detail&&p:eq(3)&&Text",
         "content": ".detail-sketch&&Text",
         "tabs": ".title&&Text",
         "lists": ".stui-content__playlist:eq(#id)&&li"
