@@ -19,8 +19,8 @@ var rule ={
         "img": "img&&src",
         "desc": ".stui-content__detail&&p:eq(1)&&Text.stui-content__detail&&p:eq(1)&&Text;.stui-content__detail&&p:eq(2)&&Text;.stui-content__detail&&p:eq(3)&&Text",
         "content": ".detail-sketch&&Text",
-        "tabs": ".stui-pannel-box stui-pannel__head.h3&&Text",
-        "lists": ".stui-pannel .stui-pannel__head .stui-pannel_bd .stui-content__playlist&&li"
+        "tabs": ".stui-pannel__head h3&&Text",
+        "lists": ".stui-content__playlist&&li"
         },
         搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
         }
