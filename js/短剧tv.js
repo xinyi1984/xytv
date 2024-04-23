@@ -10,7 +10,7 @@ var rule = {
                 'User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36'
             },
     timeout: 5000,
-    class_parse: 'stui-header__menu&&li;a&&title;a&&href;.*/(.*?).html',
+    class_parse: '.stui-header__menu&&li;a&&title;a&&href;.*/(.*?).html',
     cate_exclude: '明星|专题|最新|排行',
     limit: 40,
     play_parse: true,
