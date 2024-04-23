@@ -10,9 +10,9 @@ var rule ={
     play_parse: true,
     lazy: '',
     limit: 6,
-     推荐: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
+     推荐: '.stui-pannel_bd&&ul&&li;a&&title;img&&src;a&&href',
     double: true, // 推荐内容是否双层定位
-    一级: '.module-items .module-item;a&&title;img&&src;.module-item-text&&Text;a&&href',
+    一级: '.stui-pannel_bd&&ul&&li;a&&title;img&&src;a&&href',
     二级: {
         "title": "a&&title",
         "img": "img&&src",
