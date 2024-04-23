@@ -2,7 +2,7 @@ var rule = {
     title: '短剧tv',
     host: 'http://www.duanjutv.cc/',
     searchUrl: '/vodsearch/**----------fypage---.html',
-    url:'/vodtype/fyclass-fypage',
+    url:'/vodtype/fyclass-fypage.html',
     searchable:2,
     quickSearch:1,
     filterable:0,
