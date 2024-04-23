@@ -3,10 +3,9 @@ var rule = {
     host: 'http://www.duanjutv.cc/',
     searchUrl: '/vodsearch/**----------fypage---.html',
     url:'/vodtype/fyclass-fypage',
-    filterable:1,//是否启用分类筛选,
     searchable:2,
-	quickSearch:1,
-	filterable:0,
+    quickSearch:1,
+    filterable:0,
     headers: {
                 'User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36'
             },
