@@ -20,7 +20,7 @@ var rule ={
         "desc": ".stui-content__detail&&p:eq(1)&&Text.stui-content__detail&&p:eq(1)&&Text;.stui-content__detail&&p:eq(2)&&Text;.stui-content__detail&&p:eq(3)&&Text",
         "content": ".detail-sketch&&Text",
         "tabs": ".stui-pannel__head h3&&Text",
-        "lists": "body&&.stui-content__playlist"
+        "lists": ".stui-content__playlist"
         },
         搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
         }
