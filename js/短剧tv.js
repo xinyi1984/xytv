@@ -6,7 +6,7 @@ var rule ={
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
-    class_parse: '.stui-header__menu&&li;a&&Text;a&&href;.*/(.*?).html',
+    class_parse: '.stui-header__menu&&li;a&&Text;.pic-text&&Text;a&&href;.*/(.*?).html',
     play_parse: true,
     lazy: '',
     limit: 6,
