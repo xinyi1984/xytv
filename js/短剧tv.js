@@ -15,12 +15,12 @@ var rule ={
     一级: '.stui-pannel_bd .stui-vodlist__box;a&&title;img&&src;;a&&href',
     //一级: 'body&&.stui-pannel_bd;a&&title;img&&src;a&&href',
     二级: {
-        "title": ".title&&Text;.detail-sketch&&Text",
+        "title": "h3&&Text;.detail-sketch&&Text",
         "img": "img&&src",
         "desc": ".stui-content__detail&&p:eq(1)&&Text.stui-content__detail&&p:eq(1)&&Text;.stui-content__detail&&p:eq(2)&&Text;.stui-content__detail&&p:eq(3)&&Text",
         "content": ".detail-sketch&&Text",
-        "tabs": ".title&&Text",
-        "lists": ".stui-content__playlist:eq(#id)&&li"
+        "tabs": ".stui-pannel-box stui-pannel__head.h3&&Text",
+        "lists": ".stui-pannel .stui-pannel__head .stui-pannel_bd .stui-content__playlist&&li"
         },
         搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
         }
