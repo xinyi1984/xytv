@@ -1,11 +1,11 @@
 var rule ={
     title: '短剧网',
     host: 'http://5uduanju.com',
-    url: '/vodtype/fyclassfyfilter',
+    url: '/vodtype/fyclass-fypage.html',
     searchUrl: '/vodsearch/-------------.html?wd=**&submit=',
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
-    filterable:1,//是否启用分类筛选,
+    filterable:0,//是否启用分类筛选,
     filter_url:'--{{fl.by}}---{{fl.letter}}---fypage---',
     filter:{
         "nixi":[{"key":"letter","name":"字母","value":[{"n":"A","v":"A"},{"n":"B","v":"B"},{"n":"C","v":"C"},{"n":"D","v":"D"},{"n":"E","v":"E"},{"n":"F","v":"F"},{"n":"G","v":"G"},{"n":"H","v":"H"},{"n":"I","v":"I"},{"n":"J","v":"J"},{"n":"K","v":"K"},{"n":"L","v":"L"},{"n":"M","v":"M"},{"n":"N","v":"N"},{"n":"O","v":"O"},{"n":"P","v":"P"},{"n":"Q","v":"Q"},{"n":"R","v":"R"},{"n":"S","v":"S"},{"n":"T","v":"T"},{"n":"U","v":"U"},{"n":"V","v":"V"},{"n":"W","v":"W"},{"n":"X","v":"X"},{"n":"Y","v":"Y"},{"n":"Z","v":"Z"},{"n":"0-9","v":"0-9"}]},
