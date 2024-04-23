@@ -10,12 +10,12 @@ var rule ={
     play_parse: true,
     lazy: '',
     limit: 6,
-    推荐: 'body&&.stui-pannel_bd;a&&title;img&&src;a&&href',
+    推荐: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
     double: true, // 推荐内容是否双层定位
     一级: 'body&&.stui-pannel_bd;a&&title;img&&src;a&&href',
     二级: {
         "title": "a&&title",
-        "img": "img&&src",
+        "img": "img",
         "desc": ".pic-text&&Text",
         "content": ".detail-sketch&&Text",
         "tabs": ".title&&Text",
