@@ -1,5 +1,5 @@
 var rule = {
-    title: '迷迷剧',
+    title: '短剧tv',
     host: 'http://www.duanjutv.cc/',
     searchUrl: '/vodsearch/**----------fypage---.html',
     url:'/vodtype/fyclass-fypage',
