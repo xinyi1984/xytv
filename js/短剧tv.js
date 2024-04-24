@@ -24,5 +24,5 @@ var rule ={
         "tabs": "body&&.stui-pannel__head",
         "lists": ".stui-content__playlist:eq(#id) li"
         },
-        搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
+        搜索: '.stui-pannel_bd .thumb;a&&title;img&&data-src;.pic-text&&Text;a&&href',
         }
