@@ -2,7 +2,7 @@ var rule ={
     title: '短剧网',
     host: 'http://5uduanju.com',
     url: '/vodtype/fyclass-fypage.html',
-    searchUrl: '//vodsearch/**----------fypage---.html',
+    searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
