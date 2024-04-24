@@ -14,7 +14,6 @@ var rule ={
     推荐: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
     double: true, // 推荐内容是否双层定位
     一级: '.stui-pannel_bd .stui-vodlist__box;a&&title;img&&src;.pic-text&&Text;a&&href',
-    //一级: 'body&&.stui-pannel_bd;a&&title;img&&src;a&&href',
     二级: {
         "title": "h3&&Text;p:eq(0)&&Text",
         "img": "img&&src",
