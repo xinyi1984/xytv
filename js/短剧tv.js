@@ -13,7 +13,7 @@ var rule ={
     play_parse: true,
     lazy: '',
     limit: 6,
-    推荐: '.stui-pannel_bd;ul&&li;a&&title;img&&src;a&&href',
+    推荐: '.stui-panne;*;*;*;*;*',
     double: true, // 推荐内容是否双层定位
     一级: '.stui-pannel_bd .stui-vodlist__box;a&&title;img&&src;.pic-text&&Text;a&&href',
     二级: {
