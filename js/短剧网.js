@@ -16,7 +16,7 @@ var rule ={
     二级: {
         "title": "h1&&Text;.module-item-text&&Text",
         "img": ".module-item-pic&&img&&data-src",
-        "desc": ".video-info-items:eq(0)&&Text;.video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text",
+        "desc": ".video-info-main:eq(0)&&Text;.video-info-main:eq(1)&&Text;.video-info-main:eq(2)&&Text;.video-info-main:eq(3)&&Text",
         "content": ".vod_content&&Text",
         "tabs": ".module-tab-item",
         "lists": ".module-player-list:eq(#id)&&.scroll-content&&a"
