@@ -50,6 +50,17 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/短剧tv.js"
         },
         {
+            "key": "短剧TV",
+            "name": "🍿短剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/XBPQ.jar",
+            "ext": {
+                       "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23", 
+                       "分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html"
+                }
+        },
+        {
             "key": "荐片",
             "name": "荐片",
             "type": 3,
