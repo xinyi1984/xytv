@@ -19,8 +19,8 @@ var rule ={
     二级: {
         "title": "h3&&Text;.pic-text&&Text",
         "img": "img&&src",
-        "desc": "p:eq(0)&&Text;p:eq(1)&&Text;p:eq(2)&&Text;p:eq(3)&&Text",
-        "content": "p:eq(4)&&Text",
+        "desc": "p:eq(0)&&Text;p:eq(1)&&Text;p:eq(2)&&Text;p:eq(3)&&Text;p:eq(4)&&Text",
+        "content": ".detail-content&&Text",
         "tabs": "body&&.stui-pannel__head",
         "lists": ".stui-content__playlist:eq(#id) li"
         },
