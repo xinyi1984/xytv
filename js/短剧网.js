@@ -6,7 +6,7 @@ var rule ={
     searchable: 2,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
-    headers: {'User-Agent@Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36'},
+    headers: {'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'},
     class_parse: '.nav&&ul&&li;a&&Text;a&&href;.*/(.*?).html',
     play_parse: true,
     lazy: '',
