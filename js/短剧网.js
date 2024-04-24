@@ -14,7 +14,7 @@ var rule ={
     double: true, // 推荐内容是否双层定位
     一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
     二级: {
-        "title": "h1&&Text;.video-info-items:eq(3)&&Text",
+        "title": "h1&&Text;.module-item-text&&Text",
         "img": ".module-item-pic&&img&&data-src",
         "desc": ".video-info-items:eq(5)&&Text",
         "content": ".vod_content&&Text",
