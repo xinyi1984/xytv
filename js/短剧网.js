@@ -7,7 +7,7 @@ var rule ={
     quickSearch: 0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
     headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-		'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'
+		'User-Agent':'MOBILE_UA'
 	},
     class_parse: '.nav&&ul&&li;a&&Text;a&&href;.*/(.*?).html',
     play_parse: true,
