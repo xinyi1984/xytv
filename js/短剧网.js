@@ -11,7 +11,7 @@ var rule ={
     play_parse: true,
     lazy: '',
     limit: 6,
-    推荐: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+    推荐: '.module-items;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
     double: true, // 推荐内容是否双层定位
     一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
     二级: {
