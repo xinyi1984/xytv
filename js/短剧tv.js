@@ -21,7 +21,7 @@ var rule ={
         "img": "img&&src",
         "desc": "p:eq(1)&&Text;p:eq(2)&&Text;p:eq(3)&&Text",
         "content": "p:eq(4)&&Text",
-        "tabs": ".stui-pannel__head&&.title&&Text",
+        "tabs": "body&&.stui-pannel__head",
         "lists": ".stui-content__playlist:eq(#id) li"
         },
         搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
