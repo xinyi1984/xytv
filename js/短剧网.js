@@ -1,6 +1,6 @@
 var rule ={
     title: '短剧网',
-    host: 'http://5uduanju.com',
+    host: 'http://5ugv.com',
     url: '/vodtype/fyclass-fypage.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,//是否启用全局搜索,
@@ -24,5 +24,5 @@ var rule ={
         "tabs": ".module-tab-item",
         "lists": ".module-player-list:eq(#id)&&.scroll-content&&a"
         },
-        搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
+        搜索: '.module-items .module-search-item;h3&&Text;img&&data-src;.video-serial&&Text;a&&href',
         }
