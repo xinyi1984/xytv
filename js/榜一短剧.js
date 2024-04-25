@@ -1,6 +1,6 @@
 var rule ={
-    title: '短剧网',
-    host: 'http://5ugv.com',
+    title: '榜一短剧',
+    host: 'https://duanjuu.com/',
     url: '/vodtype/fyclass-fypage.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,//是否启用全局搜索,
