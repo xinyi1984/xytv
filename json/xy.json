@@ -8,7 +8,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1on/market.json"
         },
         {
             "key": "I4K",
@@ -27,7 +27,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/dbjp.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/dbjp.js"
         },
         {
             "key": "榜一短剧",
@@ -37,7 +37,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/榜一短剧.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/榜一短剧.js"
         },
         {
             "key": "短剧tv",
@@ -47,7 +47,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/短剧tv.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/短剧tv.js"
         },
         {
             "key": "荐片",
@@ -57,7 +57,7 @@
             "searchable": 1,
             "changeable": 1,
             "playerType": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/jianpian.json",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/js1on/jianpian.json",
             "timeout": 30
         },
         {
@@ -98,7 +98,7 @@
             "filterable": 1,
             "ext": {
                 "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-                "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+                "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/js1on/wogg.json"
             },
             "timeout": 30
         },
@@ -131,7 +131,7 @@
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/奇珍异兽.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/奇珍异兽.js",
             "timeout": 30
         },
         {
@@ -141,7 +141,7 @@
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/优酷.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/优酷.js",
             "timeout": 30
         },
         {
@@ -151,7 +151,7 @@
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/腾云驾雾.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js1/腾云驾雾.js",
             "timeout": 30
         },
         {
@@ -161,7 +161,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/alist.json",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/js1on/alist.json",
             "timeout": 30
         },
         {
@@ -171,7 +171,7 @@
             "api": "csp_WebDAV",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/webdav.json",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/js1on/webdav.json",
             "timeout": 30
         },
         {
@@ -192,7 +192,7 @@
             "name": "📚儿童┃启蒙",
             "type": 3,
             "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js1/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -207,7 +207,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/少儿教育.json",
+            "ext": "http://饭太硬.top/x/js1on/少儿教育.json",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a352c8f9939103bed243e5432d80b296",
             "timeout": 30
         },
@@ -219,7 +219,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/小学课堂.json",
+            "ext": "http://饭太硬.top/x/js1on/小学课堂.json",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a352c8f9939103bed243e5432d80b296",
             "timeout": 30
         },
@@ -231,7 +231,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/初中课堂.json",
+            "ext": "http://饭太硬.top/x/js1on/初中课堂.json",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a352c8f9939103bed243e5432d80b296",
             "timeout": 30
         },
@@ -243,7 +243,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/高中课堂.json",
+            "ext": "http://饭太硬.top/x/js1on/高中课堂.json",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a352c8f9939103bed243e5432d80b296",
             "timeout": 30
         },
