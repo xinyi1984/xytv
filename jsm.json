@@ -39,7 +39,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./tokenm.json$$$./lib/quarkshare.txt",
+		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./quarkshare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
