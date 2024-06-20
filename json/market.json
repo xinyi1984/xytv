@@ -79,8 +79,18 @@
         ]
     },
     {
-        "name": "正式版",
+        "name": "ok正式版",
         "list": [
+            {
+                "name": "海信专版",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+            },
+            {
+                "name": "电视版-X5离线",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/电视版-X5离线.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+            },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
@@ -106,7 +116,7 @@
                 "version": "v8a"
             },
             {
-                "name": "Android-4.x",
+                "name": "kitkat-Android-4.x",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
@@ -137,8 +147,18 @@
         ]
     },
     {
-        "name": "內測版",
+        "name": "ok內測版",
         "list": [
+            {
+                "name": "海信专版",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/海信专版.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+            },
+            {
+                "name": "电视版-X5离线",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/电视版-X5离线.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+            },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
@@ -217,7 +237,7 @@
                 "version": "v8a"
             },
             {
-                "name": "Android-4.x",
+                "name": "kitkat-Android-4.x",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/kitkat/leanback.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
