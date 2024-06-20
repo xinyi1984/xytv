@@ -5,61 +5,61 @@
             {
                 "name": "fongmi-20240620-0646",
                 "url": "https://gh-proxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240620-1241/fongmi_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "fongmi-20240620-0646",
                 "url": "https://gh-proxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240620-1226/fongmi_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "fongmi-20240620-0646",
                 "url": "https://gh-proxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240620-1226/fongmi_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "dev-20240619-2037",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-2037/dev_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "dev-20240619-2037",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-2037/dev_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "dev-20240619-2037",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-2037/dev_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "release-20240620-1339",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-1716/release_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "release-20240620-1339",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-1716/release_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "release-20240620-1339",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240619-1716/release_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "Android-4.x",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "俊于",
@@ -74,7 +74,7 @@
             {
                 "name": "小白文件管理器",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/master/xbwjglqtvb.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xb.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xb.png"
             }
         ]
     },
@@ -84,54 +84,54 @@
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "Android-4.x",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             }
         ]
@@ -142,49 +142,49 @@
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             }
         ]
@@ -195,54 +195,54 @@
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "Android-4.x",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             }
         ]
@@ -253,49 +253,49 @@
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png",
                 "version": "v8a"
             }
         ]
@@ -306,72 +306,72 @@
             {
                 "name": "ffmpeg",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libffmpegJNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "av1",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libgav1JNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "荐片",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libjpa.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "磁力-1",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_stat.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "磁力-2",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_thunder_sdk.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "晴天",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libmitv.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P2P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp2p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P3P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp3p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P4P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp4p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P5P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp5p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P6P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp6p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P7P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp7p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P8P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp8p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "P9P",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp9p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             }
         ]
     },
@@ -381,27 +381,27 @@
             {
                 "name": "ffmpeg",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libffmpegJNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "av1",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libgav1JNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "荐片",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libjpa.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "磁力-1",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_stat.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             },
             {
                 "name": "磁力-2",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_thunder_sdk.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ys.png"
             }
         ]
     },
@@ -411,14 +411,14 @@
             {
                 "name": "watson",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1027.zip",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/mz.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/mz.png",
                 "copy": "file://Download/JS/js.json",
                 "version": "10/27"
             },
             {
                 "name": "香雅情",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xyq.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xyq.png",
                 "copy": "file://Download/XYQTVBox/XYQTVBox.json",
                 "version": "10/30"
             }
