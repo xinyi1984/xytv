@@ -411,14 +411,14 @@
             {
                 "name": "watson",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1027.zip",
-                "icon": "https://i.imgs.ovh/2023/10/20/2I7XH.jpeg",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/mz.png",
                 "copy": "file://Download/JS/js.json",
                 "version": "10/27"
             },
             {
                 "name": "香雅情",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
-                "icon": "https://i.imgs.ovh/2023/10/20/2IO0D.jpeg",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xyq.png",
                 "copy": "file://Download/XYQTVBox/XYQTVBox.json",
                 "version": "10/30"
             }
