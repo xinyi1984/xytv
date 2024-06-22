@@ -5,76 +5,76 @@
             {
                 "name": "fongmi-20240622-1614",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240622-1614/fongmi_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "fongmi-20240622-1614",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240622-1614/fongmi_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "fongmi-20240622-1614",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240622-1614/fongmi_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "dev-20240621-0002",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0002/dev_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "dev-20240621-0002",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0002/dev_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "dev-20240621-0002",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0002/dev_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "release-20240622-1134",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0900/release_leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v7"
             },
             {
                 "name": "release-20240622-1134",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0900/release_leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v8"
             },
             {
                 "name": "release-20240622-1134",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240621-0900/release_mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "手机-java-v8"
             },
             {
                 "name": "Android-4.x",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "俊于",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20231105-0923/TVBox_q215613905.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/jy.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/jy.png"
             },
             {
                 "name": "takagen99",
                 "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240612-1920/TVBox_takagen99.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/tk.png"
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/tk.png"
             },
             {
                 "name": "小白文件管理器",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/master/xbwjglqtvb.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/xb.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/master/xbwjglqtvb.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/xb.png"
             }
         ]
     },
@@ -83,65 +83,65 @@
         "list": [
             {
                 "name": "海信专版",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "电视版-X5离线",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/电视版-X5离线.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/电视版-X5离线.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "kitkat-Android-4.x",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             }
         ]
@@ -151,60 +151,60 @@
         "list": [
             {
                 "name": "海信专版",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "电视版-X5离线",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/电视版-X5离线.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/电视版-X5离线.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             }
         ]
@@ -214,55 +214,55 @@
         "list": [
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "kitkat-Android-4.x",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/kitkat/leanback.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/kitkat/leanback.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             }
         ]
@@ -272,50 +272,50 @@
         "list": [
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "v8a"
             }
         ]
@@ -325,73 +325,73 @@
         "list": [
             {
                 "name": "ffmpeg",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libffmpegJNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libffmpegJNI.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "av1",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libgav1JNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libgav1JNI.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "荐片",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libjpa.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libjpa.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "磁力-1",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_stat.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_stat.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "磁力-2",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_thunder_sdk.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libxl_thunder_sdk.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "晴天",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libmitv.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libmitv.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P2P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp2p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp2p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P3P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp3p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp3p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P4P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp4p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp4p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P5P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp5p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp5p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P6P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp6p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp6p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P7P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp7p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp7p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P8P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp8p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp8p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "P9P",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp9p.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/armeabi-v7a/libp9p.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             }
         ]
     },
@@ -400,28 +400,28 @@
         "list": [
             {
                 "name": "ffmpeg",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libffmpegJNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libffmpegJNI.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "av1",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libgav1JNI.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libgav1JNI.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "荐片",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libjpa.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libjpa.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "磁力-1",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_stat.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_stat.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             },
             {
                 "name": "磁力-2",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_thunder_sdk.so",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/arm64-v8a/libxl_thunder_sdk.so",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png"
             }
         ]
     },
@@ -430,15 +430,15 @@
         "list": [
             {
                 "name": "watson",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1027.zip",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/mz.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1027.zip",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/mz.png",
                 "copy": "file://Download/JS/js.json",
                 "version": "10/27"
             },
             {
                 "name": "香雅情",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/xyq.png",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/xyq.png",
                 "copy": "file://Download/XYQTVBox/XYQTVBox.json",
                 "version": "10/30"
             }
