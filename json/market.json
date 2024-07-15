@@ -21,20 +21,20 @@
                 "version": "手机-java-v8"
             },
             {
-                "name": "dev-20240713-1509",
-                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240713-1509/dev_leanback-java-armeabi_v7a.apk",
+                "name": "dev-20240715-1108",
+                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240715-1108/dev_leanback-java-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v7"
             },
             {
-                "name": "dev-20240713-1509",
-                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240713-1509/dev_leanback-java-arm64_v8a.apk",
+                "name": "dev-20240715-1108",
+                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240715-1108/dev_leanback-java-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "电视-java-v8"
             },
             {
-                "name": "dev-20240713-1509",
-                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240713-1509/dev_mobile-java-arm64_v8a.apk",
+                "name": "dev-20240715-1108",
+                "url": "https://mirror.ghproxy.com/https://github.com/xinyi1984/TVBox-TV/releases/download/20240715-1108/dev_mobile-java-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/log/fm.png",
                 "version": "手机-java-v8"
             },
