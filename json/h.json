@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "http://ftp6284928.host108.abeiyun.cn/h/jar/h.jar;md5;2fc9c87d30ac91b143d96d0ad7e8b81b",
+  "spider": "http://ftp6284928.host108.abeiyun.cn/h/jar/h.jar;md5;aaae6ee5baa3204e91965299a389f839",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
     {
