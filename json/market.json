@@ -3,20 +3,20 @@
         "name": "推荐",
         "list": [
             {
-                "name": "fongmi-20250207-0913",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250207-0913/fongmi_leanback-java-armeabi_v7a.apk",
+                "name": "fongmi-20250208-1511",
+                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250208-1511/fongmi_leanback-java-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "电视-java-v7"
             },
             {
-                "name": "fongmi-20250207-0913",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250206-1711/fongmi_leanback-java-arm64_v8a.apk",
+                "name": "fongmi-20250208-1511",
+                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250208-1511/fongmi_leanback-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "电视-java-v8"
             },
             {
-                "name": "fongmi-20250207-0913",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250207-0913/fongmi_mobile-java-arm64_v8a.apk",
+                "name": "fongmi-20250208-1511",
+                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250208-1511/fongmi_mobile-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "手机-java-v8"
             },
