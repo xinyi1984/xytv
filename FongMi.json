@@ -43,7 +43,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [
+  "sites": [{"key": "应用商店","name": "应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"},
     {
       "key": "Tg | 豆瓣",
       "name": "Tg | 豆瓣",
