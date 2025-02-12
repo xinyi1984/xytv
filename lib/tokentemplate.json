@@ -6,7 +6,7 @@
 "oauth_client_secret":"",
 "oauth_auth_url":"",
 "oauth_refresh_url":"",
-"is_vip":false,
+"is_vip":true,
 "vip_thread_limit":32,
 "vip_thread_limit_night":"19-23=10",
 "vod_flags":"4kz|auto",
