@@ -1,6 +1,6 @@
 
 
-更多使用信息参阅https://t.me/juejijianghu 发布频道
+更多使用信息参阅https://t.me/juejijianghu 发布频道1
              https://t.me/juejijianghuchat 聊天频道
 
 各网盘ck配置可以参考alist里的网盘添加
