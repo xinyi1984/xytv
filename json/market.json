@@ -235,24 +235,5 @@
                 "version": "v8a"
             }
         ]
-    },
-    {
-        "name": "本地包",
-        "list": [
-            {
-                "name": "watson",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1027.zip",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/mz.png",
-                "copy": "file://Download/JS/js.json",
-                "version": "10/27"
-            },
-            {
-                "name": "香雅情",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/xyq.png",
-                "copy": "file://Download/XYQTVBox/XYQTVBox.json",
-                "version": "10/30"
-            }
-        ]
     }
 ]
