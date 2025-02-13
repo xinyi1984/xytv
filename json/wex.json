@@ -4,7 +4,7 @@
 
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
-  "sites": [
+  "sites": [{"key": "应用商店","name": "应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json","jar": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
     {
 	  "key":"Douban",
 	  "name":"🐮【公众号：王二小放牛娃】🐮",
