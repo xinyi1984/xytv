@@ -251,6 +251,13 @@
     ],
     "lives": [
         {
+            "name": "catvod.com",
+            "type": 0,
+            "url": "https://iptv.catvod.com/tv.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15"
+        },
+        {
             "name": "钵钵鸡",
             "type": 0,
             "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u",
