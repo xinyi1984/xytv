@@ -7,12 +7,16 @@
             "url": "https://www.freetv.top/migu.m3u"
         },
         {
-            "name": "type=m3u",
-            "url": "http://168.138.9.147:50001/Sub?type=m3u"
-        },
-        {
             "name": "Guovin",
             "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+        },
+        {
+            "name": "Ftindy-IPTV",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"
+        },
+        {
+            "name": "Ftindy-IPV6",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u"
         },
         {
             "name": "catvod-live",
