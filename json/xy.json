@@ -9,9 +9,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json", 
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c918172a69f55674f6b99a821ddd2b04",
-            
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json"
         },
         {
             "key": "豆瓣",
