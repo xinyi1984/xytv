@@ -3,93 +3,22 @@
         "name": "推荐",
         "list": [
             {
-                "name": "fongmi-20250220-0320",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250220-0320/fongmi_leanback-java-armeabi_v7a.apk",
+                "name": "電視-java ",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v7"
+                "version": "v7a"
             },
             {
-                "name": "fongmi-20250220-0320",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250220-0320/fongmi_leanback-java-arm64_v8a.apk",
+                "name": "電視-java ",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v8"
+                "version": "v8a"
             },
             {
-                "name": "fongmi-20250220-0320",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250220-0320/fongmi_mobile-java-arm64_v8a.apk",
+                "name": "手機-java",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/mobile-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "手机-java-v8"
-            },
-            {
-                "name": "okjack-20241001-0815",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20241001-0815/dev_leanback-java-armeabi_v7a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v7"
-            },
-            {
-                "name": "okjack-20241001-0815",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20241001-0815/dev_leanback-java-arm64_v8a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v8"
-            },
-            {
-                "name": "okjack-20241001-0815",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20241001-0815/dev_mobile-java-arm64_v8a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "手机-java-v8"
-            },
-            {
-                "name": "release-20250213-1008",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250213-1008/release_leanback-java-armeabi_v7a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v7"
-            },
-            {
-                "name": "release-20250213-1008",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250213-1008/release_leanback-java-arm64_v8a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "电视-java-v8"
-            },
-            {
-                "name": "release-20250213-1008",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20250213-1008/release_mobile-java-arm64_v8a.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "手机-java-v8"
-            },
-            {
-                "name": "Android-4.x",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png"
-            },
-            {
-                "name": "俊于",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20231105-0923/TVBox_q215613905.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/jy.png"
-            },
-            {
-                "name": "takagen99-arm64-generic",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20240929-1529/TVBox_takagen99_20240929-1529arm64-generic.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/tk.png"
-            },
-            {
-                "name": "takagen99-arm64-hisense",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20240929-1529/TVBox_takagen99_20240929-1529arm64-hisense.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/tk.png"
-            },
-            {
-                "name": "takagen99-armeabi-generic",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20240929-1529/TVBox_takagen99_20240929-1529armeabi-generic.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/tk.png"
-            },
-            {
-                "name": "takagen99-armeabi-hisense",
-                "url": "https://ghfast.top/https://github.com/xinyi1984/TVBox-TV/releases/download/20240929-1529/TVBox_takagen99_20240929-1529armeabi-hisense.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/tk.png"
-            },
-            {
-                "name": "小白文件管理器",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/master/xbwjglqtvb.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/xb.png"
+                "version": "v8a"
             }
         ]
     },
