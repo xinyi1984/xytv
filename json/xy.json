@@ -7,20 +7,12 @@
             "url": "http://222.186.10.33:50002/m3u/judy8899.m3u"
         },
         {
-            "name": "牛播一（仅新版影视仓/ok影视）",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
             "name": "Guovin",
             "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
         },
         {
-            "name": "catvod-live",
-            "url": "https://live.catvod.com/tv.m3u"
+            "name": "suxuang-ipv6",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
         {
             "name": "catvod-iptv",
