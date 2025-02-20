@@ -3,28 +3,17 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "lives": [
         {
-            "name": "肥羊tv",
-            "url": "http://35455.koyeb.app/tv.m3u"
-        },
-        {
-            "name": "肥羊tptv",
-            "url": "http://35455.koyeb.app/tptv.m3u"
-        },
-        {
-            "name": "肥羊bililive",
-            "url": "http://35455.koyeb.app/bililive.m3u"
-        },
-        {
-            "name": "肥羊huyayqk",
-            "url": "http://35455.koyeb.app/huyayqk.m3u"
-        },
-        {
-            "name": "肥羊douyuyqk",
-            "url": "http://35455.koyeb.app/douyuyqk.m3uu"
-        },
-        {
-            "name": "肥羊ylunbo.m3u",
-            "url": "http://35455.koyeb.app/ylunbo.m3u"
+            "name": "最强国内直播(合并版)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
+            "ext": "https://raw.githubusercontent.com/xinyi1984/xytv/master/lib/allinone.tar.xz;md5;https://raw.githubusercontent.com/xinyi1984/xytv/master/lib/allinone.tar.xz.md5",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
         },
         {
             "name": "Guovin",
