@@ -3,8 +3,28 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "lives": [
         {
-            "name": "肥羊咪咕",
+            "name": "肥羊tv",
             "url": "http://35455.koyeb.app/tv.m3u"
+        },
+        {
+            "name": "肥羊tptv",
+            "url": "http://35455.koyeb.app/tptv.m3u"
+        },
+        {
+            "name": "肥羊bililive",
+            "url": "http://35455.koyeb.app/bililive.m3u"
+        },
+        {
+            "name": "肥羊huyayqk",
+            "url": "http://35455.koyeb.app/huyayqk.m3u"
+        },
+        {
+            "name": "肥羊douyuyqk",
+            "url": "http://35455.koyeb.app/douyuyqk.m3uu"
+        },
+        {
+            "name": "肥羊ylunbo.m3u",
+            "url": "http://35455.koyeb.app/ylunbo.m3u"
         },
         {
             "name": "Guovin",
