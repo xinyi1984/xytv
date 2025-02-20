@@ -19,18 +19,6 @@
                 "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/mobile-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v8a"
-            },
-            {
-                "name": "allinone.tar.xz",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": ""
-            },
-            {
-                "name": "allinone.tar.xz.md5",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": ""
             }
         ]
     },
