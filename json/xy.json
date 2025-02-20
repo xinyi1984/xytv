@@ -12,11 +12,19 @@
         },
         {
             "name": "suxuang-ipv6",
-            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
         {
-            "name": "catvod-iptv",
-            "url": "https://iptv.catvod.com/tv.m3u"
+            "name": "kimwang1978",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/blob/main/live.m3u"
+        },
+        {
+            "name": "yuanzl77",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
+        },
+        {
+            "name": "vbskycn",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u"
         },
         {
             "name": "TXT",
