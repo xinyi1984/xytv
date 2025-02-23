@@ -3,6 +3,14 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "lives": [
         {
+            "name": "沐辰itv-洛杉矶",
+            "url": "https://mc.wqwqwq.sbs/Sub?type=m3u"
+        },
+        {
+            "name": "沐辰itv-卢森堡",
+            "url": "https://mclu.wqwqwq.sbs/Sub?type=m3u"
+        },
+        {
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg": "http://epg.51zmt.top:8000/e.xml",
@@ -14,8 +22,12 @@
             }
         },
         {
-            "name": "肥羊最新docker",
+            "name": "肥羊最新docker-洛杉矶",
             "url": "https://live.wqwqwq.sbs/tv.m3u"
+        },
+        {
+            "name": "肥羊最新docker-卢森堡",
+            "url": "https://fytv.wqwqwq.sbs/tv.m3u"
         },
         {
             "name": "suxuang-ipv6",
