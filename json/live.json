@@ -1,8 +1,16 @@
 {
     "lives": [
         {
-            "name": "炸鸡翅",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/tv.m3u"
+            "name": "Moexin-cr",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
+        },
+        {
+            "name": "yuanzl77",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
+        },
+        {
+            "name": "suxuang",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
         },
         {
             "name": "ITV",
