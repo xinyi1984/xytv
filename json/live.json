@@ -26,6 +26,7 @@
                 "replace": "livemode=1,livemode=4",
                 "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
+        },
         {
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
