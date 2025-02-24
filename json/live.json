@@ -1,6 +1,10 @@
 {
     "lives": [
         {
+            "name": "炸鸡翅",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/tv.m3u"
+        },
+        {
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg": "http://epg.51zmt.top:8000/e.xml",
