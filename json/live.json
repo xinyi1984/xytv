@@ -1,6 +1,21 @@
 {
     "lives": [
         {
+            "name": "ITV",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
+            "epg": "http://epg.51zmt.top:8000/e.xml",
+            "ua": "okhttp/3.15",
+            "catchup": {
+                "type": "append",
+                "replace": "livemode=1,livemode=4",
+                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "isw866-咪咕",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/isw866/iptv/main/merged_playlist.m3u"
+        },
+        {
             "name": "hfpiao-cr",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/hfpiao/IPTV/main/Adult.m3u"
         },
@@ -19,17 +34,6 @@
         {
             "name": "hfpiao-tvbox",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/hfpiao/IPTV/main/tvbox.txt",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-            "ua": "okhttp/3.15",
-            "catchup": {
-                "type": "append",
-                "replace": "livemode=1,livemode=4",
-                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "ITV",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg": "http://epg.51zmt.top:8000/e.xml",
             "ua": "okhttp/3.15",
             "catchup": {
