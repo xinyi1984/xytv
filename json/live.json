@@ -14,7 +14,7 @@
         {
             "name": "nt01xp-ITV",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/ITV.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
             "catchup": {
