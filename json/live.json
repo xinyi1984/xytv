@@ -14,7 +14,7 @@
         {
             "name": "中国移动ITV",
             "type": 0,
-            "url": "http://xg.52sw.top/iptv/dns-itv.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/https://github.com/nt01xp/2024/main/ITV.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
             "catchup": {
