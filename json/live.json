@@ -1,6 +1,10 @@
 {
     "lives": [
         {
+            "name": "xg.52sw.top/ipt",
+            "url": "http://xg.52sw.top/iptv/itv.m3u"
+        },
+        {
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
