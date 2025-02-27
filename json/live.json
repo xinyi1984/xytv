@@ -4,6 +4,7 @@
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg":"https://e.erw.cc/all.xml,https://epg.pw/api/epg.xml?timezone=QXNpYS9Ib25nX0tvbmc%3D&date={date}&channel_id={name}&lang=zh-hans",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "okhttp/3.15",
             "catchup": {
                 "type": "append",
@@ -17,6 +18,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
             "ua": "okhttp/3.15",
             "epg":"https://e.erw.cc/all.xml,https://epg.pw/api/epg.xml?timezone=QXNpYS9Ib25nX0tvbmc%3D&date={date}&channel_id={name}&lang=zh-hans",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -28,6 +30,7 @@
             "url": "http://xg.52sw.top/iptv/dns-itv.txt",
             "ua": "okhttp/3.15",
             "epg":"https://e.erw.cc/all.xml,https://epg.pw/api/epg.xml?timezone=QXNpYS9Ib25nX0tvbmc%3D&date={date}&channel_id={name}&lang=zh-hans",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
