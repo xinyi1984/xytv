@@ -5,10 +5,6 @@
             "url": "http://xg.52sw.top/iptv/itv.m3u"
         },
         {
-            "name": "nezha",
-            "url": "http://tv.nezha.su:35455/tv.m3u"
-        },
-        {
             "name": "ITV",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
