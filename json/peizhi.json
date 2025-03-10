@@ -1,13 +1,13 @@
 {
   "aliToken": "",
-  "quarkCookie": "__pus=e7aaef4f982b78106e28fadf345540a7AAT/DVdmKr7JJn7D2B+EeDZ27VcnhcN2QTu5JvdaqsHgzcy3BK8l89Ug9srlJCnVEdqh0CRKL/NRarlEuVHn9lez;__uid=AAQka5CZx+2tP3e8tePkygpJ;__puus=8bd73e4a20f185b58959464a1ea9937bAASNSew3lLYaG0pw9Xx+zbo8pLIVmWag9pgMHPVTmLnrx9gnMfPl/JnnoC0BqYSyB8GTVlBWwGKW27WhMpIq2H1z5Gxku49Wtpv2PQUFlxoSdonf9OyArRq8tJKNK6OhbGgVulUKQrOwJP8FnDoheYneDDVMmUs0pocsCTjiOrIwExxiZK5mXVymdN6+Dk5eeg4Au6c9gZ5uKwJUUO/EDUON",
-  "ucCookie": "__pus=4f415e92f9a8fd79f6c593194bebaff0AARlq/mly6Pv153/73wrdNwv/Nh7e5fDEqpPz5LyA6TQnBTmnwlxaFQLmYnCtz4b78KS3fNAghXoAVE3Y7Clp75r;__uid=AAQHs9jMR5r/SddsDVwg3gEa;__puus=aea77f1ed96b237148b5b914df83c3e8AAT9tryyw/CbFaM3MK3syiWpLy3FP22s2FdVxyG5xA0vc7OgEKpm+hMipJIjSj7zivnDp3xkR2NSfoJ+84taKETLaKlO6KrRRaMaBhO2huTkjQbd6JW/iHc5a2yCuQa7cwvT4tv9NhDviVLh6x4DPETX844imofYr4oRoFcGIwoxSJooPM1dghR6c2VgAYkUagA=",
-  "ucToken": "eyJhbGciOiJIUzI1NiIsIlR5cGUiOiJKd3QiLCJ0eXAiOiJKV1QifQ.eyJvcGVuSWQiOiJmMDcxOTY2NDgyNjI0MGNiOTkzZmUwZmFiOWFkYmU3YSIsImV4cCI6MTc3MTg1NjA5NiwidG9rZW4iOiJjOWNhNjg3ZWE4ZTM0M2UwYTJiNDU3MGZlNGFlNGM3MiJ9.-r9g5ApBLrtyrx43Tw9ABn0QIWujHdh7LDgfQ0oJ9hw",
-  "115Cookie": "UID=102257060_F1_1741519212;CID=164a0efd489babd97753acf8ba0cc3ae;SEID=91b3ecf622faef718d37b16a2db78ca717faffc905450aebbe73286be529bde0885beedf9e9f63049d51d3bdaef3b681d7c493dee7698a70dbbd777f;KID=4c36597648f9359761bb13e7e41f33dd",
+  "quarkCookie": "",
+  "ucCookie": "",
+  "ucToken": "",
+  "115Cookie": "",
   "pwdRb115": "",
   "goServerUrl": "http://127.0.0.1:9966",
-  "ydAuth": "13765132408|Kl840922@",
-  "tyAuth": "13765132408|Kl840922.",
+  "ydAuth": "",
+  "tyAuth": "",
   "proxy": "http://127.0.0.1:1072",
   "tgPic": "false"
 }
