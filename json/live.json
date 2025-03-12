@@ -5,18 +5,6 @@
             "url": "http://xg.52sw.top/iptv/itv.m3u"
         },
         {
-            "name": "ITV",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "ua": "okhttp/3.15",
-            "catchup": {
-                "type": "append",
-                "replace": "livemode=1,livemode=4",
-                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
             "name": "nt01xp-ITV",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
