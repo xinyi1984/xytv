@@ -1,8 +1,12 @@
 {
     "lives": [
         {
-            "name": "xg.52sw.top/ipt",
-            "url": "http://xg.52sw.top/iptv/itv.m3u"
+            "name": "肥羊allinone",
+            "url": "http://tv.nezha.su:35455/tv.m3u"
+        },
+        {
+            "name": "沐辰",
+            "url": "http://itv.52sw.top:1987/Sub?type=txt"
         },
         {
             "name": "nt01xp-ITV",
