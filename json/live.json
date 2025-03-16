@@ -7,6 +7,14 @@
         {
             "name": "沐辰",
             "url": "http://itv.52sw.top:1987/Sub?type=txt"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
         },
         {
             "name": "nt01xp-ITV",
