@@ -5,8 +5,8 @@
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ydtv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://ghfast.top/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -20,8 +20,8 @@
             "name": "沐辰",
             "url": "http://itv.52sw.top:1987/Sub?type=txt",
             "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://ghfast.top/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -35,8 +35,8 @@
             "name": "沐辰1",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://ghfast.top/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -47,8 +47,8 @@
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://ghfast.top/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -59,8 +59,8 @@
             "type": 0,
             "url": "http://xg.52sw.top/iptv/dns-itv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://ghfast.top/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
