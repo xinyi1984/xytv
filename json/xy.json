@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;5b7a8c88f6779205bb278e6a24271c69",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;79d3cecf39535c29fe0bae7d18818a5f",
   "lives": [
     {
       "name": "电视直播",
@@ -128,6 +128,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "{\"site\": [\"https://mihdr.top/\"]}"
+    },
+    {
+      "key": "PanTa",
+      "name": "盘他|Pan",
+      "type": 3,
+      "api": "csp_PanTa",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
     },
     {
       "key": "KuaKeBa",
