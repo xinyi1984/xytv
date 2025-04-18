@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;ab850d662dd7a5c0fd009d0b9c0903d6",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;f21049344e954019254609b2eecbf763",
   "lives": [
     {
       "name": "电视直播",
@@ -143,6 +143,14 @@
       "name": "彼心|Pan",
       "type": 3,
       "api": "csp_BiXin",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },  {
+      "key": "TgSearch",
+      "name": "TgSearch|Pan",
+      "type": 3,
+      "api": "csp_TgSearch",
       "searchable": 1,
       "changeable": 1,
       "ext": {}
