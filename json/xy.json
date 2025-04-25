@@ -1,11 +1,11 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;36923a83468dece1896f6da8055b0ad9",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;13b55c47e2a388ab1d769790bca4b539",
   "lives": [
     {
       "name": "电视直播",
       "type": "0",
       "pass": true,
-      "url": "https://tv.iill.top/m3u/Gather",
+      "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
