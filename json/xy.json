@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;1576f49dbcf83d9fb17a7c35ffc9d953",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;6e1990abd48ba7cf192519f2f869056b",
   "lives": [
     {
       "name": "电视直播",
@@ -66,72 +66,10 @@
       "changeable": 1,
       "ext": "{\"site\": [\"https://www.wogg.net/\",\"https://wogg.xxooo.cf/\"]}"
     },
-    {
-      "key": "欧歌",
-      "name": "欧歌|Pan",
-      "type": 3,
-      "api": "csp_Mogg",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
-    },
-    {
-      "key": "多多影音",
-      "name": "多多影音|Pan",
-      "type": 3,
-      "api": "csp_DuoDuo",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"https://tv.yydsys.top/\"]}"
-    },
-    {
-      "key": "蜡笔盘盘",
-      "name": "蜡笔盘盘|Pan",
-      "type": 3,
-      "api": "csp_NaBi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"https://duopan.fun/\"]}"
-    },
-    {
-      "key": "闪电优汐",
-      "name": "闪电优汐|Pan",
-      "type": 3,
-      "api": "csp_ShanDian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"http://1.95.79.193/\"]}"
-    },
-    {
-      "key": "特下饭",
-      "name": "特下饭|Pan",
-      "type": 3,
-      "api": "csp_TeXiaFan",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"http://www.xn--ghqy10g1w0a.xyz/\",\"http://www.txfyyda.top/\",]}"
-    },
-    {
-      "key": "小米",
-      "name": "小米UC|Pan",
-      "type": 3,
-      "api": "csp_XiaoMi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"http://mucpan.cc/\",\"http://milvdou.fun/\"]}"
-    },
-    {
-      "key": "至臻视觉",
-      "name": "至臻视觉|Pan",
-      "type": 3,
-      "api": "csp_ZhiZhen",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"https://mihdr.top/\"]}"
-    },
+
     {
       "key": "PanTa",
-      "name": "盘他|Pan",
+      "name": "盘他|139Pan",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -140,7 +78,7 @@
     },
     {
       "key": "BiXin",
-      "name": "彼心|Pan",
+      "name": "彼心|189Pan",
       "type": 3,
       "api": "csp_BiXin",
       "searchable": 1,
@@ -182,15 +120,7 @@
       "changeable": 1,
       "ext": {}
     },
-    {
-      "key": "云盘资源网",
-      "name": "云盘资源网",
-      "type": 3,
-      "api": "csp_YunPanZiYuan",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": ""
-    },
+
     {
       "key": "XuanFeng",
       "name": "旋风影视",
