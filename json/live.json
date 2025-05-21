@@ -3,19 +3,32 @@
         {
             "name": "欧菲直播",
             "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u"
+        },,
+        {
+            "name": "YanG-1989-电视直播",
+            "ua": "okhttp/3.15",
+            "url": "https://tv.iill.top/m3u/Gather"
+        },
+        {
+            "name": "YanG-1989-网络直播",
+            "ua": "okhttp/3.15",
+            "url": "https://tv.iill.top/m3u/Live"
+        },
+        {
+            "name": "YanG-1989-MyTV直播",
+            "ua": "okhttp/3.15",
+            "url": "https://tv.iill.top/m3u/MyTV"
+        },
+        {
+            "name": "YanG-1989-体育直播",
+            "ua": "okhttp/3.15",
+            "url": "https://tv.iill.top/m3u/Sport"
         },
         {
             "name": "YanG-1989-影视json",
+            "type": 1,
+            "ua": "okhttp/3.15",
             "url": "https://tv.iill.top/json/Gather+"
-        },
-        {
-            "name": "BeeSport直播(python)",
-            "type": 3,
-            "api": "https://json.doube.eu.org/python/live_beesport.py",
-            "ext": {},
-            "header": {
-                "Referer": "https://p.m82xg4z0cdbz7.com/"
-            }
         },
         {
             "name": "咪咕体育直播",
