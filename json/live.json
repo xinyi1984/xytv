@@ -1,63 +1,41 @@
 {
     "lives": [
         {
+            "name": "欧菲直播",
+            "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u"
+        },
+        {
+            "name": "YanG-1989-电视直播",
+            "url": "https://tv.iill.top/m3u/Gather"
+        },
+        {
+            "name": "YanG-1989-网络直播",
+            "url": "https://tv.iill.top/m3u/Live"
+        },
+        {
+            "name": "YanG-1989-MyTV直播",
+            "url": "https://tv.iill.top/m3u/MyTV"
+        },
+        {
+            "name": "YanG-1989-体育直播",
+            "url": "https://tv.iill.top/m3u/Sport"
+        }
+        {
+            "name": "YanG-1989-影视json",
+            "type": 0,
+            "url": "https://tv.iill.top/json/Gather",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
             "name": "中国移动ITV-1",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/ydtv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "肥羊allinone",
-            "url": "http://tv.nezha.su:35455/tv.m3u"
-        },
-        {
-            "name": "沐辰",
-            "url": "http://itv.52sw.top:1987/Sub?type=txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "肥羊allinone-1",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/tv.m3u"
-        },
-        {
-            "name": "沐辰1",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/itv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "nt01xp-ITV",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/nt01xp/2024/main/itv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "中国移动ITV",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/dns-itv.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png",
