@@ -22,15 +22,8 @@
         },
         {
             "name": "YanG-1989-影视json",
-            "type": 0,
-            "url": "https://tv.iill.top/json/Gather",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
+            "type": 1,
+            "url": "https://tv.iill.top/json/Gather"
         },
         {
             "name": "中国移动ITV-1",
