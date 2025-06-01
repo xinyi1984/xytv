@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;f0f63ba2f0fbce2ac17276b58413c7cb",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;a6413e085c46ca596ed46e1bea018230",
   "lives": [
     {
       "name": "电视直播",
@@ -72,6 +72,15 @@
       "name": "盘他|139Pan",
       "type": 3,
       "api": "csp_PanTa",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "LeiJing",
+      "name": "雷鲸|189Pan",
+      "type": 3,
+      "api": "csp_LeiJing",
       "searchable": 1,
       "changeable": 1,
       "ext": {}
