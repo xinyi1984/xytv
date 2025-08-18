@@ -1,9 +1,0 @@
-{
-  "plugins": [
-      {
-      "name": "汽水",
-      "url": "https://raw.githubusercontent.com/jiyiv5/musicfree/refs/heads/main/qishui.js",
-      "version": "0.1.0"
-    }
-  ]
-}
