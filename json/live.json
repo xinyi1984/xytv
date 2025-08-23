@@ -1,5 +1,17 @@
 {
     "lives": [
+			{
+				"name": "FeiYang牧场",
+				"type": 0,
+				"url": "http://sub.ottiptv.cc/iptv.m3u",
+				"ua": "okHttp/Mod-1.1.0",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+			},
         {
             "name": "咪咕体育",
             "type": 0,
@@ -15,7 +27,7 @@
         {
             "name": "YanG-1989-电视直播",
             "ua": "okhttp/3.15",
-            "url": "https://tv.iill.top/m3u/Gather"
+            "url": "https://tv-1.iill.top/m3u/Gather"
         },
         {
             "name": "suxuang",
