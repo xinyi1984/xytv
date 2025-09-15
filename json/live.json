@@ -4,7 +4,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "http://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.2.0.1",
+            "ua": "okHttp/Mod-1.4.0.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
@@ -27,22 +27,22 @@
         {
             "name": "YanG-1989-电视直播",
             "ua": "okhttp/3.15",
-            "url": "https://tv-1.iill.top/m3u/Gather"
+            "url": "https://tv.iill.top/m3u/Gather"
         },
         {
             "name": "YanG-1989-网络直播",
             "ua": "okhttp/3.15",
-            "url": "https://tv-1.iill.top/m3u/Live"
+            "url": "https://m.iill.top/Live.m3u"
         },
         {
             "name": "YanG-1989-MyTV直播",
             "ua": "okhttp/3.15",
-            "url": "https://tv-1.iill.top/m3u/MyTV"
+            "url": "https://tv.iill.top/m3u/MyTV"
         },
         {
             "name": "YanG-1989-体育直播",
             "ua": "okhttp/3.15",
-            "url": "https://tv-1.iill.top/m3u/Sport"
+            "url": "https://tv.iill.top/m3u/Sport"
         }
     ],
     "hosts": [
