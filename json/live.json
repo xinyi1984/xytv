@@ -15,7 +15,7 @@
         {
             "name": "咪咕体育",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/咪咕体育.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/咪咕体育.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png",
@@ -27,7 +27,22 @@
         {
             "name": "Guovin-电视直播",
             "ua": "okhttp/3.15",
-            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/ipv6/result.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/ipv6/result.m3u"
+        },
+        {
+            "name": "HerbertHe-电视直播",
+            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/all.m3u"
+        },
+        {
+            "name": "suxuang-电视直播-ipv4",
+            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+        },
+        {
+            "name": "vbskycn-电视直播",
+            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u"
         },
         {
             "name": "YanG-1989-电视直播",
