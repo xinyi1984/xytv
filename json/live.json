@@ -30,9 +30,9 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/ipv6/result.m3u"
         },
         {
-            "name": "HerbertHe-电视直播",
+            "name": "fanmingming-电视直播",
             "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/all.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"
         },
         {
             "name": "suxuang-电视直播-ipv4",
