@@ -40,9 +40,9 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/cn.m3u"
         },
         {
-            "name": "suxuang-电视直播-ipv6",
+            "name": "CCSH-电视直播-ipv6",
             "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
         },
         {
             "name": "suxuang-电视直播-ipv4",
