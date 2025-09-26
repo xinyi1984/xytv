@@ -55,6 +55,18 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u"
         },
         {
+            "name": "欧华-电视直播",
+            "ua": "okhttp/3.15",
+            "url": "http://xg.52sw.top/iptv/欧华.m3u"
+        },
+        {
+            "name": "FYTV-电视直播",
+            "ua": "okhttp/3.15",
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
             "name": "YanG-1989-电视直播",
             "ua": "okhttp/3.15",
             "url": "https://tv.iill.top/m3u/Gather"
