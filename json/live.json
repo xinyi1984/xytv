@@ -35,9 +35,9 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"
         },
         {
-            "name": "suxuang-电视直播-小肥羊",
+            "name": "HerbertHe-电视直播",
             "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/小肥羊.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/cn.m3u"
         },
         {
             "name": "suxuang-电视直播-ipv6",
