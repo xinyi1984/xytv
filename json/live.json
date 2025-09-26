@@ -30,19 +30,9 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/ipv6/result.m3u"
         },
         {
-            "name": "lalifeier-电视直播",
-            "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/IPTV.m3u"
-        },
-        {
             "name": "HerbertHe-电视直播",
             "ua": "okhttp/3.15",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/cn.m3u"
-        },
-        {
-            "name": "CCSH-电视直播-ipv6",
-            "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
         },
         {
             "name": "suxuang-电视直播-ipv4",
