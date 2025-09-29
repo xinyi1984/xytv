@@ -6,19 +6,19 @@
                 "name": "20250929-0211",
                 "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "電視-java-v7a"
+                "version": "電視-java+py-v7a"
             },
             {
                 "name": "20250929-0211",
                 "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "電視-java-v8a"
+                "version": "電視-java+py-v8a"
             },
             {
                 "name": "20250929-0211",
                 "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "手機-java-v8a"
+                "version": "手機-java+py-v8a"
             }
         ]
     },
