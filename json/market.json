@@ -4,19 +4,19 @@
         "list": [
             {
                 "name": "20251017-1855",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/leanback-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "電視-java+py-v7a"
             },
             {
                 "name": "20251017-1855",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/leanback-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/leanback-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "電視-java+py-v8a"
             },
             {
                 "name": "20251017-1855",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/release/mobile-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/mobile-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "手機-java+py-v8a"
             }
@@ -83,30 +83,25 @@
         "list": [
             {
                 "name": "電視-java+py",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-java-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "電視-java+py",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v8a"
             },
             {
-                "name": "kitkat-Android-4.x",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/kitkat/leanback.apk",
-                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png"
-            },
-            {
                 "name": "手機-java+py",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-java-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手機-java+py",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-java-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v8a"
             }
