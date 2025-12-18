@@ -4,21 +4,39 @@
         "list": [
             {
                 "name": "20251218-2238",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/leanback-armeabi_v7a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk21/leanback-armeabi_v7a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "電視-java+py-v7a"
+                "version": "minSdk21 電視-java-v7a"
             },
             {
                 "name": "20251218-2238",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/leanback-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk21/leanback-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "電視-java+py-v8a"
+                "version": "minSdk21 電視-java-v8a"
             },
             {
                 "name": "20251218-2238",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/mobile-arm64_v8a.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk23/mobile-arm64_v8a.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
-                "version": "手機-java+py-v8a"
+                "version": "minSdk23 手機-java-v8a"
+            },
+            {
+                "name": "20251218-2238",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk23/leanback-armeabi_v7a.apk",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
+                "version": "minSdk23 電視-java-v7a"
+            },
+            {
+                "name": "20251218-2238",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk21/leanback-arm64_v8a.apk",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
+                "version": "minSdk23 電視-java-v8a"
+            },
+            {
+                "name": "20251218-2238",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TVBox-TV/fongmi/apk/minSdk23/mobile-arm64_v8a.apk",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
+                "version": "minSdk23 手機-java-v8a"
             }
         ]
     },
