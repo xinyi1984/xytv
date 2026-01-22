@@ -4,7 +4,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "https://live.ottiptv.cc/iptv.m3u?userid=7154711600&sign=6fc691bed4f8cd34fc883d9e59d305c45dd31b08f2a22f9f5c913c17c85bb1deb473d387cca3a1fe5f67709ea8dae69d855dee8f03fc650fd4ea87fc3af78bb1b9f45e3cea048e&auth_token=d1bb81b5e46fdd0e1fce78d0cad8a35c",
-            "ua": "okHttp/Mod-1.4.0.0",
+            "ua": "okHttp/Mod-1.5.0.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
