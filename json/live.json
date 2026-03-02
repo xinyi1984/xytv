@@ -13,6 +13,26 @@
             }
         },
         {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "develop202",
+            "type": 0,
+            "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "范明明（需开启V6网络）",
+            "type": 0,
+            "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+            "playerType": 2
+        },
+        {
             "name": "咪咕体育",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/咪咕体育.txt",
@@ -45,24 +65,11 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u"
         },
         {
-            "name": "YanG-1989-电视直播",
-            "ua": "okhttp/3.15",
-            "url": "https://tv.iill.top/m3u/Gather"
-        },
-        {
-            "name": "YanG-1989-网络直播",
-            "ua": "okhttp/3.15",
-            "url": "https://m.iill.top/Live.m3u"
-        },
-        {
-            "name": "YanG-1989-MyTV直播",
-            "ua": "okhttp/3.15",
-            "url": "https://tv.iill.top/m3u/MyTV"
-        },
-        {
-            "name": "YanG-1989-体育直播",
-            "ua": "okhttp/3.15",
-            "url": "https://tv.iill.top/m3u/Sport"
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://ds65.tv1288.xyz",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
     "hosts": [
