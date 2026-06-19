@@ -45,7 +45,7 @@
         "list": [
             {
                 "name": "電視-java+py",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk"
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/log/log/fm.png",
                 "version": "v7a"
             },
