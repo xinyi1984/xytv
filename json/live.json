@@ -3,7 +3,7 @@
         {
             "name": "FeiYang牧场",
             "type": 0,
-            "url": "https://live.ottiptv.cc/iptv.m3u?userid=7154711600&sign=7116ce347210ba94d6c811fb10c2a57a95fddc8e6d23752b70a72b08457098b758235b8b32cb1843608b9f60af159ef27ac371c1b1421698d1596baebb9699ab0985a8d6d0767a&auth_token=d1bb81b5e46fdd0e1fce78d0cad8a35c",
+            "url": "https://mursor.ottiptv.cc/iptv.m3u?userid=7154711600&sign=0c0f7303e566cc9069316d8d6f73dfc552c042f363ec60289af27587fd694d42129790121158396eee4e8506caf7b03929b80482aea43a1879a031b83effc43774b3614b9e3518&auth_token=d1bb81b5e46fdd0e1fce78d0cad8a35c",
             "ua": "qqlive",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
